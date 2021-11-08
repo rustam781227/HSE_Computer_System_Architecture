@@ -1,0 +1,1001 @@
+There are 1000 objects:
+Triangle: (x1, y1) = (22, 73), (x2, y2) = (72, 53), (x3, y3) = (-62, 37), color = red, area = 1739.9999999999982
+Circle: center = (38, -8), radius = 72, color = blue, area = 16286.016316209487
+Rectangle: (x1, y1) = (-1, -16), (x2, y2) = (48, -42), color = violet, area = 1274
+Rectangle: (x1, y1) = (88, 55), (x2, y2) = (99, -94), color = orange, area = 1639
+Circle: center = (21, 6), radius = 80, color = orange, area = 20106.192982974677
+Circle: center = (74, -40), radius = 23, color = red, area = 1661.9025137490005
+Triangle: (x1, y1) = (38, -21), (x2, y2) = (24, -96), (x3, y3) = (-77, 92), color = , area = 5103.499999999994
+Triangle: (x1, y1) = (38, -29), (x2, y2) = (16, -72), (x3, y3) = (-12, -44), color = dark blue, area = 910.0000000000002
+Rectangle: (x1, y1) = (74, 73), (x2, y2) = (98, -21), color = orange, area = 2256
+Circle: center = (-25, 38), radius = 60, color = dark blue, area = 11309.733552923255
+Rectangle: (x1, y1) = (51, -53), (x2, y2) = (74, -60), color = blue, area = 161
+Rectangle: (x1, y1) = (45, -54), (x2, y2) = (57, -66), color = , area = 144
+Rectangle: (x1, y1) = (98, -89), (x2, y2) = (100, -91), color = , area = 4
+Triangle: (x1, y1) = (95, 59), (x2, y2) = (-93, 31), (x3, y3) = (-14, 40), color = blue, area = 260.00000000000676
+Circle: center = (13, 12), radius = 43, color = green, area = 5808.804816487527
+Circle: center = (63, 80), radius = 68, color = violet, area = 14526.724430199203
+Circle: center = (14, 0), radius = 12, color = , area = 452.3893421169302
+Rectangle: (x1, y1) = (-76, -50), (x2, y2) = (64, -51), color = green, area = 140
+Circle: center = (8, 59), radius = 22, color = , area = 1520.53084433746
+Rectangle: (x1, y1) = (55, -65), (x2, y2) = (95, -94), color = yellow, area = 1160
+Rectangle: (x1, y1) = (47, -59), (x2, y2) = (87, -78), color = blue, area = 760
+Circle: center = (-21, 31), radius = 80, color = violet, area = 20106.192982974677
+Rectangle: (x1, y1) = (37, 29), (x2, y2) = (90, 20), color = red, area = 477
+Triangle: (x1, y1) = (-88, 42), (x2, y2) = (17, 16), (x3, y3) = (4, 29), color = blue, area = 513.4999999999993
+Triangle: (x1, y1) = (71, 37), (x2, y2) = (59, -97), (x3, y3) = (97, 37), color = yellow, area = 1742.0000000000023
+Rectangle: (x1, y1) = (-77, -43), (x2, y2) = (61, -80), color = green, area = 5106
+Circle: center = (-51, 80), radius = 24, color = violet, area = 1809.5573684677208
+Rectangle: (x1, y1) = (-8, -69), (x2, y2) = (5, -83), color = blue, area = 182
+Triangle: (x1, y1) = (52, -98), (x2, y2) = (94, 21), (x3, y3) = (-30, 17), color = red, area = 7294.000000000002
+Circle: center = (83, 81), radius = 69, color = blue, area = 14957.122623741005
+Triangle: (x1, y1) = (9, 22), (x2, y2) = (-65, -33), (x3, y3) = (36, 4), color = green, area = 1408.4999999999998
+Triangle: (x1, y1) = (-40, 16), (x2, y2) = (42, 10), (x3, y3) = (37, 36), color = violet, area = 1050.9999999999995
+Circle: center = (-16, 41), radius = 4, color = violet, area = 50.26548245743669
+Triangle: (x1, y1) = (54, -19), (x2, y2) = (7, 45), (x3, y3) = (74, 53), color = blue, area = 2331.999999999999
+Triangle: (x1, y1) = (69, -41), (x2, y2) = (98, -64), (x3, y3) = (-92, -93), color = green, area = 2605.499999999995
+Circle: center = (97, -65), radius = 10, color = orange, area = 314.1592653589793
+Triangle: (x1, y1) = (26, -12), (x2, y2) = (-99, -79), (x3, y3) = (-21, -31), color = , area = 387.0000000000031
+Triangle: (x1, y1) = (82, -73), (x2, y2) = (-3, -60), (x3, y3) = (-74, 86), color = red, area = 5743.500000000002
+Rectangle: (x1, y1) = (67, 24), (x2, y2) = (93, -71), color = violet, area = 2470
+Circle: center = (-29, -81), radius = 17, color = yellow, area = 907.9202768874502
+Circle: center = (-59, -52), radius = 11, color = violet, area = 380.132711084365
+Circle: center = (-31, -90), radius = 35, color = red, area = 3848.4510006474966
+Triangle: (x1, y1) = (49, -53), (x2, y2) = (65, -79), (x3, y3) = (38, 31), color = , area = 528.9999999999998
+Triangle: (x1, y1) = (-44, 56), (x2, y2) = (-24, -3), (x3, y3) = (-72, -77), color = , area = 2156.000000000001
+Rectangle: (x1, y1) = (-47, -18), (x2, y2) = (95, -66), color = green, area = 6816
+Circle: center = (100, -88), radius = 13, color = green, area = 530.929158456675
+Triangle: (x1, y1) = (53, 50), (x2, y2) = (33, -67), (x3, y3) = (71, -31), color = green, area = 1862.999999999997
+Circle: center = (-78, 80), radius = 81, color = violet, area = 20611.989400202634
+Circle: center = (97, -76), radius = 32, color = green, area = 3216.990877275948
+Triangle: (x1, y1) = (2, 92), (x2, y2) = (69, -90), (x3, y3) = (-30, 91), color = green, area = 2945.4999999999995
+Rectangle: (x1, y1) = (-87, 20), (x2, y2) = (-23, -40), color = orange, area = 3840
+Triangle: (x1, y1) = (-90, 76), (x2, y2) = (10, -1), (x3, y3) = (-21, -8), color = red, area = 1543.5000000000002
+Circle: center = (72, 76), radius = 17, color = blue, area = 907.9202768874502
+Circle: center = (56, -1), radius = 84, color = blue, area = 22167.07776372958
+Rectangle: (x1, y1) = (-7, 20), (x2, y2) = (34, -8), color = yellow, area = 1148
+Triangle: (x1, y1) = (-89, -44), (x2, y2) = (-26, 30), (x3, y3) = (-76, -64), color = green, area = 1110.9999999999993
+Circle: center = (-42, -88), radius = 49, color = green, area = 7542.9639612690935
+Triangle: (x1, y1) = (-79, -38), (x2, y2) = (26, -7), (x3, y3) = (31, -14), color = red, area = 445.00000000000034
+Rectangle: (x1, y1) = (32, 84), (x2, y2) = (49, -46), color = blue, area = 2210
+Circle: center = (83, 55), radius = 5, color = orange, area = 78.53981633974483
+Triangle: (x1, y1) = (-29, 58), (x2, y2) = (37, -28), (x3, y3) = (-46, -72), color = green, area = 5021.000000000001
+Circle: center = (-42, 10), radius = 99, color = blue, area = 30790.74959783356
+Rectangle: (x1, y1) = (40, 11), (x2, y2) = (41, -32), color = yellow, area = 43
+Rectangle: (x1, y1) = (-24, 0), (x2, y2) = (-2, -98), color = green, area = 2156
+Triangle: (x1, y1) = (-83, 17), (x2, y2) = (20, 30), (x3, y3) = (93, 16), color = yellow, area = 1195.499999999995
+Circle: center = (-22, 16), radius = 73, color = green, area = 16741.54725098001
+Circle: center = (-67, 67), radius = 20, color = dark blue, area = 1256.6370614359173
+Circle: center = (-57, -4), radius = 57, color = violet, area = 10207.034531513238
+Circle: center = (-37, 58), radius = 2, color = blue, area = 12.566370614359172
+Rectangle: (x1, y1) = (18, -99), (x2, y2) = (88, -100), color = red, area = 70
+Triangle: (x1, y1) = (-64, 41), (x2, y2) = (-10, 15), (x3, y3) = (56, 30), color = red, area = 1262.9999999999977
+Triangle: (x1, y1) = (-88, -72), (x2, y2) = (46, -89), (x3, y3) = (-98, -7), color = dark blue, area = 4270.000000000005
+Rectangle: (x1, y1) = (85, 100), (x2, y2) = (100, 29), color = dark blue, area = 1065
+Triangle: (x1, y1) = (-92, 36), (x2, y2) = (-50, 38), (x3, y3) = (-72, 56), color = dark blue, area = 399.99999999999994
+Circle: center = (-57, -50), radius = 83, color = yellow, area = 21642.431790580085
+Triangle: (x1, y1) = (68, -90), (x2, y2) = (-53, -73), (x3, y3) = (89, -24), color = violet, area = 4171.500000000001
+Rectangle: (x1, y1) = (-36, -48), (x2, y2) = (1, -85), color = dark blue, area = 1369
+Rectangle: (x1, y1) = (74, 60), (x2, y2) = (99, 7), color = , area = 1325
+Triangle: (x1, y1) = (-66, 2), (x2, y2) = (-11, 35), (x3, y3) = (87, 57), color = orange, area = 1011.9999999999926
+Rectangle: (x1, y1) = (16, -13), (x2, y2) = (96, -88), color = blue, area = 6000
+Triangle: (x1, y1) = (62, -65), (x2, y2) = (-38, -26), (x3, y3) = (48, -53), color = blue, area = 326.999999999999
+Circle: center = (61, -67), radius = 96, color = yellow, area = 28952.917895483533
+Circle: center = (40, -67), radius = 38, color = yellow, area = 4536.459791783661
+Rectangle: (x1, y1) = (79, 76), (x2, y2) = (100, -29), color = violet, area = 2205
+Circle: center = (-43, 9), radius = 4, color = dark blue, area = 50.26548245743669
+Circle: center = (27, -48), radius = 85, color = yellow, area = 22698.006922186254
+Circle: center = (-60, 52), radius = 77, color = violet, area = 18626.502843133883
+Triangle: (x1, y1) = (-77, 56), (x2, y2) = (-95, -47), (x3, y3) = (-78, -50), color = green, area = 902.4999999999994
+Circle: center = (-36, -41), radius = 60, color = dark blue, area = 11309.733552923255
+Circle: center = (-42, 28), radius = 3, color = green, area = 28.274333882308138
+Triangle: (x1, y1) = (33, 12), (x2, y2) = (66, -76), (x3, y3) = (82, -3), color = yellow, area = 1908.499999999999
+Triangle: (x1, y1) = (77, -35), (x2, y2) = (44, 94), (x3, y3) = (-27, -31), color = yellow, area = 6642.000000000001
+Circle: center = (-100, 23), radius = 54, color = orange, area = 9160.884177867836
+Rectangle: (x1, y1) = (-99, 50), (x2, y2) = (10, -46), color = orange, area = 10464
+Triangle: (x1, y1) = (66, 95), (x2, y2) = (-6, 78), (x3, y3) = (64, 3), color = dark blue, area = 3295.000000000001
+Rectangle: (x1, y1) = (98, -83), (x2, y2) = (100, -91), color = violet, area = 16
+Triangle: (x1, y1) = (2, -19), (x2, y2) = (-93, 41), (x3, y3) = (-74, -45), color = , area = 3514.999999999999
+Triangle: (x1, y1) = (84, 80), (x2, y2) = (-21, 53), (x3, y3) = (-35, -36), color = , area = 4483.499999999997
+Triangle: (x1, y1) = (97, -96), (x2, y2) = (-47, -64), (x3, y3) = (-35, 99), color = green, area = 11928.000000000004
+Circle: center = (57, -84), radius = 79, color = red, area = 19606.6797510539
+Rectangle: (x1, y1) = (-7, 4), (x2, y2) = (41, -10), color = violet, area = 672
+Rectangle: (x1, y1) = (8, 21), (x2, y2) = (33, -12), color = , area = 825
+Circle: center = (14, 63), radius = 79, color = yellow, area = 19606.6797510539
+Circle: center = (71, 16), radius = 19, color = red, area = 1134.1149479459152
+Circle: center = (-77, 54), radius = 10, color = orange, area = 314.1592653589793
+Rectangle: (x1, y1) = (61, -55), (x2, y2) = (77, -71), color = violet, area = 256
+Rectangle: (x1, y1) = (12, 69), (x2, y2) = (97, -81), color = green, area = 12750
+Rectangle: (x1, y1) = (-15, 95), (x2, y2) = (32, -7), color = blue, area = 4794
+Circle: center = (-77, 31), radius = 49, color = blue, area = 7542.9639612690935
+Rectangle: (x1, y1) = (-41, 98), (x2, y2) = (100, 77), color = red, area = 2961
+Triangle: (x1, y1) = (-77, 63), (x2, y2) = (33, -60), (x3, y3) = (-90, 70), color = green, area = 414.50000000001666
+Circle: center = (81, 36), radius = 54, color = violet, area = 9160.884177867836
+Circle: center = (-30, 13), radius = 32, color = blue, area = 3216.990877275948
+Triangle: (x1, y1) = (-64, -72), (x2, y2) = (55, 76), (x3, y3) = (-13, -24), color = dark blue, area = 918.0000000000134
+Circle: center = (31, 5), radius = 94, color = orange, area = 27759.112687119414
+Circle: center = (6, -84), radius = 65, color = orange, area = 13273.228961416877
+Circle: center = (24, -32), radius = 14, color = orange, area = 615.7521601035994
+Circle: center = (76, 66), radius = 53, color = dark blue, area = 8824.73376393373
+Triangle: (x1, y1) = (-2, 54), (x2, y2) = (28, -61), (x3, y3) = (-76, 68), color = green, area = 4044.999999999997
+Circle: center = (-95, -100), radius = 56, color = red, area = 9852.03456165759
+Rectangle: (x1, y1) = (17, 29), (x2, y2) = (25, 28), color = orange, area = 8
+Triangle: (x1, y1) = (47, -60), (x2, y2) = (45, 37), (x3, y3) = (-54, -11), color = orange, area = 4849.5
+Rectangle: (x1, y1) = (49, -77), (x2, y2) = (78, -87), color = red, area = 290
+Circle: center = (-85, -87), radius = 50, color = blue, area = 7853.981633974483
+Triangle: (x1, y1) = (-47, -75), (x2, y2) = (79, 89), (x3, y3) = (38, 70), color = blue, area = 2164.9999999999977
+Circle: center = (-87, -74), radius = 31, color = dark blue, area = 3019.0705400997913
+Triangle: (x1, y1) = (60, -91), (x2, y2) = (96, 94), (x3, y3) = (94, 61), color = , area = 409.00000000000415
+Circle: center = (94, -38), radius = 77, color = blue, area = 18626.502843133883
+Rectangle: (x1, y1) = (26, -25), (x2, y2) = (39, -54), color = red, area = 377
+Triangle: (x1, y1) = (-47, 41), (x2, y2) = (-27, 88), (x3, y3) = (-40, 25), color = , area = 324.49999999999955
+Circle: center = (21, 91), radius = 82, color = violet, area = 21124.069002737768
+Triangle: (x1, y1) = (41, -89), (x2, y2) = (64, -49), (x3, y3) = (-41, 66), color = violet, area = 3422.5000000000027
+Triangle: (x1, y1) = (-92, -5), (x2, y2) = (33, -63), (x3, y3) = (71, -48), color = dark blue, area = 2039.500000000002
+Circle: center = (46, 37), radius = 52, color = blue, area = 8494.8665353068
+Triangle: (x1, y1) = (94, -52), (x2, y2) = (3, 30), (x3, y3) = (49, -12), color = yellow, area = 25.000000000063743
+Circle: center = (-99, -88), radius = 51, color = dark blue, area = 8171.282491987052
+Triangle: (x1, y1) = (29, -3), (x2, y2) = (-94, 77), (x3, y3) = (100, 77), color = dark blue, area = 7760.000000000004
+Triangle: (x1, y1) = (-43, -10), (x2, y2) = (-11, 75), (x3, y3) = (80, 80), color = yellow, area = 3787.5000000000027
+Rectangle: (x1, y1) = (-17, 3), (x2, y2) = (15, -55), color = , area = 1856
+Circle: center = (-55, 90), radius = 86, color = violet, area = 23235.21926595011
+Triangle: (x1, y1) = (100, -53), (x2, y2) = (-57, -54), (x3, y3) = (69, -92), color = dark blue, area = 3046.0000000000023
+Triangle: (x1, y1) = (-91, -51), (x2, y2) = (96, -56), (x3, y3) = (100, -21), color = green, area = 3282.499999999999
+Triangle: (x1, y1) = (-2, -48), (x2, y2) = (18, 21), (x3, y3) = (32, -12), color = green, area = 813.000000000001
+Triangle: (x1, y1) = (69, 35), (x2, y2) = (63, -23), (x3, y3) = (5, 12), color = yellow, area = 1787.0000000000002
+Triangle: (x1, y1) = (-81, -56), (x2, y2) = (-36, -60), (x3, y3) = (-61, -86), color = yellow, area = 635.0
+Circle: center = (52, 36), radius = 37, color = green, area = 4300.840342764427
+Circle: center = (81, -22), radius = 37, color = green, area = 4300.840342764427
+Triangle: (x1, y1) = (76, -2), (x2, y2) = (21, 52), (x3, y3) = (-62, 74), color = dark blue, area = 1636.000000000002
+Circle: center = (89, 78), radius = 40, color = green, area = 5026.548245743669
+Rectangle: (x1, y1) = (12, 16), (x2, y2) = (22, -90), color = yellow, area = 1060
+Circle: center = (71, -51), radius = 92, color = green, area = 26590.440219984008
+Circle: center = (-79, -72), radius = 24, color = , area = 1809.5573684677208
+Rectangle: (x1, y1) = (-44, 21), (x2, y2) = (-39, -43), color = red, area = 320
+Triangle: (x1, y1) = (55, 62), (x2, y2) = (59, -100), (x3, y3) = (43, -18), color = , area = 1131.9999999999989
+Triangle: (x1, y1) = (47, -64), (x2, y2) = (29, -56), (x3, y3) = (-74, 90), color = , area = 902.0000000000055
+Rectangle: (x1, y1) = (91, 19), (x2, y2) = (100, -62), color = dark blue, area = 729
+Triangle: (x1, y1) = (2, 18), (x2, y2) = (98, 47), (x3, y3) = (24, 53), color = orange, area = 1360.9999999999993
+Circle: center = (-94, 21), radius = 51, color = red, area = 8171.282491987052
+Rectangle: (x1, y1) = (43, -14), (x2, y2) = (87, -76), color = yellow, area = 2728
+Circle: center = (-94, 27), radius = 99, color = orange, area = 30790.74959783356
+Circle: center = (54, -3), radius = 89, color = red, area = 24884.55540908475
+Triangle: (x1, y1) = (4, 6), (x2, y2) = (-3, 8), (x3, y3) = (4, -62), color = orange, area = 237.9999999999997
+Triangle: (x1, y1) = (-64, 79), (x2, y2) = (-37, 38), (x3, y3) = (17, -55), color = yellow, area = 148.50000000000742
+Triangle: (x1, y1) = (-53, -30), (x2, y2) = (-56, 20), (x3, y3) = (-68, -92), color = blue, area = 467.999999999995
+Circle: center = (-29, -84), radius = 39, color = orange, area = 4778.362426110075
+Circle: center = (8, 61), radius = 50, color = red, area = 7853.981633974483
+Circle: center = (-24, -53), radius = 29, color = green, area = 2642.079421669016
+Rectangle: (x1, y1) = (-73, -5), (x2, y2) = (87, -54), color = violet, area = 7840
+Circle: center = (31, -73), radius = 57, color = , area = 10207.034531513238
+Triangle: (x1, y1) = (-88, 12), (x2, y2) = (-53, 26), (x3, y3) = (-36, -71), color = orange, area = 1816.4999999999998
+Triangle: (x1, y1) = (-16, 55), (x2, y2) = (19, 95), (x3, y3) = (-58, 75), color = orange, area = 1190.0000000000007
+Circle: center = (9, -17), radius = 61, color = yellow, area = 11689.86626400762
+Triangle: (x1, y1) = (-100, -7), (x2, y2) = (-39, 41), (x3, y3) = (95, -48), color = orange, area = 5930.500000000001
+Rectangle: (x1, y1) = (32, 40), (x2, y2) = (92, -29), color = violet, area = 4140
+Triangle: (x1, y1) = (9, -58), (x2, y2) = (-32, 5), (x3, y3) = (18, 28), color = yellow, area = 2046.5000000000002
+Circle: center = (-22, 33), radius = 95, color = yellow, area = 28352.873698647883
+Circle: center = (-26, -93), radius = 78, color = orange, area = 19113.4497044403
+Circle: center = (26, 6), radius = 1, color = red, area = 3.141592653589793
+Triangle: (x1, y1) = (61, 95), (x2, y2) = (-58, 61), (x3, y3) = (50, 56), color = red, area = 2133.4999999999977
+Circle: center = (-83, -58), radius = 22, color = red, area = 1520.53084433746
+Rectangle: (x1, y1) = (73, 69), (x2, y2) = (89, -20), color = yellow, area = 1424
+Circle: center = (-8, -19), radius = 100, color = , area = 31415.926535897932
+Triangle: (x1, y1) = (24, 14), (x2, y2) = (-55, 91), (x3, y3) = (29, -62), color = green, area = 2809.4999999999977
+Triangle: (x1, y1) = (-9, 81), (x2, y2) = (38, 61), (x3, y3) = (-39, -99), color = green, area = 4530.0
+Circle: center = (-18, 50), radius = 91, color = orange, area = 26015.528764377075
+Rectangle: (x1, y1) = (39, -56), (x2, y2) = (72, -69), color = dark blue, area = 429
+Circle: center = (-61, -64), radius = 42, color = red, area = 5541.769440932395
+Triangle: (x1, y1) = (7, 36), (x2, y2) = (82, 17), (x3, y3) = (10, 52), color = dark blue, area = 628.5
+Rectangle: (x1, y1) = (34, 34), (x2, y2) = (73, -77), color = green, area = 4329
+Triangle: (x1, y1) = (-10, 16), (x2, y2) = (-43, 74), (x3, y3) = (87, 21), color = , area = 2895.4999999999955
+Circle: center = (68, 29), radius = 86, color = blue, area = 23235.21926595011
+Rectangle: (x1, y1) = (72, 44), (x2, y2) = (83, 29), color = dark blue, area = 165
+Circle: center = (93, 58), radius = 17, color = green, area = 907.9202768874502
+Rectangle: (x1, y1) = (93, -96), (x2, y2) = (99, -99), color = red, area = 18
+Circle: center = (54, -90), radius = 88, color = violet, area = 24328.49350939936
+Circle: center = (75, -27), radius = 98, color = red, area = 30171.855845076374
+Triangle: (x1, y1) = (51, -16), (x2, y2) = (55, 93), (x3, y3) = (92, 39), color = orange, area = 2124.5
+Circle: center = (-29, 25), radius = 32, color = dark blue, area = 3216.990877275948
+Circle: center = (-64, -79), radius = 28, color = yellow, area = 2463.0086404143976
+Rectangle: (x1, y1) = (36, -80), (x2, y2) = (37, -84), color = violet, area = 4
+Rectangle: (x1, y1) = (88, -32), (x2, y2) = (98, -43), color = dark blue, area = 110
+Triangle: (x1, y1) = (49, -68), (x2, y2) = (-100, 7), (x3, y3) = (78, 25), color = orange, area = 8016.000000000001
+Circle: center = (-100, 46), radius = 32, color = dark blue, area = 3216.990877275948
+Circle: center = (-5, -80), radius = 51, color = red, area = 8171.282491987052
+Triangle: (x1, y1) = (-13, -38), (x2, y2) = (-51, -38), (x3, y3) = (36, -12), color = , area = 494.00000000000125
+Rectangle: (x1, y1) = (-48, 98), (x2, y2) = (60, -47), color = , area = 15660
+Rectangle: (x1, y1) = (0, -22), (x2, y2) = (47, -44), color = dark blue, area = 1034
+Rectangle: (x1, y1) = (-2, 32), (x2, y2) = (55, -70), color = violet, area = 5814
+Circle: center = (69, -76), radius = 59, color = orange, area = 10935.88402714607
+Rectangle: (x1, y1) = (-73, -90), (x2, y2) = (82, -100), color = dark blue, area = 1550
+Triangle: (x1, y1) = (-1, 56), (x2, y2) = (-39, 92), (x3, y3) = (-6, -18), color = , area = 1495.9999999999977
+Triangle: (x1, y1) = (-16, -26), (x2, y2) = (-64, -65), (x3, y3) = (10, -100), color = blue, area = 2282.9999999999995
+Circle: center = (-92, 76), radius = 100, color = , area = 31415.926535897932
+Rectangle: (x1, y1) = (-27, -93), (x2, y2) = (56, -96), color = violet, area = 249
+Circle: center = (37, -27), radius = 92, color = red, area = 26590.440219984008
+Triangle: (x1, y1) = (70, -63), (x2, y2) = (100, 17), (x3, y3) = (-21, 18), color = blue, area = 4855.0
+Rectangle: (x1, y1) = (33, 44), (x2, y2) = (88, -43), color = orange, area = 4785
+Circle: center = (91, -32), radius = 84, color = green, area = 22167.07776372958
+Triangle: (x1, y1) = (7, -64), (x2, y2) = (-45, -90), (x3, y3) = (99, -14), color = , area = 104.0000000000154
+Circle: center = (61, -43), radius = 21, color = dark blue, area = 1385.4423602330987
+Circle: center = (-88, 29), radius = 66, color = green, area = 13684.77759903714
+Triangle: (x1, y1) = (55, 48), (x2, y2) = (-91, 79), (x3, y3) = (87, 22), color = dark blue, area = 1401.9999999999973
+Triangle: (x1, y1) = (-48, -23), (x2, y2) = (93, -72), (x3, y3) = (63, 6), color = green, area = 4763.999999999998
+Triangle: (x1, y1) = (-53, 6), (x2, y2) = (11, 52), (x3, y3) = (-51, 20), color = yellow, area = 402.00000000000017
+Circle: center = (-15, -82), radius = 66, color = violet, area = 13684.77759903714
+Circle: center = (-85, -74), radius = 29, color = violet, area = 2642.079421669016
+Rectangle: (x1, y1) = (-26, 35), (x2, y2) = (1, 5), color = orange, area = 810
+Circle: center = (77, -49), radius = 99, color = , area = 30790.74959783356
+Circle: center = (-13, -26), radius = 47, color = violet, area = 6939.778171779853
+Circle: center = (56, -56), radius = 57, color = orange, area = 10207.034531513238
+Rectangle: (x1, y1) = (54, 85), (x2, y2) = (56, 14), color = red, area = 142
+Rectangle: (x1, y1) = (-77, -66), (x2, y2) = (-17, -86), color = red, area = 1200
+Rectangle: (x1, y1) = (-46, 86), (x2, y2) = (60, -45), color = , area = 13886
+Circle: center = (61, -70), radius = 56, color = blue, area = 9852.03456165759
+Rectangle: (x1, y1) = (75, 99), (x2, y2) = (76, 52), color = blue, area = 47
+Triangle: (x1, y1) = (47, -86), (x2, y2) = (69, 23), (x3, y3) = (-4, 97), color = red, area = 4792.499999999995
+Triangle: (x1, y1) = (-16, -78), (x2, y2) = (90, 11), (x3, y3) = (-11, 94), color = orange, area = 8893.5
+Triangle: (x1, y1) = (65, 33), (x2, y2) = (54, -63), (x3, y3) = (7, 67), color = red, area = 2970.9999999999995
+Circle: center = (-65, -94), radius = 85, color = red, area = 22698.006922186254
+Rectangle: (x1, y1) = (91, 10), (x2, y2) = (100, -58), color = green, area = 612
+Circle: center = (85, -63), radius = 77, color = , area = 18626.502843133883
+Circle: center = (-27, -86), radius = 35, color = yellow, area = 3848.4510006474966
+Triangle: (x1, y1) = (49, -30), (x2, y2) = (-12, 35), (x3, y3) = (-47, 78), color = blue, area = 174.00000000000966
+Rectangle: (x1, y1) = (-41, -72), (x2, y2) = (99, -82), color = yellow, area = 1400
+Triangle: (x1, y1) = (90, -9), (x2, y2) = (-95, 80), (x3, y3) = (27, -95), color = red, area = 10758.500000000004
+Rectangle: (x1, y1) = (85, 38), (x2, y2) = (91, 26), color = dark blue, area = 72
+Rectangle: (x1, y1) = (-11, 21), (x2, y2) = (43, -91), color = blue, area = 6048
+Circle: center = (32, 28), radius = 98, color = red, area = 30171.855845076374
+Rectangle: (x1, y1) = (-94, 23), (x2, y2) = (-66, -82), color = violet, area = 2940
+Rectangle: (x1, y1) = (-99, 49), (x2, y2) = (-44, -31), color = orange, area = 4400
+Triangle: (x1, y1) = (99, -15), (x2, y2) = (29, 98), (x3, y3) = (-1, 18), color = orange, area = 4495.0
+Rectangle: (x1, y1) = (-50, -59), (x2, y2) = (-18, -94), color = violet, area = 1120
+Rectangle: (x1, y1) = (-89, 27), (x2, y2) = (61, 17), color = dark blue, area = 1500
+Triangle: (x1, y1) = (8, -55), (x2, y2) = (-95, -55), (x3, y3) = (-96, 78), color = yellow, area = 6849.500000000003
+Circle: center = (-11, 94), radius = 4, color = violet, area = 50.26548245743669
+Rectangle: (x1, y1) = (99, 69), (x2, y2) = (101, -8), color = green, area = 154
+Triangle: (x1, y1) = (-80, 74), (x2, y2) = (-30, -33), (x3, y3) = (58, 97), color = green, area = 7958.000000000002
+Circle: center = (-67, 55), radius = 100, color = yellow, area = 31415.926535897932
+Triangle: (x1, y1) = (21, -17), (x2, y2) = (65, 44), (x3, y3) = (6, 27), color = blue, area = 1425.4999999999998
+Circle: center = (-84, -5), radius = 22, color = green, area = 1520.53084433746
+Rectangle: (x1, y1) = (-91, -13), (x2, y2) = (21, -44), color = orange, area = 3472
+Rectangle: (x1, y1) = (-46, -34), (x2, y2) = (15, -56), color = red, area = 1342
+Triangle: (x1, y1) = (42, -70), (x2, y2) = (-27, -85), (x3, y3) = (41, -4), color = blue, area = 2284.499999999999
+Triangle: (x1, y1) = (78, -32), (x2, y2) = (2, 45), (x3, y3) = (-21, 81), color = yellow, area = 482.49999999999346
+Triangle: (x1, y1) = (98, -65), (x2, y2) = (69, -31), (x3, y3) = (-84, -98), color = , area = 3572.4999999999973
+Circle: center = (32, 84), radius = 64, color = yellow, area = 12867.963509103793
+Circle: center = (-2, -98), radius = 47, color = violet, area = 6939.778171779853
+Triangle: (x1, y1) = (-79, 61), (x2, y2) = (86, 70), (x3, y3) = (11, -7), color = , area = 6014.999999999999
+Triangle: (x1, y1) = (-61, -80), (x2, y2) = (84, 65), (x3, y3) = (25, -19), color = red, area = 1812.5000000000016
+Circle: center = (65, -90), radius = 62, color = dark blue, area = 12076.282160399165
+Rectangle: (x1, y1) = (-40, 70), (x2, y2) = (62, 64), color = , area = 612
+Circle: center = (56, -32), radius = 60, color = dark blue, area = 11309.733552923255
+Rectangle: (x1, y1) = (30, -86), (x2, y2) = (71, -88), color = blue, area = 82
+Circle: center = (-50, -8), radius = 92, color = green, area = 26590.440219984008
+Rectangle: (x1, y1) = (32, -18), (x2, y2) = (86, -21), color = blue, area = 162
+Triangle: (x1, y1) = (99, -32), (x2, y2) = (61, 48), (x3, y3) = (-79, 21), color = dark blue, area = 6113.000000000005
+Circle: center = (-13, -80), radius = 47, color = , area = 6939.778171779853
+Triangle: (x1, y1) = (-3, 59), (x2, y2) = (36, 69), (x3, y3) = (-28, -45), color = red, area = 1903.0000000000018
+Rectangle: (x1, y1) = (53, -29), (x2, y2) = (57, -95), color = green, area = 264
+Rectangle: (x1, y1) = (-70, 31), (x2, y2) = (72, 5), color = yellow, area = 3692
+Circle: center = (79, 98), radius = 55, color = , area = 9503.317777109125
+Triangle: (x1, y1) = (-91, -75), (x2, y2) = (-39, 57), (x3, y3) = (67, 18), color = red, area = 8009.999999999999
+Rectangle: (x1, y1) = (62, 73), (x2, y2) = (72, 68), color = red, area = 50
+Circle: center = (-65, -51), radius = 97, color = blue, area = 29559.245277626364
+Circle: center = (-83, 90), radius = 47, color = blue, area = 6939.778171779853
+Circle: center = (95, 81), radius = 93, color = , area = 27171.63486089812
+Circle: center = (95, -83), radius = 94, color = yellow, area = 27759.112687119414
+Circle: center = (-15, 36), radius = 82, color = violet, area = 21124.069002737768
+Rectangle: (x1, y1) = (-61, 98), (x2, y2) = (35, 71), color = orange, area = 2592
+Triangle: (x1, y1) = (25, 83), (x2, y2) = (-59, -69), (x3, y3) = (52, -85), color = blue, area = 9108.0
+Circle: center = (-36, -66), radius = 61, color = yellow, area = 11689.86626400762
+Triangle: (x1, y1) = (70, 44), (x2, y2) = (-59, 54), (x3, y3) = (-78, -47), color = red, area = 6609.500000000001
+Rectangle: (x1, y1) = (95, -54), (x2, y2) = (99, -81), color = yellow, area = 108
+Rectangle: (x1, y1) = (22, 21), (x2, y2) = (49, -67), color = green, area = 2376
+Triangle: (x1, y1) = (46, -35), (x2, y2) = (11, -38), (x3, y3) = (-26, 23), color = orange, area = 1123.0
+Rectangle: (x1, y1) = (59, -72), (x2, y2) = (80, -96), color = , area = 504
+Triangle: (x1, y1) = (51, -2), (x2, y2) = (86, -53), (x3, y3) = (-80, 12), color = orange, area = 3095.4999999999977
+Rectangle: (x1, y1) = (-85, 56), (x2, y2) = (33, -100), color = green, area = 18408
+Circle: center = (18, 31), radius = 11, color = blue, area = 380.132711084365
+Triangle: (x1, y1) = (33, 51), (x2, y2) = (-87, 20), (x3, y3) = (-13, 97), color = yellow, area = 3472.9999999999986
+Circle: center = (-63, 40), radius = 40, color = , area = 5026.548245743669
+Circle: center = (-93, 95), radius = 25, color = violet, area = 1963.4954084936207
+Rectangle: (x1, y1) = (100, 40), (x2, y2) = (101, -5), color = orange, area = 45
+Rectangle: (x1, y1) = (-29, 69), (x2, y2) = (48, -71), color = violet, area = 10780
+Triangle: (x1, y1) = (34, 72), (x2, y2) = (56, 1), (x3, y3) = (-22, -6), color = green, area = 2846.0000000000005
+Rectangle: (x1, y1) = (50, 27), (x2, y2) = (57, -60), color = violet, area = 609
+Triangle: (x1, y1) = (-64, -82), (x2, y2) = (71, 71), (x3, y3) = (47, -83), color = orange, area = 8559.0
+Circle: center = (-58, 81), radius = 88, color = red, area = 24328.49350939936
+Rectangle: (x1, y1) = (-1, -24), (x2, y2) = (56, -40), color = dark blue, area = 912
+Triangle: (x1, y1) = (-71, 47), (x2, y2) = (-57, -71), (x3, y3) = (72, -11), color = yellow, area = 8031.000000000001
+Triangle: (x1, y1) = (23, 77), (x2, y2) = (31, -49), (x3, y3) = (4, 43), color = , area = 1332.9999999999977
+Circle: center = (20, 94), radius = 39, color = blue, area = 4778.362426110075
+Rectangle: (x1, y1) = (-59, -44), (x2, y2) = (-29, -99), color = green, area = 1650
+Triangle: (x1, y1) = (97, 24), (x2, y2) = (-74, -73), (x3, y3) = (67, -95), color = violet, area = 8719.499999999998
+Triangle: (x1, y1) = (-75, -24), (x2, y2) = (90, 10), (x3, y3) = (26, -13), color = violet, area = 809.5000000000036
+Circle: center = (-18, 30), radius = 65, color = yellow, area = 13273.228961416877
+Triangle: (x1, y1) = (75, -52), (x2, y2) = (90, 78), (x3, y3) = (22, -25), color = violet, area = 3647.499999999998
+Circle: center = (32, 77), radius = 37, color = orange, area = 4300.840342764427
+Triangle: (x1, y1) = (-34, 64), (x2, y2) = (-7, 26), (x3, y3) = (56, 83), color = red, area = 1966.5000000000005
+Triangle: (x1, y1) = (-35, 4), (x2, y2) = (90, 34), (x3, y3) = (63, 33), color = , area = 342.4999999999879
+Circle: center = (-93, -34), radius = 14, color = yellow, area = 615.7521601035994
+Triangle: (x1, y1) = (-6, 73), (x2, y2) = (59, -39), (x3, y3) = (23, 39), color = orange, area = 519.0000000000014
+Triangle: (x1, y1) = (31, -75), (x2, y2) = (-46, 47), (x3, y3) = (50, -85), color = orange, area = 774.0000000000092
+Rectangle: (x1, y1) = (-51, 81), (x2, y2) = (-37, 21), color = red, area = 840
+Rectangle: (x1, y1) = (39, -17), (x2, y2) = (53, -81), color = dark blue, area = 896
+Rectangle: (x1, y1) = (92, -82), (x2, y2) = (96, -87), color = green, area = 20
+Triangle: (x1, y1) = (87, 32), (x2, y2) = (-16, -24), (x3, y3) = (61, -13), color = green, area = 1589.4999999999995
+Circle: center = (-56, -96), radius = 42, color = violet, area = 5541.769440932395
+Circle: center = (-75, -52), radius = 66, color = green, area = 13684.77759903714
+Rectangle: (x1, y1) = (-62, -36), (x2, y2) = (-20, -64), color = violet, area = 1176
+Triangle: (x1, y1) = (-11, 38), (x2, y2) = (19, 30), (x3, y3) = (-17, 77), color = red, area = 561.0000000000005
+Circle: center = (-19, -58), radius = 25, color = red, area = 1963.4954084936207
+Rectangle: (x1, y1) = (72, 5), (x2, y2) = (83, -84), color = blue, area = 979
+Rectangle: (x1, y1) = (62, 78), (x2, y2) = (96, -14), color = orange, area = 3128
+Circle: center = (80, -36), radius = 69, color = orange, area = 14957.122623741005
+Circle: center = (40, -69), radius = 13, color = orange, area = 530.929158456675
+Circle: center = (72, 83), radius = 87, color = dark blue, area = 23778.714795021144
+Triangle: (x1, y1) = (73, 85), (x2, y2) = (-86, 68), (x3, y3) = (59, 73), color = , area = 835.0000000000031
+Triangle: (x1, y1) = (72, -26), (x2, y2) = (-21, 73), (x3, y3) = (-87, -81), color = orange, area = 10427.999999999996
+Rectangle: (x1, y1) = (-5, 15), (x2, y2) = (29, 5), color = orange, area = 340
+Circle: center = (22, -77), radius = 79, color = red, area = 19606.6797510539
+Triangle: (x1, y1) = (12, 69), (x2, y2) = (71, -72), (x3, y3) = (67, 4), color = green, area = 1960.0000000000005
+Circle: center = (-37, 87), radius = 66, color = violet, area = 13684.77759903714
+Rectangle: (x1, y1) = (-74, 89), (x2, y2) = (10, -31), color = , area = 10080
+Circle: center = (64, -64), radius = 28, color = green, area = 2463.0086404143976
+Circle: center = (60, 91), radius = 31, color = dark blue, area = 3019.0705400997913
+Rectangle: (x1, y1) = (93, -18), (x2, y2) = (99, -56), color = red, area = 228
+Rectangle: (x1, y1) = (88, -21), (x2, y2) = (89, -90), color = violet, area = 69
+Triangle: (x1, y1) = (69, 34), (x2, y2) = (38, 53), (x3, y3) = (-12, -25), color = yellow, area = 1684.0000000000002
+Rectangle: (x1, y1) = (-55, 9), (x2, y2) = (38, -35), color = red, area = 4092
+Triangle: (x1, y1) = (52, 44), (x2, y2) = (-75, 57), (x3, y3) = (67, -29), color = dark blue, area = 4538.0
+Triangle: (x1, y1) = (-26, -48), (x2, y2) = (74, -86), (x3, y3) = (-57, -68), color = , area = 1588.9999999999977
+Circle: center = (-72, 71), radius = 66, color = orange, area = 13684.77759903714
+Circle: center = (-15, 27), radius = 39, color = blue, area = 4778.362426110075
+Triangle: (x1, y1) = (-29, -86), (x2, y2) = (67, -39), (x3, y3) = (58, -51), color = green, area = 364.50000000000085
+Circle: center = (-92, 1), radius = 13, color = violet, area = 530.929158456675
+Triangle: (x1, y1) = (6, -32), (x2, y2) = (-66, -62), (x3, y3) = (55, 35), color = orange, area = 1677.0000000000023
+Triangle: (x1, y1) = (-67, 69), (x2, y2) = (25, -32), (x3, y3) = (-32, 61), color = violet, area = 1399.4999999999989
+Rectangle: (x1, y1) = (-96, -5), (x2, y2) = (-86, -88), color = green, area = 830
+Triangle: (x1, y1) = (37, -36), (x2, y2) = (15, -19), (x3, y3) = (42, -8), color = red, area = 350.50000000000006
+Circle: center = (-32, -51), radius = 64, color = red, area = 12867.963509103793
+Triangle: (x1, y1) = (48, -80), (x2, y2) = (83, -17), (x3, y3) = (-94, -56), color = blue, area = 4892.999999999999
+Rectangle: (x1, y1) = (89, 75), (x2, y2) = (93, -76), color = yellow, area = 604
+Triangle: (x1, y1) = (-67, 11), (x2, y2) = (-59, 26), (x3, y3) = (59, -50), color = yellow, area = 1188.999999999998
+Triangle: (x1, y1) = (-95, -97), (x2, y2) = (-56, -82), (x3, y3) = (63, 25), color = , area = 1193.9999999999918
+Circle: center = (-67, 3), radius = 79, color = orange, area = 19606.6797510539
+Rectangle: (x1, y1) = (69, -77), (x2, y2) = (73, -97), color = dark blue, area = 80
+Triangle: (x1, y1) = (-20, 51), (x2, y2) = (-30, -44), (x3, y3) = (16, -12), color = orange, area = 2025.0000000000002
+Rectangle: (x1, y1) = (-48, -57), (x2, y2) = (26, -73), color = blue, area = 1184
+Triangle: (x1, y1) = (-36, -31), (x2, y2) = (-91, 52), (x3, y3) = (60, -18), color = orange, area = 4341.500000000005
+Triangle: (x1, y1) = (-16, 49), (x2, y2) = (-36, 63), (x3, y3) = (17, 57), color = dark blue, area = 310.9999999999998
+Circle: center = (-98, -3), radius = 46, color = blue, area = 6647.610054996002
+Rectangle: (x1, y1) = (-72, -78), (x2, y2) = (8, -90), color = green, area = 960
+Rectangle: (x1, y1) = (-87, -20), (x2, y2) = (-34, -66), color = orange, area = 2438
+Rectangle: (x1, y1) = (53, 74), (x2, y2) = (97, -98), color = yellow, area = 7568
+Circle: center = (94, 77), radius = 99, color = dark blue, area = 30790.74959783356
+Rectangle: (x1, y1) = (-9, 99), (x2, y2) = (25, 81), color = green, area = 612
+Circle: center = (38, -13), radius = 23, color = blue, area = 1661.9025137490005
+Triangle: (x1, y1) = (-86, 46), (x2, y2) = (-6, 13), (x3, y3) = (-20, -13), color = blue, area = 1271.0000000000005
+Triangle: (x1, y1) = (22, -32), (x2, y2) = (-85, -76), (x3, y3) = (-41, 50), color = dark blue, area = 5773.000000000001
+Circle: center = (-68, 95), radius = 96, color = , area = 28952.917895483533
+Rectangle: (x1, y1) = (-11, -69), (x2, y2) = (93, -91), color = green, area = 2288
+Rectangle: (x1, y1) = (-75, -1), (x2, y2) = (43, -2), color = blue, area = 118
+Rectangle: (x1, y1) = (-62, 15), (x2, y2) = (-43, -35), color = dark blue, area = 950
+Rectangle: (x1, y1) = (-88, 48), (x2, y2) = (52, 42), color = orange, area = 840
+Rectangle: (x1, y1) = (-32, -36), (x2, y2) = (69, -97), color = green, area = 6161
+Circle: center = (-100, 3), radius = 19, color = dark blue, area = 1134.1149479459152
+Rectangle: (x1, y1) = (37, -24), (x2, y2) = (71, -83), color = blue, area = 2006
+Rectangle: (x1, y1) = (-78, -22), (x2, y2) = (47, -54), color = orange, area = 4000
+Circle: center = (-15, -33), radius = 96, color = yellow, area = 28952.917895483533
+Rectangle: (x1, y1) = (-39, -86), (x2, y2) = (-17, -92), color = green, area = 132
+Triangle: (x1, y1) = (53, 86), (x2, y2) = (-56, -66), (x3, y3) = (-74, -47), color = blue, area = 2403.500000000002
+Rectangle: (x1, y1) = (-81, -74), (x2, y2) = (80, -91), color = violet, area = 2737
+Circle: center = (90, -66), radius = 63, color = red, area = 12468.981242097889
+Rectangle: (x1, y1) = (-99, -60), (x2, y2) = (30, -85), color = violet, area = 3225
+Rectangle: (x1, y1) = (-52, 0), (x2, y2) = (30, -7), color = blue, area = 574
+Rectangle: (x1, y1) = (-89, 29), (x2, y2) = (-29, -5), color = , area = 2040
+Circle: center = (-29, -32), radius = 48, color = dark blue, area = 7238.229473870883
+Circle: center = (-25, 83), radius = 42, color = blue, area = 5541.769440932395
+Circle: center = (-48, -62), radius = 34, color = dark blue, area = 3631.681107549801
+Triangle: (x1, y1) = (38, -80), (x2, y2) = (74, 42), (x3, y3) = (-40, 54), color = violet, area = 7169.999999999998
+Rectangle: (x1, y1) = (-95, -18), (x2, y2) = (-47, -20), color = orange, area = 96
+Triangle: (x1, y1) = (45, -73), (x2, y2) = (71, -30), (x3, y3) = (45, 57), color = violet, area = 1689.9999999999966
+Circle: center = (29, 99), radius = 26, color = violet, area = 2123.7166338267
+Rectangle: (x1, y1) = (-67, 13), (x2, y2) = (18, -93), color = dark blue, area = 9010
+Circle: center = (91, 74), radius = 68, color = orange, area = 14526.724430199203
+Circle: center = (90, 79), radius = 56, color = yellow, area = 9852.03456165759
+Rectangle: (x1, y1) = (-54, -58), (x2, y2) = (-45, -59), color = green, area = 9
+Triangle: (x1, y1) = (-34, -20), (x2, y2) = (68, 83), (x3, y3) = (61, -29), color = violet, area = 5351.500000000004
+Triangle: (x1, y1) = (39, -44), (x2, y2) = (39, -11), (x3, y3) = (71, -65), color = dark blue, area = 528.0000000000005
+Rectangle: (x1, y1) = (-49, 79), (x2, y2) = (-23, -79), color = green, area = 4108
+Rectangle: (x1, y1) = (33, -95), (x2, y2) = (54, -97), color = dark blue, area = 42
+Rectangle: (x1, y1) = (-62, 70), (x2, y2) = (-61, -25), color = violet, area = 95
+Triangle: (x1, y1) = (-14, 59), (x2, y2) = (63, 79), (x3, y3) = (53, 51), color = green, area = 977.9999999999994
+Triangle: (x1, y1) = (-83, -54), (x2, y2) = (60, 87), (x3, y3) = (-95, -27), color = orange, area = 2776.4999999999986
+Circle: center = (-8, -82), radius = 72, color = green, area = 16286.016316209487
+Circle: center = (40, -24), radius = 27, color = yellow, area = 2290.221044466959
+Circle: center = (-99, -3), radius = 82, color = yellow, area = 21124.069002737768
+Triangle: (x1, y1) = (20, 22), (x2, y2) = (82, -37), (x3, y3) = (-29, 65), color = green, area = 112.49999999991083
+Rectangle: (x1, y1) = (-75, -42), (x2, y2) = (-3, -49), color = red, area = 504
+Rectangle: (x1, y1) = (48, 78), (x2, y2) = (64, -54), color = dark blue, area = 2112
+Triangle: (x1, y1) = (-3, -95), (x2, y2) = (69, 22), (x3, y3) = (36, -15), color = dark blue, area = 598.5000000000044
+Rectangle: (x1, y1) = (-66, 88), (x2, y2) = (60, -70), color = yellow, area = 19908
+Rectangle: (x1, y1) = (44, 70), (x2, y2) = (78, 10), color = blue, area = 2040
+Circle: center = (9, -57), radius = 25, color = violet, area = 1963.4954084936207
+Triangle: (x1, y1) = (-81, -96), (x2, y2) = (-67, 62), (x3, y3) = (85, 7), color = , area = 12393.000000000004
+Rectangle: (x1, y1) = (-33, -40), (x2, y2) = (-1, -86), color = dark blue, area = 1472
+Circle: center = (-76, 6), radius = 8, color = green, area = 201.06192982974676
+Rectangle: (x1, y1) = (-52, 9), (x2, y2) = (76, -17), color = red, area = 3328
+Rectangle: (x1, y1) = (-63, 78), (x2, y2) = (68, 28), color = dark blue, area = 6550
+Triangle: (x1, y1) = (48, -59), (x2, y2) = (62, 36), (x3, y3) = (-93, -95), color = blue, area = 6445.499999999997
+Triangle: (x1, y1) = (93, 62), (x2, y2) = (-9, 22), (x3, y3) = (100, -4), color = orange, area = 3505.9999999999986
+Triangle: (x1, y1) = (-40, -91), (x2, y2) = (23, 87), (x3, y3) = (-68, 19), color = orange, area = 5957.000000000002
+Rectangle: (x1, y1) = (-93, 69), (x2, y2) = (75, 29), color = green, area = 6720
+Circle: center = (62, 21), radius = 62, color = red, area = 12076.282160399165
+Triangle: (x1, y1) = (-44, -1), (x2, y2) = (-21, -32), (x3, y3) = (-1, -68), color = blue, area = 104.00000000000186
+Circle: center = (-33, -75), radius = 84, color = blue, area = 22167.07776372958
+Triangle: (x1, y1) = (-49, -56), (x2, y2) = (17, 56), (x3, y3) = (-3, 18), color = , area = 134.00000000001924
+Rectangle: (x1, y1) = (100, 77), (x2, y2) = (101, -72), color = green, area = 149
+Circle: center = (12, -80), radius = 78, color = red, area = 19113.4497044403
+Rectangle: (x1, y1) = (18, 88), (x2, y2) = (60, -64), color = green, area = 6384
+Rectangle: (x1, y1) = (52, -67), (x2, y2) = (99, -72), color = blue, area = 235
+Circle: center = (49, 62), radius = 25, color = red, area = 1963.4954084936207
+Circle: center = (-32, -43), radius = 3, color = violet, area = 28.274333882308138
+Triangle: (x1, y1) = (100, -33), (x2, y2) = (-88, 66), (x3, y3) = (-90, 17), color = dark blue, area = 4705.000000000006
+Circle: center = (-8, -21), radius = 15, color = dark blue, area = 706.8583470577034
+Rectangle: (x1, y1) = (8, 79), (x2, y2) = (59, -63), color = red, area = 7242
+Rectangle: (x1, y1) = (-50, 40), (x2, y2) = (27, -58), color = red, area = 7546
+Rectangle: (x1, y1) = (92, 86), (x2, y2) = (97, -37), color = green, area = 615
+Triangle: (x1, y1) = (71, -18), (x2, y2) = (48, -90), (x3, y3) = (-39, -87), color = green, area = 3166.500000000001
+Triangle: (x1, y1) = (-74, -99), (x2, y2) = (-29, -77), (x3, y3) = (20, -89), color = green, area = 808.9999999999997
+Circle: center = (1, -22), radius = 39, color = dark blue, area = 4778.362426110075
+Rectangle: (x1, y1) = (-25, -57), (x2, y2) = (17, -65), color = violet, area = 336
+Triangle: (x1, y1) = (-8, 23), (x2, y2) = (34, 27), (x3, y3) = (56, 80), color = yellow, area = 1069.0
+Triangle: (x1, y1) = (-10, 39), (x2, y2) = (10, -67), (x3, y3) = (-62, 22), color = , area = 2926.0000000000027
+Triangle: (x1, y1) = (51, -18), (x2, y2) = (-77, -81), (x3, y3) = (-78, -95), color = blue, area = 864.5000000000001
+Triangle: (x1, y1) = (22, 5), (x2, y2) = (63, 0), (x3, y3) = (82, -38), color = red, area = 731.5000000000001
+Rectangle: (x1, y1) = (96, -80), (x2, y2) = (99, -100), color = , area = 60
+Circle: center = (-85, 10), radius = 21, color = orange, area = 1385.4423602330987
+Triangle: (x1, y1) = (-55, 81), (x2, y2) = (85, 98), (x3, y3) = (-77, 95), color = violet, area = 1167.0000000000036
+Circle: center = (76, 53), radius = 84, color = dark blue, area = 22167.07776372958
+Rectangle: (x1, y1) = (-28, 21), (x2, y2) = (92, -34), color = yellow, area = 6600
+Circle: center = (-95, -84), radius = 66, color = yellow, area = 13684.77759903714
+Rectangle: (x1, y1) = (82, 0), (x2, y2) = (95, -96), color = violet, area = 1248
+Circle: center = (-79, 91), radius = 79, color = yellow, area = 19606.6797510539
+Rectangle: (x1, y1) = (-42, 17), (x2, y2) = (93, -50), color = green, area = 9045
+Triangle: (x1, y1) = (-88, 8), (x2, y2) = (31, 25), (x3, y3) = (-39, -55), color = violet, area = 4165.000000000003
+Triangle: (x1, y1) = (67, -79), (x2, y2) = (39, -63), (x3, y3) = (37, 39), color = dark blue, area = 1412.0000000000002
+Circle: center = (-60, -64), radius = 84, color = dark blue, area = 22167.07776372958
+Circle: center = (-59, -43), radius = 60, color = yellow, area = 11309.733552923255
+Circle: center = (80, -9), radius = 69, color = blue, area = 14957.122623741005
+Triangle: (x1, y1) = (-70, -46), (x2, y2) = (-36, -78), (x3, y3) = (-21, 79), color = , area = 2909.0
+Triangle: (x1, y1) = (-20, -82), (x2, y2) = (-96, 29), (x3, y3) = (-25, -17), color = green, area = 2192.4999999999986
+Triangle: (x1, y1) = (-35, 68), (x2, y2) = (-91, -20), (x3, y3) = (-11, 44), color = , area = 1727.9999999999989
+Rectangle: (x1, y1) = (-7, 84), (x2, y2) = (57, -94), color = orange, area = 11392
+Circle: center = (-28, 27), radius = 90, color = blue, area = 25446.900494077323
+Circle: center = (-16, 6), radius = 78, color = green, area = 19113.4497044403
+Triangle: (x1, y1) = (14, 37), (x2, y2) = (-90, 53), (x3, y3) = (-60, 50), color = blue, area = 84.00000000000318
+Triangle: (x1, y1) = (-100, -99), (x2, y2) = (97, 51), (x3, y3) = (54, -47), color = yellow, area = 6428.0000000000055
+Triangle: (x1, y1) = (-63, -39), (x2, y2) = (-44, 87), (x3, y3) = (-60, -69), color = green, area = 474.0000000000111
+Triangle: (x1, y1) = (-50, -94), (x2, y2) = (-55, 75), (x3, y3) = (-94, -49), color = yellow, area = 3605.4999999999955
+Triangle: (x1, y1) = (-38, -34), (x2, y2) = (6, -25), (x3, y3) = (50, -25), color = blue, area = 198.00000000000077
+Triangle: (x1, y1) = (68, -16), (x2, y2) = (32, 72), (x3, y3) = (-12, 80), color = green, area = 1792.0000000000016
+Triangle: (x1, y1) = (34, 22), (x2, y2) = (55, -96), (x3, y3) = (86, 99), color = red, area = 3876.5
+Rectangle: (x1, y1) = (-3, -61), (x2, y2) = (70, -63), color = , area = 146
+Circle: center = (31, 88), radius = 89, color = orange, area = 24884.55540908475
+Triangle: (x1, y1) = (-72, 46), (x2, y2) = (-18, -99), (x3, y3) = (7, 99), color = yellow, area = 7158.5
+Rectangle: (x1, y1) = (8, -94), (x2, y2) = (30, -100), color = red, area = 132
+Rectangle: (x1, y1) = (23, 42), (x2, y2) = (34, -40), color = , area = 902
+Triangle: (x1, y1) = (83, -16), (x2, y2) = (2, 89), (x3, y3) = (-95, 78), color = violet, area = 5538.000000000001
+Circle: center = (0, 24), radius = 30, color = yellow, area = 2827.4333882308138
+Triangle: (x1, y1) = (-85, 58), (x2, y2) = (-10, 64), (x3, y3) = (-30, -75), color = orange, area = 5152.500000000004
+Circle: center = (51, 38), radius = 94, color = red, area = 27759.112687119414
+Rectangle: (x1, y1) = (97, 44), (x2, y2) = (98, -31), color = red, area = 75
+Rectangle: (x1, y1) = (28, -29), (x2, y2) = (48, -97), color = green, area = 1360
+Rectangle: (x1, y1) = (-67, -71), (x2, y2) = (72, -87), color = blue, area = 2224
+Circle: center = (-97, 70), radius = 54, color = red, area = 9160.884177867836
+Rectangle: (x1, y1) = (-12, -75), (x2, y2) = (-5, -84), color = blue, area = 63
+Circle: center = (22, -78), radius = 71, color = red, area = 15836.768566746146
+Circle: center = (-8, -4), radius = 67, color = , area = 14102.609421964582
+Rectangle: (x1, y1) = (17, -22), (x2, y2) = (53, -51), color = , area = 1044
+Circle: center = (44, -88), radius = 48, color = violet, area = 7238.229473870883
+Rectangle: (x1, y1) = (73, 38), (x2, y2) = (90, 9), color = , area = 493
+Triangle: (x1, y1) = (-57, -85), (x2, y2) = (-60, 96), (x3, y3) = (14, -71), color = dark blue, area = 6446.499999999997
+Triangle: (x1, y1) = (-50, 13), (x2, y2) = (31, 85), (x3, y3) = (65, -81), color = , area = 7947.000000000003
+Circle: center = (81, -24), radius = 62, color = red, area = 12076.282160399165
+Rectangle: (x1, y1) = (-51, 96), (x2, y2) = (-36, 85), color = red, area = 165
+Rectangle: (x1, y1) = (21, -52), (x2, y2) = (67, -88), color = green, area = 1656
+Triangle: (x1, y1) = (-49, 4), (x2, y2) = (-75, -97), (x3, y3) = (-51, -23), color = violet, area = 249.99999999999494
+Triangle: (x1, y1) = (58, 62), (x2, y2) = (14, -68), (x3, y3) = (83, 59), color = yellow, area = 1691.0000000000002
+Rectangle: (x1, y1) = (81, 95), (x2, y2) = (94, -31), color = blue, area = 1638
+Rectangle: (x1, y1) = (-77, -66), (x2, y2) = (47, -83), color = green, area = 2108
+Triangle: (x1, y1) = (68, -35), (x2, y2) = (97, -66), (x3, y3) = (-22, 11), color = yellow, area = 727.9999999999995
+Rectangle: (x1, y1) = (-57, 91), (x2, y2) = (55, -55), color = violet, area = 16352
+Triangle: (x1, y1) = (-91, -21), (x2, y2) = (-69, 43), (x3, y3) = (65, -3), color = orange, area = 4794.000000000002
+Triangle: (x1, y1) = (-44, -96), (x2, y2) = (97, -59), (x3, y3) = (69, -18), color = yellow, area = 3408.499999999998
+Triangle: (x1, y1) = (-17, 29), (x2, y2) = (-97, -66), (x3, y3) = (-64, 39), color = , area = 2632.500000000002
+Circle: center = (38, 17), radius = 69, color = green, area = 14957.122623741005
+Triangle: (x1, y1) = (48, 95), (x2, y2) = (98, 99), (x3, y3) = (84, -21), color = yellow, area = 2971.9999999999977
+Triangle: (x1, y1) = (-46, -99), (x2, y2) = (-43, 12), (x3, y3) = (-39, 6), color = , area = 230.99999999999918
+Circle: center = (32, 27), radius = 62, color = blue, area = 12076.282160399165
+Triangle: (x1, y1) = (69, 60), (x2, y2) = (-52, 17), (x3, y3) = (59, -98), color = blue, area = 9343.999999999996
+Rectangle: (x1, y1) = (73, -32), (x2, y2) = (90, -36), color = , area = 68
+Triangle: (x1, y1) = (-97, 89), (x2, y2) = (-46, 25), (x3, y3) = (-79, -61), color = orange, area = 3249.0000000000014
+Circle: center = (7, -22), radius = 91, color = blue, area = 26015.528764377075
+Circle: center = (11, -73), radius = 100, color = dark blue, area = 31415.926535897932
+Circle: center = (-39, -13), radius = 13, color = red, area = 530.929158456675
+Circle: center = (97, 71), radius = 48, color = yellow, area = 7238.229473870883
+Circle: center = (56, -68), radius = 94, color = yellow, area = 27759.112687119414
+Triangle: (x1, y1) = (-26, 65), (x2, y2) = (-76, -82), (x3, y3) = (-26, 62), color = violet, area = 75.00000000000017
+Rectangle: (x1, y1) = (66, -47), (x2, y2) = (93, -48), color = yellow, area = 27
+Triangle: (x1, y1) = (90, 98), (x2, y2) = (-79, -8), (x3, y3) = (-14, -97), color = orange, area = 10965.5
+Circle: center = (94, -82), radius = 73, color = red, area = 16741.54725098001
+Triangle: (x1, y1) = (81, -9), (x2, y2) = (-90, 57), (x3, y3) = (-49, -97), color = green, area = 11814.0
+Rectangle: (x1, y1) = (-88, 14), (x2, y2) = (-7, -38), color = green, area = 4212
+Triangle: (x1, y1) = (-26, 76), (x2, y2) = (11, 53), (x3, y3) = (-15, -41), color = blue, area = 2038.0000000000018
+Circle: center = (84, -23), radius = 20, color = dark blue, area = 1256.6370614359173
+Triangle: (x1, y1) = (13, 50), (x2, y2) = (21, -46), (x3, y3) = (95, 61), color = red, area = 3980.0000000000023
+Triangle: (x1, y1) = (66, -19), (x2, y2) = (38, 85), (x3, y3) = (67, -65), color = yellow, area = 591.9999999999807
+Triangle: (x1, y1) = (-41, -41), (x2, y2) = (-43, 99), (x3, y3) = (71, -47), color = green, area = 7834.000000000003
+Triangle: (x1, y1) = (-87, -62), (x2, y2) = (-83, 8), (x3, y3) = (86, 92), color = , area = 5746.999999999998
+Circle: center = (42, -65), radius = 44, color = blue, area = 6082.12337734984
+Rectangle: (x1, y1) = (-69, -92), (x2, y2) = (90, -100), color = yellow, area = 1272
+Rectangle: (x1, y1) = (10, 36), (x2, y2) = (25, 33), color = blue, area = 45
+Circle: center = (-16, -36), radius = 86, color = yellow, area = 23235.21926595011
+Circle: center = (34, 76), radius = 97, color = orange, area = 29559.245277626364
+Circle: center = (-87, 12), radius = 20, color = , area = 1256.6370614359173
+Triangle: (x1, y1) = (-12, 53), (x2, y2) = (-25, 70), (x3, y3) = (22, -4), color = violet, area = 81.50000000000112
+Circle: center = (6, -20), radius = 19, color = dark blue, area = 1134.1149479459152
+Circle: center = (98, 8), radius = 63, color = , area = 12468.981242097889
+Rectangle: (x1, y1) = (83, 75), (x2, y2) = (97, -89), color = violet, area = 2296
+Triangle: (x1, y1) = (-87, 47), (x2, y2) = (-89, -7), (x3, y3) = (-28, -31), color = blue, area = 1670.9999999999993
+Circle: center = (-33, -37), radius = 57, color = red, area = 10207.034531513238
+Circle: center = (-47, -41), radius = 77, color = red, area = 18626.502843133883
+Circle: center = (21, -32), radius = 94, color = , area = 27759.112687119414
+Circle: center = (-57, -3), radius = 84, color = violet, area = 22167.07776372958
+Rectangle: (x1, y1) = (2, 92), (x2, y2) = (7, 88), color = dark blue, area = 20
+Triangle: (x1, y1) = (37, 75), (x2, y2) = (-72, 9), (x3, y3) = (28, -49), color = dark blue, area = 6461.000000000001
+Rectangle: (x1, y1) = (96, 77), (x2, y2) = (97, -78), color = red, area = 155
+Circle: center = (-80, -9), radius = 81, color = blue, area = 20611.989400202634
+Circle: center = (90, -69), radius = 14, color = blue, area = 615.7521601035994
+Rectangle: (x1, y1) = (-98, -65), (x2, y2) = (90, -94), color = , area = 5452
+Circle: center = (-93, -83), radius = 57, color = red, area = 10207.034531513238
+Rectangle: (x1, y1) = (38, 9), (x2, y2) = (62, 8), color = dark blue, area = 24
+Rectangle: (x1, y1) = (-92, 11), (x2, y2) = (-16, -21), color = orange, area = 2432
+Triangle: (x1, y1) = (52, 7), (x2, y2) = (79, -84), (x3, y3) = (65, 68), color = orange, area = 1415.0000000000043
+Rectangle: (x1, y1) = (18, -71), (x2, y2) = (38, -80), color = yellow, area = 180
+Rectangle: (x1, y1) = (80, 96), (x2, y2) = (85, 86), color = green, area = 50
+Circle: center = (-48, -37), radius = 52, color = yellow, area = 8494.8665353068
+Triangle: (x1, y1) = (-66, 55), (x2, y2) = (-14, 88), (x3, y3) = (-76, -84), color = green, area = 3449.000000000003
+Rectangle: (x1, y1) = (13, -60), (x2, y2) = (17, -100), color = yellow, area = 160
+Circle: center = (-8, 31), radius = 20, color = red, area = 1256.6370614359173
+Triangle: (x1, y1) = (-39, 5), (x2, y2) = (-3, 33), (x3, y3) = (43, 0), color = , area = 1238.0000000000002
+Rectangle: (x1, y1) = (-28, 1), (x2, y2) = (73, -69), color = yellow, area = 7070
+Rectangle: (x1, y1) = (-37, 7), (x2, y2) = (-12, -27), color = yellow, area = 850
+Triangle: (x1, y1) = (41, 49), (x2, y2) = (75, -7), (x3, y3) = (13, -96), color = violet, area = 3248.9999999999964
+Circle: center = (-10, 50), radius = 34, color = dark blue, area = 3631.681107549801
+Rectangle: (x1, y1) = (-79, 0), (x2, y2) = (-12, -40), color = violet, area = 2680
+Rectangle: (x1, y1) = (8, -50), (x2, y2) = (65, -89), color = orange, area = 2223
+Circle: center = (-47, 23), radius = 30, color = blue, area = 2827.4333882308138
+Circle: center = (53, 93), radius = 23, color = yellow, area = 1661.9025137490005
+Triangle: (x1, y1) = (71, -92), (x2, y2) = (98, -73), (x3, y3) = (71, -19), color = violet, area = 985.5000000000002
+Rectangle: (x1, y1) = (66, 22), (x2, y2) = (77, -83), color = , area = 1155
+Circle: center = (10, 45), radius = 45, color = green, area = 6361.725123519331
+Rectangle: (x1, y1) = (76, 89), (x2, y2) = (94, -59), color = green, area = 2664
+Rectangle: (x1, y1) = (9, 37), (x2, y2) = (30, 16), color = orange, area = 441
+Triangle: (x1, y1) = (-66, 79), (x2, y2) = (-67, -64), (x3, y3) = (-75, -80), color = , area = 564.0000000000006
+Circle: center = (-34, -28), radius = 3, color = red, area = 28.274333882308138
+Triangle: (x1, y1) = (-83, 62), (x2, y2) = (40, 92), (x3, y3) = (98, 47), color = violet, area = 3637.500000000004
+Circle: center = (29, 45), radius = 74, color = yellow, area = 17203.36137105771
+Rectangle: (x1, y1) = (-45, 22), (x2, y2) = (50, 1), color = yellow, area = 1995
+Rectangle: (x1, y1) = (64, -79), (x2, y2) = (77, -90), color = green, area = 143
+Rectangle: (x1, y1) = (81, -37), (x2, y2) = (97, -39), color = orange, area = 32
+Triangle: (x1, y1) = (77, -31), (x2, y2) = (60, -75), (x3, y3) = (-83, 19), color = dark blue, area = 3945.000000000004
+Triangle: (x1, y1) = (-41, -68), (x2, y2) = (-11, -56), (x3, y3) = (28, 19), color = orange, area = 890.9999999999991
+Triangle: (x1, y1) = (29, 68), (x2, y2) = (-90, -7), (x3, y3) = (-94, 73), color = yellow, area = 4910.000000000003
+Circle: center = (55, -64), radius = 23, color = orange, area = 1661.9025137490005
+Rectangle: (x1, y1) = (46, 30), (x2, y2) = (95, -28), color = orange, area = 2842
+Circle: center = (-5, -56), radius = 22, color = red, area = 1520.53084433746
+Triangle: (x1, y1) = (68, -83), (x2, y2) = (98, -49), (x3, y3) = (99, -93), color = blue, area = 676.9999999999998
+Rectangle: (x1, y1) = (83, -99), (x2, y2) = (89, -100), color = orange, area = 6
+Triangle: (x1, y1) = (-40, -62), (x2, y2) = (-96, -98), (x3, y3) = (41, -64), color = red, area = 1514.0000000000002
+Rectangle: (x1, y1) = (-54, -51), (x2, y2) = (-11, -54), color = orange, area = 129
+Rectangle: (x1, y1) = (38, 58), (x2, y2) = (97, -56), color = yellow, area = 6726
+Rectangle: (x1, y1) = (64, -99), (x2, y2) = (90, -101), color = red, area = 52
+Circle: center = (32, -58), radius = 37, color = violet, area = 4300.840342764427
+Triangle: (x1, y1) = (-18, -78), (x2, y2) = (70, -20), (x3, y3) = (39, 43), color = violet, area = 3671.000000000001
+Rectangle: (x1, y1) = (78, 40), (x2, y2) = (90, -13), color = yellow, area = 636
+Circle: center = (81, 39), radius = 41, color = blue, area = 5281.017250684442
+Circle: center = (-22, -70), radius = 16, color = red, area = 804.247719318987
+Circle: center = (-98, -98), radius = 59, color = red, area = 10935.88402714607
+Triangle: (x1, y1) = (89, 33), (x2, y2) = (90, -97), (x3, y3) = (-18, -91), color = dark blue, area = 7016.999999999999
+Triangle: (x1, y1) = (51, -34), (x2, y2) = (71, -56), (x3, y3) = (-82, -76), color = blue, area = 1882.9999999999998
+Triangle: (x1, y1) = (90, 48), (x2, y2) = (56, 44), (x3, y3) = (77, -54), color = , area = 1708.000000000001
+Triangle: (x1, y1) = (-91, -96), (x2, y2) = (-82, -14), (x3, y3) = (-41, 34), color = dark blue, area = 1464.9999999999993
+Rectangle: (x1, y1) = (-89, 75), (x2, y2) = (44, -68), color = , area = 19019
+Rectangle: (x1, y1) = (-45, -64), (x2, y2) = (-6, -94), color = blue, area = 1170
+Rectangle: (x1, y1) = (-68, -91), (x2, y2) = (77, -95), color = , area = 580
+Circle: center = (-69, 13), radius = 43, color = orange, area = 5808.804816487527
+Circle: center = (-61, -27), radius = 60, color = , area = 11309.733552923255
+Circle: center = (-75, 72), radius = 48, color = orange, area = 7238.229473870883
+Circle: center = (100, -65), radius = 75, color = dark blue, area = 17671.458676442588
+Circle: center = (-85, 28), radius = 66, color = blue, area = 13684.77759903714
+Circle: center = (63, 22), radius = 34, color = yellow, area = 3631.681107549801
+Circle: center = (-48, 95), radius = 38, color = red, area = 4536.459791783661
+Rectangle: (x1, y1) = (4, 89), (x2, y2) = (72, -53), color = , area = 9656
+Triangle: (x1, y1) = (-15, 40), (x2, y2) = (26, -96), (x3, y3) = (51, -22), color = dark blue, area = 3216.9999999999995
+Triangle: (x1, y1) = (-44, 41), (x2, y2) = (98, -14), (x3, y3) = (-13, 42), color = orange, area = 923.4999999999957
+Rectangle: (x1, y1) = (-50, -89), (x2, y2) = (83, -91), color = , area = 266
+Circle: center = (14, -71), radius = 17, color = yellow, area = 907.9202768874502
+Circle: center = (-47, 2), radius = 35, color = red, area = 3848.4510006474966
+Rectangle: (x1, y1) = (-99, -66), (x2, y2) = (25, -76), color = dark blue, area = 1240
+Rectangle: (x1, y1) = (75, -15), (x2, y2) = (98, -67), color = dark blue, area = 1196
+Triangle: (x1, y1) = (-22, 98), (x2, y2) = (4, 48), (x3, y3) = (-27, 57), color = orange, area = 657.9999999999999
+Triangle: (x1, y1) = (-1, -14), (x2, y2) = (-84, -72), (x3, y3) = (73, -64), color = blue, area = 4220.999999999999
+Rectangle: (x1, y1) = (-10, -55), (x2, y2) = (4, -96), color = dark blue, area = 574
+Circle: center = (-56, 36), radius = 65, color = red, area = 13273.228961416877
+Triangle: (x1, y1) = (54, 81), (x2, y2) = (-10, 91), (x3, y3) = (-15, -26), color = red, area = 3768.9999999999995
+Triangle: (x1, y1) = (-30, -37), (x2, y2) = (-76, 22), (x3, y3) = (-2, -80), color = yellow, area = 163.0000000000148
+Rectangle: (x1, y1) = (-24, 100), (x2, y2) = (30, -1), color = yellow, area = 5454
+Circle: center = (-85, 0), radius = 30, color = green, area = 2827.4333882308138
+Triangle: (x1, y1) = (-99, -90), (x2, y2) = (4, 52), (x3, y3) = (-21, 57), color = yellow, area = 2032.4999999999982
+Triangle: (x1, y1) = (41, -52), (x2, y2) = (-92, -41), (x3, y3) = (89, -88), color = red, area = 2129.9999999999977
+Triangle: (x1, y1) = (98, 48), (x2, y2) = (46, -38), (x3, y3) = (91, 81), color = violet, area = 1158.9999999999957
+Circle: center = (63, -37), radius = 91, color = blue, area = 26015.528764377075
+Triangle: (x1, y1) = (65, -64), (x2, y2) = (-65, -6), (x3, y3) = (58, -9), color = , area = 3371.999999999999
+Circle: center = (33, 41), radius = 22, color = violet, area = 1520.53084433746
+Triangle: (x1, y1) = (-21, -95), (x2, y2) = (-100, -76), (x3, y3) = (89, -10), color = dark blue, area = 4402.500000000001
+Circle: center = (12, 90), radius = 75, color = red, area = 17671.458676442588
+Circle: center = (22, -79), radius = 15, color = green, area = 706.8583470577034
+Rectangle: (x1, y1) = (23, -9), (x2, y2) = (66, -96), color = red, area = 3741
+Triangle: (x1, y1) = (-42, 38), (x2, y2) = (-96, -95), (x3, y3) = (-78, 58), color = green, area = 2933.9999999999977
+Rectangle: (x1, y1) = (23, 83), (x2, y2) = (27, -20), color = blue, area = 412
+Triangle: (x1, y1) = (-72, 59), (x2, y2) = (96, -32), (x3, y3) = (-66, 96), color = orange, area = 3381.0000000000023
+Circle: center = (69, -32), radius = 79, color = blue, area = 19606.6797510539
+Triangle: (x1, y1) = (-31, 48), (x2, y2) = (-51, 92), (x3, y3) = (-94, -95), color = orange, area = 2815.999999999998
+Rectangle: (x1, y1) = (89, -12), (x2, y2) = (90, -18), color = violet, area = 6
+Circle: center = (-82, -6), radius = 39, color = red, area = 4778.362426110075
+Circle: center = (99, -93), radius = 33, color = orange, area = 3421.194399759285
+Rectangle: (x1, y1) = (47, -14), (x2, y2) = (53, -66), color = yellow, area = 312
+Rectangle: (x1, y1) = (80, -26), (x2, y2) = (82, -81), color = yellow, area = 110
+Circle: center = (-89, -35), radius = 58, color = blue, area = 10568.317686676064
+Circle: center = (99, 93), radius = 89, color = green, area = 24884.55540908475
+Triangle: (x1, y1) = (-71, 22), (x2, y2) = (91, 71), (x3, y3) = (38, -8), color = red, area = 5100.499999999999
+Triangle: (x1, y1) = (9, -10), (x2, y2) = (-70, -70), (x3, y3) = (-44, -52), color = orange, area = 68.99999999998704
+Triangle: (x1, y1) = (-37, 47), (x2, y2) = (-88, 40), (x3, y3) = (99, 3), color = , area = 1598.0000000000027
+Triangle: (x1, y1) = (-11, -42), (x2, y2) = (70, 56), (x3, y3) = (21, -53), color = , area = 2013.4999999999995
+Triangle: (x1, y1) = (-71, -34), (x2, y2) = (-82, -69), (x3, y3) = (36, -86), color = dark blue, area = 2158.500000000001
+Rectangle: (x1, y1) = (84, 28), (x2, y2) = (92, -55), color = orange, area = 664
+Circle: center = (49, 78), radius = 44, color = violet, area = 6082.12337734984
+Triangle: (x1, y1) = (67, -33), (x2, y2) = (73, -19), (x3, y3) = (50, -22), color = yellow, area = 152.0
+Triangle: (x1, y1) = (-37, 66), (x2, y2) = (86, 1), (x3, y3) = (43, -96), color = blue, area = 7362.999999999997
+Circle: center = (85, -92), radius = 39, color = blue, area = 4778.362426110075
+Circle: center = (100, -76), radius = 62, color = orange, area = 12076.282160399165
+Circle: center = (-86, -84), radius = 55, color = dark blue, area = 9503.317777109125
+Circle: center = (36, -56), radius = 91, color = dark blue, area = 26015.528764377075
+Circle: center = (57, -36), radius = 72, color = orange, area = 16286.016316209487
+Rectangle: (x1, y1) = (39, -21), (x2, y2) = (44, -54), color = , area = 165
+Rectangle: (x1, y1) = (77, 34), (x2, y2) = (87, -82), color = red, area = 1160
+Circle: center = (36, 79), radius = 76, color = , area = 18145.839167134644
+Triangle: (x1, y1) = (-6, -74), (x2, y2) = (9, 92), (x3, y3) = (-10, 32), color = orange, area = 1126.999999999993
+Rectangle: (x1, y1) = (-3, -62), (x2, y2) = (53, -80), color = green, area = 1008
+Triangle: (x1, y1) = (93, 5), (x2, y2) = (54, 13), (x3, y3) = (-58, 89), color = orange, area = 1033.9999999999982
+Rectangle: (x1, y1) = (-54, -62), (x2, y2) = (83, -71), color = yellow, area = 1233
+Circle: center = (8, 16), radius = 67, color = yellow, area = 14102.609421964582
+Rectangle: (x1, y1) = (-80, 18), (x2, y2) = (-34, -90), color = dark blue, area = 4968
+Triangle: (x1, y1) = (15, -69), (x2, y2) = (48, 54), (x3, y3) = (-61, 41), color = orange, area = 6488.999999999997
+Rectangle: (x1, y1) = (78, -26), (x2, y2) = (81, -68), color = red, area = 126
+Rectangle: (x1, y1) = (73, 64), (x2, y2) = (84, -39), color = orange, area = 1133
+Circle: center = (-58, 28), radius = 86, color = violet, area = 23235.21926595011
+Circle: center = (93, -60), radius = 24, color = red, area = 1809.5573684677208
+Circle: center = (60, 79), radius = 20, color = dark blue, area = 1256.6370614359173
+Circle: center = (-7, 19), radius = 75, color = orange, area = 17671.458676442588
+Triangle: (x1, y1) = (94, 64), (x2, y2) = (33, 50), (x3, y3) = (-98, 21), color = orange, area = 32.50000000028727
+Rectangle: (x1, y1) = (36, 32), (x2, y2) = (42, -52), color = red, area = 504
+Circle: center = (-57, -89), radius = 95, color = orange, area = 28352.873698647883
+Triangle: (x1, y1) = (48, -48), (x2, y2) = (98, 51), (x3, y3) = (1, 19), color = dark blue, area = 4001.500000000001
+Triangle: (x1, y1) = (11, -23), (x2, y2) = (76, -91), (x3, y3) = (68, 15), color = blue, area = 3173.0
+Triangle: (x1, y1) = (50, -72), (x2, y2) = (51, 19), (x3, y3) = (-58, -97), color = yellow, area = 4901.5
+Triangle: (x1, y1) = (97, -25), (x2, y2) = (40, -5), (x3, y3) = (11, 40), color = green, area = 992.5000000000007
+Rectangle: (x1, y1) = (-47, -93), (x2, y2) = (-36, -94), color = dark blue, area = 11
+Rectangle: (x1, y1) = (-89, -50), (x2, y2) = (5, -95), color = violet, area = 4230
+Triangle: (x1, y1) = (-83, -97), (x2, y2) = (-55, 4), (x3, y3) = (-46, 41), color = blue, area = 63.49999999995055
+Triangle: (x1, y1) = (-97, 79), (x2, y2) = (51, 68), (x3, y3) = (46, 55), color = red, area = 989.5000000000026
+Rectangle: (x1, y1) = (-54, -1), (x2, y2) = (-50, -67), color = yellow, area = 264
+Circle: center = (14, 96), radius = 67, color = violet, area = 14102.609421964582
+Rectangle: (x1, y1) = (84, -92), (x2, y2) = (86, -98), color = dark blue, area = 12
+Triangle: (x1, y1) = (2, 86), (x2, y2) = (-30, -100), (x3, y3) = (6, 6), color = yellow, area = 1652.0000000000139
+Rectangle: (x1, y1) = (-16, -81), (x2, y2) = (76, -94), color = violet, area = 1196
+Triangle: (x1, y1) = (-64, 3), (x2, y2) = (73, 36), (x3, y3) = (42, 22), color = green, area = 447.5000000000003
+Triangle: (x1, y1) = (-92, 82), (x2, y2) = (19, -96), (x3, y3) = (-59, -65), color = dark blue, area = 5221.499999999997
+Circle: center = (-29, 78), radius = 74, color = blue, area = 17203.36137105771
+Triangle: (x1, y1) = (60, -3), (x2, y2) = (-56, 1), (x3, y3) = (-8, 29), color = green, area = 1720.0000000000016
+Triangle: (x1, y1) = (-63, -30), (x2, y2) = (-100, 44), (x3, y3) = (-62, -44), color = dark blue, area = 221.99999999999937
+Circle: center = (27, 28), radius = 76, color = red, area = 18145.839167134644
+Circle: center = (-71, -31), radius = 61, color = green, area = 11689.86626400762
+Circle: center = (69, -59), radius = 11, color = red, area = 380.132711084365
+Triangle: (x1, y1) = (1, 30), (x2, y2) = (53, -94), (x3, y3) = (1, -7), color = dark blue, area = 962.0000000000016
+Rectangle: (x1, y1) = (-38, 49), (x2, y2) = (-24, -41), color = blue, area = 1260
+Circle: center = (-20, 53), radius = 99, color = blue, area = 30790.74959783356
+Rectangle: (x1, y1) = (-40, 10), (x2, y2) = (-7, -8), color = yellow, area = 594
+Circle: center = (-85, 54), radius = 18, color = violet, area = 1017.8760197630929
+Circle: center = (28, -69), radius = 72, color = , area = 16286.016316209487
+Circle: center = (-34, -92), radius = 48, color = , area = 7238.229473870883
+Circle: center = (64, -72), radius = 20, color = yellow, area = 1256.6370614359173
+Rectangle: (x1, y1) = (-99, 51), (x2, y2) = (-84, -98), color = blue, area = 2235
+Triangle: (x1, y1) = (93, 88), (x2, y2) = (-32, -19), (x3, y3) = (81, -40), color = dark blue, area = 7358.000000000001
+Triangle: (x1, y1) = (88, -33), (x2, y2) = (80, 9), (x3, y3) = (53, -15), color = yellow, area = 663.0000000000002
+Triangle: (x1, y1) = (-78, 2), (x2, y2) = (52, -38), (x3, y3) = (-76, 27), color = dark blue, area = 1665.000000000002
+Rectangle: (x1, y1) = (58, -60), (x2, y2) = (99, -91), color = violet, area = 1271
+Rectangle: (x1, y1) = (-74, 48), (x2, y2) = (77, -96), color = yellow, area = 21744
+Triangle: (x1, y1) = (-80, 15), (x2, y2) = (36, 49), (x3, y3) = (-90, 59), color = red, area = 2721.9999999999995
+Circle: center = (45, 67), radius = 67, color = yellow, area = 14102.609421964582
+Triangle: (x1, y1) = (5, -22), (x2, y2) = (10, -23), (x3, y3) = (64, -81), color = , area = 117.9999999999996
+Triangle: (x1, y1) = (17, -44), (x2, y2) = (36, -38), (x3, y3) = (88, 55), color = orange, area = 727.4999999999993
+Rectangle: (x1, y1) = (22, -12), (x2, y2) = (99, -55), color = orange, area = 3311
+Circle: center = (87, -22), radius = 13, color = orange, area = 530.929158456675
+Circle: center = (-68, -46), radius = 89, color = yellow, area = 24884.55540908475
+Rectangle: (x1, y1) = (-32, -34), (x2, y2) = (65, -61), color = , area = 2619
+Triangle: (x1, y1) = (49, 4), (x2, y2) = (-100, 8), (x3, y3) = (-46, -46), color = dark blue, area = 3915.0000000000045
+Triangle: (x1, y1) = (46, 22), (x2, y2) = (-75, 76), (x3, y3) = (91, -77), color = green, area = 4774.499999999997
+Triangle: (x1, y1) = (42, 100), (x2, y2) = (-7, -10), (x3, y3) = (-23, -14), color = , area = 781.9999999999976
+Triangle: (x1, y1) = (44, -98), (x2, y2) = (67, -56), (x3, y3) = (60, 23), color = , area = 1055.5000000000018
+Triangle: (x1, y1) = (77, -68), (x2, y2) = (15, -18), (x3, y3) = (-68, -38), color = green, area = 2694.9999999999995
+Rectangle: (x1, y1) = (17, -81), (x2, y2) = (61, -90), color = , area = 396
+Circle: center = (38, -41), radius = 19, color = violet, area = 1134.1149479459152
+Rectangle: (x1, y1) = (91, -46), (x2, y2) = (92, -58), color = , area = 12
+Circle: center = (-15, -8), radius = 22, color = red, area = 1520.53084433746
+Rectangle: (x1, y1) = (51, 56), (x2, y2) = (53, -80), color = violet, area = 272
+Triangle: (x1, y1) = (67, -81), (x2, y2) = (85, -43), (x3, y3) = (-71, -56), color = blue, area = 2847.0000000000005
+Circle: center = (17, -8), radius = 68, color = blue, area = 14526.724430199203
+Rectangle: (x1, y1) = (-10, 53), (x2, y2) = (54, -91), color = yellow, area = 9216
+Rectangle: (x1, y1) = (-79, -68), (x2, y2) = (-30, -97), color = orange, area = 1421
+Triangle: (x1, y1) = (23, -64), (x2, y2) = (-47, -44), (x3, y3) = (-65, 64), color = red, area = 3599.999999999999
+Rectangle: (x1, y1) = (46, -63), (x2, y2) = (94, -83), color = yellow, area = 960
+Rectangle: (x1, y1) = (-40, 66), (x2, y2) = (89, -51), color = green, area = 15093
+Rectangle: (x1, y1) = (-78, 24), (x2, y2) = (-6, -44), color = orange, area = 4896
+Rectangle: (x1, y1) = (36, -22), (x2, y2) = (94, -69), color = dark blue, area = 2726
+Circle: center = (-69, 62), radius = 22, color = violet, area = 1520.53084433746
+Triangle: (x1, y1) = (87, -70), (x2, y2) = (17, -92), (x3, y3) = (36, -89), color = violet, area = 103.99999999999774
+Triangle: (x1, y1) = (-79, -37), (x2, y2) = (-61, -52), (x3, y3) = (17, 37), color = , area = 1386.0000000000014
+Triangle: (x1, y1) = (-33, -56), (x2, y2) = (-90, 87), (x3, y3) = (-21, 51), color = violet, area = 3907.500000000002
+Triangle: (x1, y1) = (-70, -53), (x2, y2) = (76, -21), (x3, y3) = (-12, -57), color = yellow, area = 1220.0
+Rectangle: (x1, y1) = (-9, 95), (x2, y2) = (19, -26), color = dark blue, area = 3388
+Triangle: (x1, y1) = (78, 81), (x2, y2) = (-86, 33), (x3, y3) = (90, 14), color = dark blue, area = 5781.999999999998
+Rectangle: (x1, y1) = (-46, 18), (x2, y2) = (51, -13), color = red, area = 3007
+Triangle: (x1, y1) = (-67, 31), (x2, y2) = (-11, 86), (x3, y3) = (31, -75), color = blue, area = 5663.0
+Triangle: (x1, y1) = (-96, -48), (x2, y2) = (-45, 72), (x3, y3) = (73, 7), color = , area = 8737.500000000004
+Rectangle: (x1, y1) = (48, 37), (x2, y2) = (56, -25), color = dark blue, area = 496
+Rectangle: (x1, y1) = (-15, 37), (x2, y2) = (-13, 35), color = violet, area = 4
+Triangle: (x1, y1) = (17, -93), (x2, y2) = (94, 74), (x3, y3) = (-72, -46), color = violet, area = 9241.000000000007
+Triangle: (x1, y1) = (-62, 82), (x2, y2) = (40, -82), (x3, y3) = (70, -12), color = violet, area = 6030.0
+Triangle: (x1, y1) = (56, 17), (x2, y2) = (56, 68), (x3, y3) = (-9, 45), color = orange, area = 1657.5000000000005
+Circle: center = (14, 85), radius = 38, color = dark blue, area = 4536.459791783661
+Circle: center = (83, -49), radius = 32, color = dark blue, area = 3216.990877275948
+Triangle: (x1, y1) = (-54, 22), (x2, y2) = (41, -30), (x3, y3) = (-63, -3), color = orange, area = 1421.499999999999
+Rectangle: (x1, y1) = (43, 11), (x2, y2) = (69, -42), color = red, area = 1378
+Rectangle: (x1, y1) = (61, -10), (x2, y2) = (70, -59), color = dark blue, area = 441
+Triangle: (x1, y1) = (7, 36), (x2, y2) = (80, -54), (x3, y3) = (-83, 93), color = violet, area = 1969.5000000000134
+Rectangle: (x1, y1) = (-34, -67), (x2, y2) = (94, -73), color = yellow, area = 768
+Rectangle: (x1, y1) = (-9, 66), (x2, y2) = (68, 43), color = yellow, area = 1771
+Rectangle: (x1, y1) = (45, -76), (x2, y2) = (86, -79), color = yellow, area = 123
+Triangle: (x1, y1) = (92, -61), (x2, y2) = (32, 62), (x3, y3) = (-3, 70), color = red, area = 1912.5000000000014
+Rectangle: (x1, y1) = (8, 21), (x2, y2) = (81, -84), color = orange, area = 7665
+Rectangle: (x1, y1) = (16, -12), (x2, y2) = (33, -61), color = orange, area = 833
+Triangle: (x1, y1) = (-77, -48), (x2, y2) = (82, -54), (x3, y3) = (-89, -92), color = green, area = 3533.999999999995
+Triangle: (x1, y1) = (24, -67), (x2, y2) = (100, 45), (x3, y3) = (-32, 85), color = green, area = 8912.0
+Triangle: (x1, y1) = (44, 33), (x2, y2) = (14, -20), (x3, y3) = (-77, 60), color = yellow, area = 3611.499999999999
+Rectangle: (x1, y1) = (-30, 89), (x2, y2) = (73, 56), color = blue, area = 3399
+Rectangle: (x1, y1) = (-81, 83), (x2, y2) = (33, -69), color = blue, area = 17328
+Rectangle: (x1, y1) = (33, -39), (x2, y2) = (82, -62), color = dark blue, area = 1127
+Circle: center = (-40, -46), radius = 40, color = dark blue, area = 5026.548245743669
+Rectangle: (x1, y1) = (39, -24), (x2, y2) = (51, -77), color = violet, area = 636
+Circle: center = (-81, -4), radius = 37, color = , area = 4300.840342764427
+Circle: center = (-90, -75), radius = 73, color = violet, area = 16741.54725098001
+Rectangle: (x1, y1) = (23, 0), (x2, y2) = (83, -35), color = green, area = 2100
+Circle: center = (32, -52), radius = 16, color = blue, area = 804.247719318987
+Rectangle: (x1, y1) = (75, 95), (x2, y2) = (88, 33), color = , area = 806
+Rectangle: (x1, y1) = (-83, 79), (x2, y2) = (27, 49), color = violet, area = 3300
+Circle: center = (-72, 95), radius = 68, color = green, area = 14526.724430199203
+Triangle: (x1, y1) = (50, 68), (x2, y2) = (6, -52), (x3, y3) = (-91, 21), color = violet, area = 7426.000000000001
+Triangle: (x1, y1) = (-96, 76), (x2, y2) = (13, -30), (x3, y3) = (10, 50), color = yellow, area = 4201.000000000002
+Circle: center = (-70, -57), radius = 1, color = red, area = 3.141592653589793
+Circle: center = (62, 85), radius = 98, color = violet, area = 30171.855845076374
+Triangle: (x1, y1) = (16, 14), (x2, y2) = (-28, -93), (x3, y3) = (35, -25), color = red, area = 1874.4999999999989
+Rectangle: (x1, y1) = (70, -2), (x2, y2) = (88, -66), color = dark blue, area = 1152
+Rectangle: (x1, y1) = (28, 43), (x2, y2) = (91, -94), color = green, area = 8631
+Rectangle: (x1, y1) = (-34, 34), (x2, y2) = (55, 30), color = blue, area = 356
+Rectangle: (x1, y1) = (41, 85), (x2, y2) = (48, -51), color = green, area = 952
+Circle: center = (-93, 81), radius = 66, color = yellow, area = 13684.77759903714
+Rectangle: (x1, y1) = (35, 97), (x2, y2) = (60, -7), color = red, area = 2600
+Rectangle: (x1, y1) = (-82, -28), (x2, y2) = (2, -94), color = red, area = 5544
+Rectangle: (x1, y1) = (96, 66), (x2, y2) = (97, -14), color = violet, area = 80
+Triangle: (x1, y1) = (-52, -20), (x2, y2) = (-57, -28), (x3, y3) = (-37, 27), color = red, area = 57.499999999998735
+Rectangle: (x1, y1) = (76, 64), (x2, y2) = (98, -75), color = green, area = 3058
+Rectangle: (x1, y1) = (-38, -29), (x2, y2) = (31, -63), color = yellow, area = 2346
+Rectangle: (x1, y1) = (-83, -10), (x2, y2) = (-19, -66), color = violet, area = 3584
+Triangle: (x1, y1) = (28, 25), (x2, y2) = (17, 18), (x3, y3) = (-99, -62), color = , area = 33.99999999996328
+Triangle: (x1, y1) = (-36, -97), (x2, y2) = (45, 66), (x3, y3) = (-27, 23), color = orange, area = 4126.499999999997
+Triangle: (x1, y1) = (51, 11), (x2, y2) = (-95, -23), (x3, y3) = (-37, -66), color = orange, area = 4124.999999999996
+Rectangle: (x1, y1) = (91, 99), (x2, y2) = (97, -96), color = orange, area = 1170
+Circle: center = (96, -11), radius = 71, color = violet, area = 15836.768566746146
+Rectangle: (x1, y1) = (11, 77), (x2, y2) = (77, -69), color = blue, area = 9636
+Triangle: (x1, y1) = (78, 92), (x2, y2) = (48, -71), (x3, y3) = (35, -18), color = dark blue, area = 1854.500000000003
+Circle: center = (-33, -13), radius = 32, color = , area = 3216.990877275948
+Circle: center = (-98, -88), radius = 13, color = orange, area = 530.929158456675
+Triangle: (x1, y1) = (76, 79), (x2, y2) = (-23, 66), (x3, y3) = (-84, -90), color = yellow, area = 7325.500000000002
+Circle: center = (-10, -90), radius = 64, color = green, area = 12867.963509103793
+Rectangle: (x1, y1) = (94, -100), (x2, y2) = (98, -101), color = green, area = 4
+Triangle: (x1, y1) = (-19, 67), (x2, y2) = (99, -33), (x3, y3) = (-6, -61), color = orange, area = 6901.999999999996
+Rectangle: (x1, y1) = (-89, 41), (x2, y2) = (4, -47), color = red, area = 8184
+Triangle: (x1, y1) = (97, 18), (x2, y2) = (91, 63), (x3, y3) = (-34, 47), color = violet, area = 2860.4999999999977
+Circle: center = (6, 25), radius = 57, color = yellow, area = 10207.034531513238
+Rectangle: (x1, y1) = (52, -58), (x2, y2) = (57, -89), color = , area = 155
+Rectangle: (x1, y1) = (-75, -84), (x2, y2) = (85, -99), color = , area = 2400
+Circle: center = (61, 85), radius = 22, color = , area = 1520.53084433746
+Circle: center = (-88, 84), radius = 62, color = green, area = 12076.282160399165
+Circle: center = (49, -30), radius = 81, color = green, area = 20611.989400202634
+Rectangle: (x1, y1) = (3, 47), (x2, y2) = (21, -60), color = yellow, area = 1926
+Circle: center = (-88, 63), radius = 74, color = violet, area = 17203.36137105771
+Circle: center = (-56, 65), radius = 42, color = blue, area = 5541.769440932395
+Triangle: (x1, y1) = (-16, -54), (x2, y2) = (99, 78), (x3, y3) = (5, 30), color = yellow, area = 3443.999999999997
+Rectangle: (x1, y1) = (63, -15), (x2, y2) = (68, -96), color = , area = 405
+Rectangle: (x1, y1) = (-18, 44), (x2, y2) = (-2, -41), color = orange, area = 1360
+Rectangle: (x1, y1) = (8, -62), (x2, y2) = (89, -79), color = green, area = 1377
+Triangle: (x1, y1) = (43, 1), (x2, y2) = (68, -89), (x3, y3) = (-32, 96), color = dark blue, area = 2187.500000000018
+Circle: center = (34, 93), radius = 38, color = dark blue, area = 4536.459791783661
+Circle: center = (73, 100), radius = 83, color = orange, area = 21642.431790580085
+Circle: center = (55, 65), radius = 61, color = orange, area = 11689.86626400762
+Circle: center = (94, -44), radius = 59, color = dark blue, area = 10935.88402714607
+Circle: center = (-13, 40), radius = 83, color = orange, area = 21642.431790580085
+Triangle: (x1, y1) = (57, 14), (x2, y2) = (-94, 92), (x3, y3) = (7, 71), color = red, area = 2353.5
+Rectangle: (x1, y1) = (30, -89), (x2, y2) = (47, -99), color = orange, area = 170
+Circle: center = (98, 53), radius = 24, color = yellow, area = 1809.5573684677208
+Triangle: (x1, y1) = (-70, -17), (x2, y2) = (72, -91), (x3, y3) = (43, 0), color = yellow, area = 5388.000000000002
+Circle: center = (-6, -4), radius = 2, color = , area = 12.566370614359172
+Rectangle: (x1, y1) = (42, 24), (x2, y2) = (69, -55), color = orange, area = 2133
+Triangle: (x1, y1) = (-24, 49), (x2, y2) = (93, 42), (x3, y3) = (-13, 88), color = dark blue, area = 2320.0
+Triangle: (x1, y1) = (98, 50), (x2, y2) = (-41, 65), (x3, y3) = (9, -21), color = dark blue, area = 5602.000000000001
+Triangle: (x1, y1) = (84, 79), (x2, y2) = (-70, 8), (x3, y3) = (-71, 55), color = yellow, area = 3654.499999999998
+Triangle: (x1, y1) = (8, 67), (x2, y2) = (54, -97), (x3, y3) = (38, 2), color = , area = 965.0000000000027
+Rectangle: (x1, y1) = (-97, -97), (x2, y2) = (83, -99), color = blue, area = 360
+Circle: center = (19, 26), radius = 27, color = violet, area = 2290.221044466959
+Rectangle: (x1, y1) = (-100, -25), (x2, y2) = (-24, -70), color = violet, area = 3420
+Rectangle: (x1, y1) = (78, -16), (x2, y2) = (83, -70), color = dark blue, area = 270
+Triangle: (x1, y1) = (2, 40), (x2, y2) = (67, -43), (x3, y3) = (77, 36), color = blue, area = 2982.4999999999986
+Rectangle: (x1, y1) = (-41, 33), (x2, y2) = (61, -25), color = orange, area = 5916
+Rectangle: (x1, y1) = (-92, -67), (x2, y2) = (-2, -73), color = , area = 540
+Triangle: (x1, y1) = (-66, 45), (x2, y2) = (32, -72), (x3, y3) = (45, -42), color = blue, area = 2230.500000000002
+Rectangle: (x1, y1) = (19, 39), (x2, y2) = (44, -26), color = green, area = 1625
+Rectangle: (x1, y1) = (1, -87), (x2, y2) = (10, -93), color = violet, area = 54
+Circle: center = (-87, 11), radius = 69, color = , area = 14957.122623741005
+Triangle: (x1, y1) = (26, 8), (x2, y2) = (-32, 86), (x3, y3) = (26, -92), color = orange, area = 2900.0000000000064
+Circle: center = (-98, -53), radius = 62, color = red, area = 12076.282160399165
+Circle: center = (-98, -87), radius = 68, color = blue, area = 14526.724430199203
+Rectangle: (x1, y1) = (-21, -67), (x2, y2) = (-6, -97), color = orange, area = 450
+Triangle: (x1, y1) = (-54, -70), (x2, y2) = (-82, -55), (x3, y3) = (-85, -36), color = violet, area = 243.50000000000003
+Circle: center = (13, -44), radius = 65, color = yellow, area = 13273.228961416877
+Triangle: (x1, y1) = (-54, 48), (x2, y2) = (-47, 88), (x3, y3) = (77, 31), color = blue, area = 2679.4999999999995
+Rectangle: (x1, y1) = (-93, -83), (x2, y2) = (-33, -93), color = green, area = 600
+Circle: center = (73, -7), radius = 49, color = violet, area = 7542.9639612690935
+Rectangle: (x1, y1) = (-37, -1), (x2, y2) = (-20, -50), color = red, area = 833
+Triangle: (x1, y1) = (-44, -50), (x2, y2) = (-54, -92), (x3, y3) = (-39, 58), color = violet, area = 434.99999999999073
+Triangle: (x1, y1) = (55, -58), (x2, y2) = (57, -54), (x3, y3) = (-84, -83), color = , area = 253.00000000000063
+Triangle: (x1, y1) = (-41, 2), (x2, y2) = (45, 52), (x3, y3) = (-93, -12), color = blue, area = 698.0000000000099
+Circle: center = (-36, -23), radius = 98, color = yellow, area = 30171.855845076374
+Triangle: (x1, y1) = (87, -88), (x2, y2) = (23, -94), (x3, y3) = (-7, 78), color = red, area = 5593.999999999996
+Rectangle: (x1, y1) = (-32, -57), (x2, y2) = (65, -84), color = blue, area = 2619
+Triangle: (x1, y1) = (59, 26), (x2, y2) = (78, -63), (x3, y3) = (-62, -45), color = red, area = 6058.999999999999
+Triangle: (x1, y1) = (90, 50), (x2, y2) = (25, -83), (x3, y3) = (-52, -21), color = , area = 7135.500000000001
+Circle: center = (100, -1), radius = 87, color = dark blue, area = 23778.714795021144
+Triangle: (x1, y1) = (24, 34), (x2, y2) = (-32, -18), (x3, y3) = (81, 12), color = red, area = 2098.0000000000014
+Rectangle: (x1, y1) = (69, 90), (x2, y2) = (78, -49), color = orange, area = 1251
+Triangle: (x1, y1) = (-10, 36), (x2, y2) = (49, -100), (x3, y3) = (-70, -80), color = blue, area = 7502.000000000005
+Rectangle: (x1, y1) = (87, 20), (x2, y2) = (98, -76), color = dark blue, area = 1056
+Triangle: (x1, y1) = (100, -11), (x2, y2) = (66, 9), (x3, y3) = (20, 40), color = , area = 66.99999999999665
+Triangle: (x1, y1) = (73, 37), (x2, y2) = (13, 24), (x3, y3) = (-48, -6), color = red, area = 503.50000000000597
+Circle: center = (-24, 95), radius = 59, color = green, area = 10935.88402714607
+Triangle: (x1, y1) = (-40, -50), (x2, y2) = (-87, -89), (x3, y3) = (22, 15), color = green, area = 318.5000000000177
+Circle: center = (-1, -37), radius = 36, color = blue, area = 4071.5040790523717
+Triangle: (x1, y1) = (39, -37), (x2, y2) = (52, 37), (x3, y3) = (-81, 44), color = violet, area = 4966.500000000003
+Rectangle: (x1, y1) = (-5, -96), (x2, y2) = (81, -97), color = yellow, area = 86
+Circle: center = (96, 59), radius = 96, color = red, area = 28952.917895483533
+Circle: center = (-94, -94), radius = 75, color = yellow, area = 17671.458676442588
+Triangle: (x1, y1) = (79, -88), (x2, y2) = (-58, 47), (x3, y3) = (-92, -80), color = yellow, area = 10994.500000000007
+Circle: center = (-32, -77), radius = 33, color = green, area = 3421.194399759285
+Triangle: (x1, y1) = (0, 92), (x2, y2) = (47, -27), (x3, y3) = (-58, 54), color = orange, area = 4343.999999999997
+Circle: center = (4, 36), radius = 62, color = red, area = 12076.282160399165
+Rectangle: (x1, y1) = (-40, 100), (x2, y2) = (89, 87), color = yellow, area = 1677
+Triangle: (x1, y1) = (64, -36), (x2, y2) = (33, -87), (x3, y3) = (38, -37), color = orange, area = 647.4999999999997
+Rectangle: (x1, y1) = (48, -23), (x2, y2) = (75, -82), color = orange, area = 1593
+Circle: center = (38, 39), radius = 99, color = , area = 30790.74959783356
+Triangle: (x1, y1) = (75, -98), (x2, y2) = (-24, -38), (x3, y3) = (32, -98), color = orange, area = 1290.0
+Circle: center = (-22, 71), radius = 28, color = violet, area = 2463.0086404143976
+Rectangle: (x1, y1) = (-99, 33), (x2, y2) = (-1, -10), color = orange, area = 4214
+Triangle: (x1, y1) = (-42, -33), (x2, y2) = (-41, 82), (x3, y3) = (61, -37), color = red, area = 5924.500000000003
+Rectangle: (x1, y1) = (-18, -66), (x2, y2) = (47, -76), color = , area = 650
+Rectangle: (x1, y1) = (67, -27), (x2, y2) = (96, -31), color = blue, area = 116
+Circle: center = (12, 22), radius = 99, color = blue, area = 30790.74959783356
+Circle: center = (69, -43), radius = 67, color = yellow, area = 14102.609421964582
+Circle: center = (25, 40), radius = 55, color = red, area = 9503.317777109125
+Rectangle: (x1, y1) = (-95, -46), (x2, y2) = (-34, -70), color = red, area = 1464
+Rectangle: (x1, y1) = (24, 86), (x2, y2) = (60, 10), color = , area = 2736
+Rectangle: (x1, y1) = (61, 19), (x2, y2) = (73, -47), color = blue, area = 792
+Circle: center = (-27, -32), radius = 78, color = violet, area = 19113.4497044403
+Triangle: (x1, y1) = (-67, 50), (x2, y2) = (56, 66), (x3, y3) = (-21, 20), color = dark blue, area = 2212.9999999999986
+Rectangle: (x1, y1) = (59, 24), (x2, y2) = (81, 11), color = dark blue, area = 286
+Rectangle: (x1, y1) = (-7, -1), (x2, y2) = (69, -95), color = orange, area = 7144
+Rectangle: (x1, y1) = (-13, 39), (x2, y2) = (48, -80), color = dark blue, area = 7259
+Rectangle: (x1, y1) = (-36, 16), (x2, y2) = (89, -47), color = orange, area = 7875
+Rectangle: (x1, y1) = (22, 99), (x2, y2) = (79, 35), color = green, area = 3648
+Rectangle: (x1, y1) = (-48, -1), (x2, y2) = (-10, -52), color = , area = 1938
+Rectangle: (x1, y1) = (30, -2), (x2, y2) = (45, -54), color = violet, area = 780
+Triangle: (x1, y1) = (96, -34), (x2, y2) = (98, 43), (x3, y3) = (63, -66), color = green, area = 1238.5000000000002
+Triangle: (x1, y1) = (-99, -13), (x2, y2) = (48, -86), (x3, y3) = (5, -34), color = blue, area = 2252.4999999999927
+Rectangle: (x1, y1) = (1, 58), (x2, y2) = (62, 22), color = dark blue, area = 2196
+Rectangle: (x1, y1) = (-99, 6), (x2, y2) = (61, -13), color = , area = 3040
+Rectangle: (x1, y1) = (-77, 94), (x2, y2) = (87, 53), color = , area = 6724
+Circle: center = (-63, 26), radius = 61, color = green, area = 11689.86626400762
+Rectangle: (x1, y1) = (1, 53), (x2, y2) = (62, -36), color = , area = 5429
+Triangle: (x1, y1) = (96, 2), (x2, y2) = (-49, 46), (x3, y3) = (73, -48), color = blue, area = 4131.000000000002
+Circle: center = (53, 14), radius = 39, color = orange, area = 4778.362426110075
+Triangle: (x1, y1) = (-79, 48), (x2, y2) = (86, 70), (x3, y3) = (88, 51), color = dark blue, area = 1589.499999999998
+Circle: center = (4, 28), radius = 56, color = orange, area = 9852.03456165759
+Rectangle: (x1, y1) = (-38, 25), (x2, y2) = (15, -14), color = dark blue, area = 2067
+Rectangle: (x1, y1) = (64, 92), (x2, y2) = (72, -22), color = orange, area = 912
+Circle: center = (75, 52), radius = 43, color = blue, area = 5808.804816487527
+Circle: center = (63, -13), radius = 70, color = green, area = 15393.804002589986
+Circle: center = (-40, -26), radius = 9, color = orange, area = 254.46900494077323
+Rectangle: (x1, y1) = (27, -40), (x2, y2) = (65, -50), color = green, area = 380
+Rectangle: (x1, y1) = (-61, -79), (x2, y2) = (53, -83), color = green, area = 456
+Rectangle: (x1, y1) = (47, 100), (x2, y2) = (80, 82), color = , area = 594
+Circle: center = (-50, 36), radius = 19, color = yellow, area = 1134.1149479459152
+Rectangle: (x1, y1) = (-68, -26), (x2, y2) = (30, -29), color = red, area = 294
+Rectangle: (x1, y1) = (4, -94), (x2, y2) = (21, -95), color = orange, area = 17
+Triangle: (x1, y1) = (-96, 88), (x2, y2) = (-31, 76), (x3, y3) = (73, -11), color = yellow, area = 2203.499999999997
+Circle: center = (21, -4), radius = 79, color = orange, area = 19606.6797510539
+Circle: center = (-100, 64), radius = 7, color = violet, area = 153.93804002589985
+Rectangle: (x1, y1) = (-92, -49), (x2, y2) = (-29, -50), color = red, area = 63
+Circle: center = (-54, -51), radius = 55, color = dark blue, area = 9503.317777109125
+Triangle: (x1, y1) = (14, -54), (x2, y2) = (-77, 0), (x3, y3) = (57, -64), color = green, area = 705.9999999999997
+Circle: center = (46, -55), radius = 56, color = orange, area = 9852.03456165759
+Rectangle: (x1, y1) = (41, -100), (x2, y2) = (51, -101), color = green, area = 10
+Triangle: (x1, y1) = (66, -94), (x2, y2) = (38, -88), (x3, y3) = (-85, -49), color = dark blue, area = 177.00000000000338
+Triangle: (x1, y1) = (-28, 84), (x2, y2) = (11, -44), (x3, y3) = (30, 37), color = dark blue, area = 2795.5000000000014
+Circle: center = (-19, 59), radius = 54, color = , area = 9160.884177867836
+Rectangle: (x1, y1) = (74, 41), (x2, y2) = (96, -82), color = red, area = 2706
+Rectangle: (x1, y1) = (9, 74), (x2, y2) = (66, 14), color = violet, area = 3420
+Rectangle: (x1, y1) = (94, 92), (x2, y2) = (97, -96), color = red, area = 564
+Rectangle: (x1, y1) = (36, -12), (x2, y2) = (65, -47), color = orange, area = 1015
+Triangle: (x1, y1) = (-14, -38), (x2, y2) = (-48, -11), (x3, y3) = (-71, 9), color = , area = 29.500000000004846
+Circle: center = (51, -82), radius = 7, color = orange, area = 153.93804002589985
+Rectangle: (x1, y1) = (-27, 12), (x2, y2) = (46, 4), color = dark blue, area = 584
+Circle: center = (8, 48), radius = 80, color = blue, area = 20106.192982974677
+Triangle: (x1, y1) = (-75, 81), (x2, y2) = (-36, -90), (x3, y3) = (43, -44), color = violet, area = 7651.499999999995
+Circle: center = (-56, -17), radius = 31, color = red, area = 3019.0705400997913
+Triangle: (x1, y1) = (-36, -39), (x2, y2) = (-24, -8), (x3, y3) = (100, -4), color = green, area = 1898.0000000000014
+Triangle: (x1, y1) = (28, 20), (x2, y2) = (-59, -22), (x3, y3) = (-48, -75), color = red, area = 2536.5
+Circle: center = (-98, -6), radius = 69, color = green, area = 14957.122623741005
+Triangle: (x1, y1) = (29, 36), (x2, y2) = (-2, 28), (x3, y3) = (11, 13), color = violet, area = 284.5
+Circle: center = (-13, 62), radius = 62, color = blue, area = 12076.282160399165
+Rectangle: (x1, y1) = (51, -85), (x2, y2) = (62, -89), color = yellow, area = 44
+Rectangle: (x1, y1) = (-14, 59), (x2, y2) = (97, 29), color = blue, area = 3330
+Rectangle: (x1, y1) = (20, 29), (x2, y2) = (73, -80), color = dark blue, area = 5777
+Triangle: (x1, y1) = (-80, -30), (x2, y2) = (74, 62), (x3, y3) = (-72, 16), color = dark blue, area = 3174.0000000000055
+Triangle: (x1, y1) = (46, -23), (x2, y2) = (71, 65), (x3, y3) = (-47, -59), color = yellow, area = 3642.0000000000027
+Rectangle: (x1, y1) = (99, 6), (x2, y2) = (101, -87), color = orange, area = 186
+Triangle: (x1, y1) = (-23, 17), (x2, y2) = (1, -63), (x3, y3) = (60, -2), color = violet, area = 3091.9999999999995
+Circle: center = (58, -56), radius = 63, color = green, area = 12468.981242097889
+Circle: center = (61, -20), radius = 77, color = green, area = 18626.502843133883
+Circle: center = (-46, -93), radius = 39, color = green, area = 4778.362426110075
+Triangle: (x1, y1) = (46, 33), (x2, y2) = (21, 75), (x3, y3) = (-14, 64), color = green, area = 872.4999999999999
+Circle: center = (71, -80), radius = 10, color = green, area = 314.1592653589793
+Rectangle: (x1, y1) = (20, -5), (x2, y2) = (66, -10), color = violet, area = 230
+Rectangle: (x1, y1) = (-82, 98), (x2, y2) = (35, -27), color = red, area = 14625
+Triangle: (x1, y1) = (18, -15), (x2, y2) = (22, 63), (x3, y3) = (-18, -98), color = , area = 1238.000000000006
+Rectangle: (x1, y1) = (22, 79), (x2, y2) = (66, -60), color = violet, area = 6116
+Triangle: (x1, y1) = (65, 64), (x2, y2) = (100, -8), (x3, y3) = (23, 77), color = green, area = 1284.5000000000014
+Triangle: (x1, y1) = (9, -90), (x2, y2) = (75, -22), (x3, y3) = (9, -8), color = violet, area = 2706.000000000001
+Triangle: (x1, y1) = (24, 37), (x2, y2) = (97, -7), (x3, y3) = (-55, 31), color = dark blue, area = 1956.9999999999968
