@@ -1,0 +1,1001 @@
+Filled container:
+0: It is Triangle: x1 = 79, y1 = 73, x2 = 97, y2 = 51, x3 = 13, y3 = 53. S = 906.000000. Color = purple
+1: It is Rectangle: x1 = 51, y1 = 19, x2 = 99, y2 = 82. S = 3024.000000. Color = light blue
+2: It is Circle: x = 27, y = 1, R = 46. S = 6644.000000. Color = yellow
+3: It is Rectangle: x1 = 17, y1 = 58, x2 = 13, y2 = 66. S = 32.000000. Color = light blue
+4: It is Circle: x = 25, y = 6, R = 21. S = 1385.000000. Color = purple
+5: It is Triangle: x1 = 84, y1 = 28, x2 = 52, y2 = 81, x3 = 79, y3 = 64. S = 444.000000. Color = purple
+6: It is Rectangle: x1 = 91, y1 = 35, x2 = 69, y2 = 41. S = 132.000000. Color = light blue
+7: It is Rectangle: x1 = 36, y1 = 95, x2 = 33, y2 = 34. S = 183.000000. Color = blue
+8: It is Triangle: x1 = 50, y1 = 99, x2 = 95, y2 = 67, x3 = 19, y3 = 75. S = 1036.000000. Color = purple
+9: It is Circle: x = 47, y = 44, R = 4. S = 50.000000. Color = purple
+10: It is Triangle: x1 = 55, y1 = 10, x2 = 2, y2 = 71, x3 = 95, y3 = 52. S = 2333.000000. Color = green
+11: It is Rectangle: x1 = 20, y1 = 5, x2 = 1, y2 = 51. S = 874.000000. Color = orange
+12: It is Circle: x = 35, y = 26, R = 36. S = 4069.000000. Color = red
+13: It is Rectangle: x1 = 87, y1 = 11, x2 = 45, y2 = 5. S = 252.000000. Color = yellow
+14: It is Triangle: x1 = 81, y1 = 83, x2 = 30, y2 = 84, x3 = 65, y3 = 53. S = 773.000000. Color = green
+15: It is Circle: x = 6, y = 61, R = 20. S = 1256.000000. Color = light blue
+16: It is Circle: x = 53, y = 28, R = 77. S = 18617.000000. Color = purple
+17: It is Triangle: x1 = 69, y1 = 99, x2 = 13, y2 = 46, x3 = 86, y3 = 82. S = 926.000000. Color = green
+18: It is Triangle: x1 = 92, y1 = 68, x2 = 29, y2 = 81, x3 = 54, y3 = 61. S = 468.000000. Color = blue
+19: It is Circle: x = 45, y = 27, R = 40. S = 5024.000000. Color = green
+20: It is Circle: x = 46, y = 95, R = 24. S = 1809.000000. Color = light blue
+21: It is Rectangle: x1 = 76, y1 = 82, x2 = 95, y2 = 80. S = 38.000000. Color = yellow
+22: It is Triangle: x1 = 78, y1 = 24, x2 = 9, y2 = 16, x3 = 5, y3 = 33. S = 602.000000. Color = orange
+23: It is Triangle: x1 = 100, y1 = 15, x2 = 29, y2 = 6, x3 = 28, y3 = 43. S = 1318.000000. Color = blue
+24: It is Circle: x = 70, y = 32, R = 58. S = 10563.000000. Color = light blue
+25: It is Rectangle: x1 = 4, y1 = 97, x2 = 83, y2 = 22. S = 5925.000000. Color = green
+26: It is Rectangle: x1 = 16, y1 = 4, x2 = 27, y2 = 31. S = 297.000000. Color = yellow
+27: It is Triangle: x1 = 40, y1 = 49, x2 = 59, y2 = 72, x3 = 87, y3 = 7. S = 940.000000. Color = green
+28: It is Circle: x = 87, y = 28, R = 81. S = 20602.000000. Color = purple
+29: It is Triangle: x1 = 4, y1 = 50, x2 = 4, y2 = 61, x3 = 23, y3 = 32. S = 104.000000. Color = light blue
+30: It is Triangle: x1 = 66, y1 = 37, x2 = 96, y2 = 81, x3 = 4, y3 = 51. S = 1574.000000. Color = orange
+31: It is Triangle: x1 = 84, y1 = 61, x2 = 26, y2 = 84, x3 = 19, y3 = 49. S = 1096.000000. Color = light blue
+32: It is Triangle: x1 = 71, y1 = 76, x2 = 63, y2 = 99, x3 = 8, y3 = 43. S = 856.000000. Color = blue
+33: It is Circle: x = 45, y = 73, R = 23. S = 1661.000000. Color = blue
+34: It is Rectangle: x1 = 38, y1 = 90, x2 = 22, y2 = 26. S = 1024.000000. Color = orange
+35: It is Circle: x = 81, y = 36, R = 61. S = 11684.000000. Color = light blue
+36: It is Circle: x = 73, y = 92, R = 7. S = 154.000000. Color = green
+37: It is Circle: x = 29, y = 67, R = 63. S = 12463.000000. Color = green
+38: It is Triangle: x1 = 13, y1 = 63, x2 = 72, y2 = 82, x3 = 73, y3 = 68. S = 422.000000. Color = red
+39: It is Triangle: x1 = 34, y1 = 11, x2 = 84, y2 = 24, x3 = 32, y3 = 61. S = 1263.000000. Color = purple
+40: It is Triangle: x1 = 41, y1 = 47, x2 = 99, y2 = 8, x3 = 18, y3 = 23. S = 1144.000000. Color = green
+41: It is Triangle: x1 = 14, y1 = 43, x2 = 4, y2 = 80, x3 = 5, y3 = 59. S = 86.000000. Color = purple
+42: It is Rectangle: x1 = 73, y1 = 32, x2 = 2, y2 = 97. S = 4615.000000. Color = light blue
+43: It is Triangle: x1 = 43, y1 = 84, x2 = 18, y2 = 78, x3 = 59, y3 = 2. S = 1073.000000. Color = purple
+44: It is Triangle: x1 = 39, y1 = 30, x2 = 17, y2 = 89, x3 = 37, y3 = 86. S = 557.000000. Color = orange
+45: It is Circle: x = 61, y = 25, R = 30. S = 2826.000000. Color = orange
+46: It is Circle: x = 86, y = 74, R = 64. S = 12861.000000. Color = orange
+47: It is Rectangle: x1 = 47, y1 = 55, x2 = 94, y2 = 97. S = 1974.000000. Color = orange
+48: It is Triangle: x1 = 33, y1 = 80, x2 = 65, y2 = 91, x3 = 33, y3 = 54. S = 416.000000. Color = purple
+49: It is Circle: x = 84, y = 30, R = 12. S = 452.000000. Color = purple
+50: It is Rectangle: x1 = 75, y1 = 7, x2 = 76, y2 = 99. S = 92.000000. Color = green
+51: It is Rectangle: x1 = 55, y1 = 73, x2 = 17, y2 = 70. S = 114.000000. Color = yellow
+52: It is Triangle: x1 = 69, y1 = 33, x2 = 8, y2 = 65, x3 = 95, y3 = 95. S = 2307.000000. Color = purple
+53: It is Triangle: x1 = 60, y1 = 40, x2 = 59, y2 = 13, x3 = 52, y3 = 82. S = 129.000000. Color = green
+54: It is Triangle: x1 = 45, y1 = 68, x2 = 96, y2 = 20, x3 = 26, y3 = 23. S = 1604.000000. Color = purple
+55: It is Circle: x = 13, y = 76, R = 86. S = 23223.000000. Color = purple
+56: It is Rectangle: x1 = 64, y1 = 95, x2 = 14, y2 = 96. S = 50.000000. Color = purple
+57: It is Circle: x = 90, y = 48, R = 27. S = 2289.000000. Color = green
+58: It is Circle: x = 66, y = 25, R = 24. S = 1809.000000. Color = yellow
+59: It is Triangle: x1 = 71, y1 = 50, x2 = 55, y2 = 90, x3 = 97, y3 = 74. S = 712.000000. Color = light blue
+60: It is Triangle: x1 = 95, y1 = 81, x2 = 83, y2 = 71, x3 = 18, y3 = 64. S = 283.000000. Color = yellow
+61: It is Circle: x = 58, y = 81, R = 28. S = 2462.000000. Color = blue
+62: It is Triangle: x1 = 69, y1 = 58, x2 = 88, y2 = 36, x3 = 69, y3 = 5. S = 504.000000. Color = blue
+63: It is Circle: x = 74, y = 22, R = 14. S = 615.000000. Color = purple
+64: It is Triangle: x1 = 4, y1 = 23, x2 = 1, y2 = 19, x3 = 93, y3 = 95. S = 70.000000. Color = yellow
+65: It is Triangle: x1 = 65, y1 = 68, x2 = 90, y2 = 84, x3 = 49, y3 = 99. S = 516.000000. Color = blue
+66: It is Circle: x = 9, y = 78, R = 97. S = 29544.000000. Color = orange
+67: It is Circle: x = 84, y = 87, R = 22. S = 1520.000000. Color = red
+68: It is Triangle: x1 = 47, y1 = 68, x2 = 43, y2 = 21, x3 = 43, y3 = 98. S = 154.000000. Color = orange
+69: It is Rectangle: x1 = 68, y1 = 35, x2 = 90, y2 = 18. S = 374.000000. Color = green
+70: It is Circle: x = 86, y = 3, R = 90. S = 25434.000000. Color = orange
+71: It is Triangle: x1 = 5, y1 = 13, x2 = 62, y2 = 82, x3 = 61, y3 = 80. S = 22.000000. Color = light blue
+72: It is Triangle: x1 = 18, y1 = 72, x2 = 43, y2 = 99, x3 = 18, y3 = 10. S = 775.000000. Color = orange
+73: It is Rectangle: x1 = 5, y1 = 91, x2 = 84, y2 = 99. S = 632.000000. Color = purple
+74: It is Circle: x = 40, y = 76, R = 82. S = 21113.000000. Color = yellow
+75: It is Triangle: x1 = 84, y1 = 87, x2 = 98, y2 = 85, x3 = 91, y3 = 62. S = 168.000000. Color = green
+76: It is Circle: x = 75, y = 77, R = 75. S = 17663.000000. Color = yellow
+77: It is Circle: x = 46, y = 12, R = 44. S = 6079.000000. Color = yellow
+78: It is Circle: x = 36, y = 4, R = 30. S = 2826.000000. Color = blue
+79: It is Rectangle: x1 = 80, y1 = 88, x2 = 8, y2 = 20. S = 4896.000000. Color = light blue
+80: It is Triangle: x1 = 17, y1 = 27, x2 = 25, y2 = 3, x3 = 24, y3 = 61. S = 220.000000. Color = light blue
+81: It is Triangle: x1 = 58, y1 = 21, x2 = 11, y2 = 34, x3 = 95, y3 = 81. S = 1650.000000. Color = orange
+82: It is Rectangle: x1 = 44, y1 = 74, x2 = 54, y2 = 17. S = 570.000000. Color = purple
+83: It is Rectangle: x1 = 98, y1 = 39, x2 = 47, y2 = 78. S = 1989.000000. Color = purple
+84: It is Rectangle: x1 = 49, y1 = 92, x2 = 47, y2 = 65. S = 54.000000. Color = blue
+85: It is Rectangle: x1 = 19, y1 = 93, x2 = 31, y2 = 15. S = 936.000000. Color = blue
+86: It is Triangle: x1 = 36, y1 = 40, x2 = 25, y2 = 82, x3 = 20, y3 = 55. S = 254.000000. Color = green
+87: It is Rectangle: x1 = 80, y1 = 27, x2 = 84, y2 = 40. S = 52.000000. Color = light blue
+88: It is Triangle: x1 = 30, y1 = 86, x2 = 10, y2 = 7, x3 = 92, y3 = 58. S = 2729.000000. Color = blue
+89: It is Rectangle: x1 = 74, y1 = 67, x2 = 60, y2 = 92. S = 350.000000. Color = blue
+90: It is Circle: x = 59, y = 88, R = 81. S = 20602.000000. Color = orange
+91: It is Rectangle: x1 = 5, y1 = 27, x2 = 50, y2 = 59. S = 1440.000000. Color = orange
+92: It is Circle: x = 38, y = 79, R = 47. S = 6936.000000. Color = green
+93: It is Rectangle: x1 = 80, y1 = 59, x2 = 3, y2 = 89. S = 2310.000000. Color = red
+94: It is Rectangle: x1 = 47, y1 = 67, x2 = 83, y2 = 20. S = 1692.000000. Color = blue
+95: It is Circle: x = 64, y = 92, R = 35. S = 3847.000000. Color = orange
+96: It is Rectangle: x1 = 15, y1 = 19, x2 = 9, y2 = 19. S = 0.000000. Color = blue
+97: It is Circle: x = 29, y = 97, R = 21. S = 1385.000000. Color = yellow
+98: It is Circle: x = 20, y = 47, R = 44. S = 6079.000000. Color = purple
+99: It is Rectangle: x1 = 46, y1 = 39, x2 = 25, y2 = 92. S = 1113.000000. Color = light blue
+100: It is Rectangle: x1 = 26, y1 = 57, x2 = 76, y2 = 20. S = 1850.000000. Color = red
+101: It is Circle: x = 6, y = 97, R = 49. S = 7539.000000. Color = red
+102: It is Circle: x = 57, y = 91, R = 63. S = 12463.000000. Color = red
+103: It is Circle: x = 59, y = 86, R = 89. S = 24872.000000. Color = red
+104: It is Rectangle: x1 = 87, y1 = 28, x2 = 7, y2 = 95. S = 5360.000000. Color = yellow
+105: It is Triangle: x1 = 20, y1 = 17, x2 = 30, y2 = 62, x3 = 94, y3 = 38. S = 1560.000000. Color = light blue
+106: It is Triangle: x1 = 61, y1 = 55, x2 = 71, y2 = 57, x3 = 3, y3 = 43. S = 2.000000. Color = light blue
+107: It is Circle: x = 33, y = 86, R = 76. S = 18137.000000. Color = green
+108: It is Circle: x = 14, y = 45, R = 33. S = 3419.000000. Color = red
+109: It is Rectangle: x1 = 60, y1 = 77, x2 = 78, y2 = 37. S = 720.000000. Color = blue
+110: It is Triangle: x1 = 5, y1 = 3, x2 = 10, y2 = 99, x3 = 93, y3 = 47. S = 4114.000000. Color = red
+111: It is Circle: x = 1, y = 85, R = 62. S = 12070.000000. Color = purple
+112: It is Triangle: x1 = 36, y1 = 66, x2 = 12, y2 = 21, x3 = 42, y3 = 67. S = 123.000000. Color = purple
+113: It is Circle: x = 63, y = 1, R = 76. S = 18137.000000. Color = red
+114: It is Triangle: x1 = 4, y1 = 23, x2 = 49, y2 = 77, x3 = 23, y3 = 53. S = 162.000000. Color = purple
+115: It is Rectangle: x1 = 3, y1 = 24, x2 = 30, y2 = 18. S = 162.000000. Color = red
+116: It is Triangle: x1 = 2, y1 = 41, x2 = 38, y2 = 29, x3 = 77, y3 = 55. S = 702.000000. Color = yellow
+117: It is Rectangle: x1 = 96, y1 = 58, x2 = 17, y2 = 2. S = 4424.000000. Color = blue
+118: It is Triangle: x1 = 30, y1 = 66, x2 = 81, y2 = 33, x3 = 40, y3 = 29. S = 778.000000. Color = red
+119: It is Triangle: x1 = 33, y1 = 41, x2 = 45, y2 = 36, x3 = 16, y3 = 75. S = 162.000000. Color = purple
+120: It is Circle: x = 57, y = 6, R = 36. S = 4069.000000. Color = yellow
+121: It is Triangle: x1 = 64, y1 = 48, x2 = 77, y2 = 64, x3 = 96, y3 = 35. S = 340.000000. Color = red
+122: It is Triangle: x1 = 7, y1 = 1, x2 = 78, y2 = 24, x3 = 81, y3 = 63. S = 1350.000000. Color = purple
+123: It is Rectangle: x1 = 72, y1 = 28, x2 = 42, y2 = 64. S = 1080.000000. Color = red
+124: It is Circle: x = 79, y = 46, R = 33. S = 3419.000000. Color = orange
+125: It is Rectangle: x1 = 38, y1 = 8, x2 = 99, y2 = 24. S = 976.000000. Color = orange
+126: It is Circle: x = 100, y = 87, R = 94. S = 27745.000000. Color = red
+127: It is Triangle: x1 = 94, y1 = 44, x2 = 19, y2 = 72, x3 = 67, y3 = 100. S = 1722.000000. Color = orange
+128: It is Triangle: x1 = 8, y1 = 57, x2 = 60, y2 = 1, x3 = 20, y3 = 84. S = 1038.000000. Color = orange
+129: It is Triangle: x1 = 29, y1 = 13, x2 = 22, y2 = 35, x3 = 51, y3 = 30. S = 302.000000. Color = orange
+130: It is Triangle: x1 = 52, y1 = 31, x2 = 25, y2 = 90, x3 = 76, y3 = 63. S = 1140.000000. Color = purple
+131: It is Triangle: x1 = 58, y1 = 27, x2 = 93, y2 = 77, x3 = 26, y3 = 78. S = 1692.000000. Color = blue
+132: It is Circle: x = 86, y = 21, R = 38. S = 4534.000000. Color = green
+133: It is Rectangle: x1 = 18, y1 = 6, x2 = 84, y2 = 31. S = 1650.000000. Color = orange
+134: It is Triangle: x1 = 81, y1 = 8, x2 = 51, y2 = 6, x3 = 12, y3 = 81. S = 1164.000000. Color = orange
+135: It is Triangle: x1 = 57, y1 = 96, x2 = 9, y2 = 26, x3 = 54, y3 = 35. S = 1359.000000. Color = orange
+136: It is Circle: x = 60, y = 47, R = 90. S = 25434.000000. Color = purple
+137: It is Triangle: x1 = 62, y1 = 33, x2 = 88, y2 = 65, x3 = 51, y3 = 93. S = 956.000000. Color = blue
+138: It is Circle: x = 71, y = 66, R = 13. S = 531.000000. Color = light blue
+139: It is Rectangle: x1 = 70, y1 = 42, x2 = 49, y2 = 3. S = 819.000000. Color = purple
+140: It is Triangle: x1 = 99, y1 = 2, x2 = 82, y2 = 4, x3 = 36, y3 = 51. S = 354.000000. Color = light blue
+141: It is Triangle: x1 = 49, y1 = 26, x2 = 95, y2 = 80, x3 = 88, y3 = 27. S = 1030.000000. Color = purple
+142: It is Circle: x = 77, y = 63, R = 52. S = 8491.000000. Color = light blue
+143: It is Circle: x = 70, y = 73, R = 63. S = 12463.000000. Color = red
+144: It is Triangle: x1 = 4, y1 = 85, x2 = 45, y2 = 98, x3 = 89, y3 = 95. S = 348.000000. Color = orange
+145: It is Rectangle: x1 = 98, y1 = 87, x2 = 24, y2 = 34. S = 3922.000000. Color = purple
+146: It is Circle: x = 11, y = 79, R = 3. S = 28.000000. Color = orange
+147: It is Triangle: x1 = 21, y1 = 54, x2 = 34, y2 = 35, x3 = 57, y3 = 43. S = 270.000000. Color = light blue
+148: It is Triangle: x1 = 15, y1 = 82, x2 = 63, y2 = 9, x3 = 86, y3 = 47. S = 1752.000000. Color = light blue
+149: It is Circle: x = 88, y = 47, R = 33. S = 3419.000000. Color = yellow
+150: It is Rectangle: x1 = 19, y1 = 33, x2 = 29, y2 = 4. S = 290.000000. Color = light blue
+151: It is Circle: x = 82, y = 59, R = 41. S = 5278.000000. Color = blue
+152: It is Rectangle: x1 = 46, y1 = 73, x2 = 66, y2 = 2. S = 1420.000000. Color = red
+153: It is Circle: x = 28, y = 33, R = 66. S = 13678.000000. Color = blue
+154: It is Triangle: x1 = 51, y1 = 88, x2 = 45, y2 = 85, x3 = 75, y3 = 43. S = 171.000000. Color = blue
+155: It is Triangle: x1 = 38, y1 = 88, x2 = 68, y2 = 18, x3 = 91, y3 = 23. S = 880.000000. Color = yellow
+156: It is Circle: x = 81, y = 1, R = 15. S = 707.000000. Color = red
+157: It is Circle: x = 39, y = 77, R = 47. S = 6936.000000. Color = blue
+158: It is Circle: x = 26, y = 90, R = 26. S = 2123.000000. Color = yellow
+159: It is Rectangle: x1 = 29, y1 = 55, x2 = 79, y2 = 65. S = 500.000000. Color = orange
+160: It is Circle: x = 34, y = 64, R = 11. S = 380.000000. Color = green
+161: It is Rectangle: x1 = 80, y1 = 64, x2 = 6, y2 = 40. S = 1776.000000. Color = light blue
+162: It is Rectangle: x1 = 40, y1 = 55, x2 = 49, y2 = 37. S = 162.000000. Color = yellow
+163: It is Circle: x = 36, y = 2, R = 85. S = 22687.000000. Color = light blue
+164: It is Triangle: x1 = 63, y1 = 28, x2 = 24, y2 = 91, x3 = 82, y3 = 54. S = 1106.000000. Color = purple
+165: It is Rectangle: x1 = 27, y1 = 89, x2 = 78, y2 = 37. S = 2652.000000. Color = green
+166: It is Triangle: x1 = 16, y1 = 25, x2 = 17, y2 = 8, x3 = 17, y3 = 55. S = 24.000000. Color = yellow
+167: It is Rectangle: x1 = 55, y1 = 36, x2 = 15, y2 = 80. S = 1760.000000. Color = green
+168: It is Rectangle: x1 = 16, y1 = 31, x2 = 58, y2 = 78. S = 1974.000000. Color = blue
+169: It is Circle: x = 68, y = 43, R = 87. S = 23767.000000. Color = red
+170: It is Rectangle: x1 = 13, y1 = 15, x2 = 34, y2 = 1. S = 294.000000. Color = green
+171: It is Circle: x = 69, y = 52, R = 66. S = 13678.000000. Color = red
+172: It is Triangle: x1 = 72, y1 = 74, x2 = 90, y2 = 26, x3 = 9, y3 = 57. S = 1665.000000. Color = light blue
+173: It is Circle: x = 24, y = 21, R = 62. S = 12070.000000. Color = blue
+174: It is Triangle: x1 = 71, y1 = 19, x2 = 70, y2 = 14, x3 = 57, y3 = 44. S = 48.000000. Color = red
+175: It is Circle: x = 58, y = 55, R = 22. S = 1520.000000. Color = purple
+176: It is Rectangle: x1 = 42, y1 = 88, x2 = 16, y2 = 17. S = 1846.000000. Color = light blue
+177: It is Triangle: x1 = 43, y1 = 49, x2 = 65, y2 = 3, x3 = 57, y3 = 69. S = 542.000000. Color = orange
+178: It is Triangle: x1 = 41, y1 = 95, x2 = 66, y2 = 43, x3 = 17, y3 = 36. S = 1362.000000. Color = blue
+179: It is Triangle: x1 = 92, y1 = 55, x2 = 51, y2 = 65, x3 = 64, y3 = 57. S = 99.000000. Color = blue
+180: It is Rectangle: x1 = 8, y1 = 80, x2 = 87, y2 = 75. S = 395.000000. Color = yellow
+181: It is Circle: x = 14, y = 91, R = 95. S = 28339.000000. Color = red
+182: It is Triangle: x1 = 51, y1 = 98, x2 = 78, y2 = 83, x3 = 91, y3 = 72. S = 51.000000. Color = green
+183: It is Rectangle: x1 = 41, y1 = 35, x2 = 44, y2 = 22. S = 39.000000. Color = blue
+184: It is Rectangle: x1 = 73, y1 = 43, x2 = 13, y2 = 81. S = 2280.000000. Color = purple
+185: It is Triangle: x1 = 88, y1 = 13, x2 = 50, y2 = 15, x3 = 13, y3 = 96. S = 1502.000000. Color = red
+186: It is Circle: x = 90, y = 57, R = 99. S = 30775.000000. Color = green
+187: It is Rectangle: x1 = 77, y1 = 75, x2 = 96, y2 = 100. S = 475.000000. Color = red
+188: It is Rectangle: x1 = 40, y1 = 9, x2 = 75, y2 = 14. S = 175.000000. Color = green
+189: It is Triangle: x1 = 86, y1 = 33, x2 = 88, y2 = 66, x3 = 66, y3 = 51. S = 348.000000. Color = blue
+190: It is Rectangle: x1 = 1, y1 = 72, x2 = 42, y2 = 48. S = 984.000000. Color = green
+191: It is Rectangle: x1 = 89, y1 = 59, x2 = 46, y2 = 80. S = 903.000000. Color = light blue
+192: It is Triangle: x1 = 54, y1 = 64, x2 = 74, y2 = 28, x3 = 43, y3 = 65. S = 188.000000. Color = light blue
+193: It is Circle: x = 78, y = 78, R = 41. S = 5278.000000. Color = blue
+194: It is Rectangle: x1 = 29, y1 = 33, x2 = 27, y2 = 31. S = 4.000000. Color = yellow
+195: It is Rectangle: x1 = 31, y1 = 13, x2 = 97, y2 = 30. S = 1122.000000. Color = purple
+196: It is Circle: x = 18, y = 73, R = 90. S = 25434.000000. Color = yellow
+197: It is Circle: x = 63, y = 3, R = 51. S = 8167.000000. Color = orange
+198: It is Rectangle: x1 = 46, y1 = 5, x2 = 21, y2 = 63. S = 1450.000000. Color = orange
+199: It is Circle: x = 55, y = 49, R = 60. S = 11304.000000. Color = blue
+200: It is Circle: x = 86, y = 66, R = 74. S = 17195.000000. Color = purple
+201: It is Rectangle: x1 = 86, y1 = 90, x2 = 78, y2 = 100. S = 80.000000. Color = light blue
+202: It is Rectangle: x1 = 72, y1 = 75, x2 = 48, y2 = 11. S = 1536.000000. Color = purple
+203: It is Rectangle: x1 = 14, y1 = 77, x2 = 84, y2 = 59. S = 1260.000000. Color = green
+204: It is Triangle: x1 = 21, y1 = 14, x2 = 54, y2 = 27, x3 = 14, y3 = 13. S = 29.000000. Color = light blue
+205: It is Circle: x = 51, y = 79, R = 19. S = 1134.000000. Color = yellow
+206: It is Triangle: x1 = 56, y1 = 33, x2 = 55, y2 = 55, x3 = 18, y3 = 54. S = 408.000000. Color = blue
+207: It is Rectangle: x1 = 1, y1 = 89, x2 = 85, y2 = 3. S = 7224.000000. Color = light blue
+208: It is Circle: x = 87, y = 12, R = 93. S = 27158.000000. Color = purple
+209: It is Rectangle: x1 = 58, y1 = 48, x2 = 10, y2 = 72. S = 1152.000000. Color = orange
+210: It is Circle: x = 69, y = 63, R = 1. S = 3.000000. Color = yellow
+211: It is Circle: x = 79, y = 95, R = 90. S = 25434.000000. Color = orange
+212: It is Circle: x = 60, y = 38, R = 79. S = 19597.000000. Color = red
+213: It is Triangle: x1 = 19, y1 = 87, x2 = 93, y2 = 72, x3 = 99, y3 = 31. S = 1472.000000. Color = red
+214: It is Rectangle: x1 = 73, y1 = 66, x2 = 1, y2 = 21. S = 3240.000000. Color = green
+215: It is Triangle: x1 = 33, y1 = 98, x2 = 44, y2 = 95, x3 = 51, y3 = 83. S = 56.000000. Color = purple
+216: It is Triangle: x1 = 30, y1 = 41, x2 = 13, y2 = 31, x3 = 100, y3 = 51. S = 265.000000. Color = red
+217: It is Circle: x = 41, y = 80, R = 93. S = 27158.000000. Color = green
+218: It is Circle: x = 44, y = 16, R = 34. S = 3630.000000. Color = green
+219: It is Triangle: x1 = 99, y1 = 38, x2 = 60, y2 = 26, x3 = 13, y3 = 44. S = 633.000000. Color = purple
+220: It is Triangle: x1 = 90, y1 = 26, x2 = 91, y2 = 41, x3 = 54, y3 = 20. S = 267.000000. Color = green
+221: It is Triangle: x1 = 50, y1 = 33, x2 = 68, y2 = 11, x3 = 39, y3 = 60. S = 122.000000. Color = blue
+222: It is Circle: x = 45, y = 92, R = 75. S = 17663.000000. Color = blue
+223: It is Rectangle: x1 = 12, y1 = 51, x2 = 24, y2 = 50. S = 12.000000. Color = blue
+224: It is Circle: x = 62, y = 54, R = 24. S = 1809.000000. Color = red
+225: It is Circle: x = 1, y = 61, R = 36. S = 4069.000000. Color = purple
+226: It is Circle: x = 69, y = 24, R = 82. S = 21113.000000. Color = yellow
+227: It is Circle: x = 44, y = 40, R = 3. S = 28.000000. Color = red
+228: It is Rectangle: x1 = 99, y1 = 76, x2 = 97, y2 = 62. S = 28.000000. Color = green
+229: It is Rectangle: x1 = 12, y1 = 76, x2 = 10, y2 = 22. S = 108.000000. Color = blue
+230: It is Triangle: x1 = 28, y1 = 52, x2 = 93, y2 = 23, x3 = 4, y3 = 5. S = 1876.000000. Color = orange
+231: It is Triangle: x1 = 36, y1 = 79, x2 = 33, y2 = 69, x3 = 32, y3 = 75. S = 14.000000. Color = light blue
+232: It is Circle: x = 29, y = 48, R = 46. S = 6644.000000. Color = orange
+233: It is Rectangle: x1 = 94, y1 = 40, x2 = 28, y2 = 54. S = 924.000000. Color = purple
+234: It is Triangle: x1 = 63, y1 = 25, x2 = 30, y2 = 38, x3 = 52, y3 = 33. S = 60.000000. Color = red
+235: It is Rectangle: x1 = 37, y1 = 86, x2 = 36, y2 = 46. S = 40.000000. Color = orange
+236: It is Triangle: x1 = 30, y1 = 42, x2 = 45, y2 = 4, x3 = 5, y3 = 67. S = 288.000000. Color = blue
+237: It is Circle: x = 12, y = 11, R = 28. S = 2462.000000. Color = light blue
+238: It is Rectangle: x1 = 7, y1 = 11, x2 = 54, y2 = 61. S = 2350.000000. Color = purple
+239: It is Circle: x = 42, y = 11, R = 30. S = 2826.000000. Color = green
+240: It is Rectangle: x1 = 7, y1 = 63, x2 = 29, y2 = 42. S = 462.000000. Color = light blue
+241: It is Triangle: x1 = 7, y1 = 89, x2 = 42, y2 = 51, x3 = 44, y3 = 47. S = 32.000000. Color = green
+242: It is Triangle: x1 = 51, y1 = 81, x2 = 39, y2 = 30, x3 = 38, y3 = 41. S = 92.000000. Color = yellow
+243: It is Triangle: x1 = 94, y1 = 96, x2 = 74, y2 = 71, x3 = 37, y3 = 36. S = 112.000000. Color = orange
+244: It is Circle: x = 27, y = 59, R = 77. S = 18617.000000. Color = green
+245: It is Circle: x = 36, y = 7, R = 59. S = 10930.000000. Color = orange
+246: It is Rectangle: x1 = 9, y1 = 20, x2 = 47, y2 = 78. S = 2204.000000. Color = red
+247: It is Triangle: x1 = 11, y1 = 85, x2 = 78, y2 = 100, x3 = 25, y3 = 65. S = 775.000000. Color = blue
+248: It is Rectangle: x1 = 60, y1 = 73, x2 = 41, y2 = 48. S = 475.000000. Color = orange
+249: It is Circle: x = 63, y = 86, R = 2. S = 13.000000. Color = yellow
+250: It is Triangle: x1 = 6, y1 = 27, x2 = 99, y2 = 64, x3 = 2, y3 = 99. S = 3422.000000. Color = orange
+251: It is Circle: x = 45, y = 54, R = 20. S = 1256.000000. Color = purple
+252: It is Triangle: x1 = 4, y1 = 70, x2 = 15, y2 = 81, x3 = 34, y3 = 67. S = 182.000000. Color = blue
+253: It is Triangle: x1 = 39, y1 = 42, x2 = 44, y2 = 99, x3 = 86, y3 = 58. S = 1300.000000. Color = light blue
+254: It is Rectangle: x1 = 97, y1 = 28, x2 = 96, y2 = 23. S = 5.000000. Color = purple
+255: It is Rectangle: x1 = 76, y1 = 24, x2 = 35, y2 = 49. S = 1025.000000. Color = orange
+256: It is Triangle: x1 = 68, y1 = 12, x2 = 55, y2 = 23, x3 = 33, y3 = 21. S = 134.000000. Color = blue
+257: It is Rectangle: x1 = 87, y1 = 5, x2 = 62, y2 = 78. S = 1825.000000. Color = yellow
+258: It is Triangle: x1 = 76, y1 = 83, x2 = 15, y2 = 11, x3 = 74, y3 = 11. S = 2124.000000. Color = yellow
+259: It is Rectangle: x1 = 85, y1 = 15, x2 = 80, y2 = 12. S = 15.000000. Color = orange
+260: It is Triangle: x1 = 60, y1 = 57, x2 = 57, y2 = 79, x3 = 20, y3 = 63. S = 431.000000. Color = yellow
+261: It is Triangle: x1 = 35, y1 = 4, x2 = 69, y2 = 22, x3 = 60, y3 = 30. S = 217.000000. Color = purple
+262: It is Rectangle: x1 = 87, y1 = 78, x2 = 92, y2 = 1. S = 385.000000. Color = yellow
+263: It is Circle: x = 63, y = 78, R = 38. S = 4534.000000. Color = yellow
+264: It is Rectangle: x1 = 69, y1 = 10, x2 = 30, y2 = 86. S = 2964.000000. Color = red
+265: It is Circle: x = 42, y = 100, R = 58. S = 10563.000000. Color = red
+266: It is Circle: x = 9, y = 90, R = 9. S = 254.000000. Color = yellow
+267: It is Rectangle: x1 = 68, y1 = 59, x2 = 13, y2 = 77. S = 990.000000. Color = light blue
+268: It is Circle: x = 21, y = 97, R = 30. S = 2826.000000. Color = orange
+269: It is Circle: x = 7, y = 74, R = 61. S = 11684.000000. Color = blue
+270: It is Triangle: x1 = 23, y1 = 27, x2 = 27, y2 = 44, x3 = 17, y3 = 20. S = 37.000000. Color = blue
+271: It is Rectangle: x1 = 75, y1 = 48, x2 = 34, y2 = 65. S = 697.000000. Color = blue
+272: It is Rectangle: x1 = 27, y1 = 75, x2 = 74, y2 = 92. S = 799.000000. Color = orange
+273: It is Rectangle: x1 = 81, y1 = 24, x2 = 19, y2 = 10. S = 868.000000. Color = blue
+274: It is Rectangle: x1 = 16, y1 = 86, x2 = 90, y2 = 66. S = 1480.000000. Color = blue
+275: It is Rectangle: x1 = 44, y1 = 58, x2 = 7, y2 = 60. S = 74.000000. Color = light blue
+276: It is Rectangle: x1 = 85, y1 = 4, x2 = 52, y2 = 71. S = 2211.000000. Color = light blue
+277: It is Rectangle: x1 = 85, y1 = 46, x2 = 34, y2 = 58. S = 612.000000. Color = orange
+278: It is Rectangle: x1 = 28, y1 = 18, x2 = 60, y2 = 46. S = 896.000000. Color = red
+279: It is Rectangle: x1 = 26, y1 = 47, x2 = 8, y2 = 67. S = 360.000000. Color = yellow
+280: It is Rectangle: x1 = 30, y1 = 55, x2 = 96, y2 = 36. S = 1254.000000. Color = purple
+281: It is Circle: x = 41, y = 51, R = 27. S = 2289.000000. Color = orange
+282: It is Circle: x = 94, y = 51, R = 58. S = 10563.000000. Color = green
+283: It is Triangle: x1 = 15, y1 = 28, x2 = 72, y2 = 94, x3 = 97, y3 = 83. S = 1138.000000. Color = green
+284: It is Triangle: x1 = 5, y1 = 17, x2 = 74, y2 = 13, x3 = 83, y3 = 37. S = 846.000000. Color = green
+285: It is Circle: x = 43, y = 46, R = 100. S = 31400.000000. Color = yellow
+286: It is Circle: x = 40, y = 12, R = 96. S = 28938.000000. Color = light blue
+287: It is Rectangle: x1 = 89, y1 = 34, x2 = 93, y2 = 80. S = 184.000000. Color = purple
+288: It is Triangle: x1 = 60, y1 = 92, x2 = 5, y2 = 56, x3 = 26, y3 = 96. S = 722.000000. Color = yellow
+289: It is Triangle: x1 = 12, y1 = 8, x2 = 94, y2 = 46, x3 = 44, y3 = 44. S = 868.000000. Color = purple
+290: It is Circle: x = 41, y = 10, R = 47. S = 6936.000000. Color = red
+291: It is Triangle: x1 = 10, y1 = 5, x2 = 84, y2 = 46, x3 = 45, y3 = 17. S = 274.000000. Color = yellow
+292: It is Rectangle: x1 = 37, y1 = 49, x2 = 36, y2 = 28. S = 21.000000. Color = blue
+293: It is Circle: x = 53, y = 1, R = 26. S = 2123.000000. Color = green
+294: It is Circle: x = 33, y = 80, R = 9. S = 254.000000. Color = blue
+295: It is Triangle: x1 = 19, y1 = 15, x2 = 16, y2 = 28, x3 = 13, y3 = 25. S = 24.000000. Color = orange
+296: It is Circle: x = 81, y = 12, R = 20. S = 1256.000000. Color = light blue
+297: It is Triangle: x1 = 9, y1 = 2, x2 = 17, y2 = 10, x3 = 89, y3 = 96. S = 56.000000. Color = light blue
+298: It is Circle: x = 1, y = 15, R = 56. S = 9847.000000. Color = red
+299: It is Rectangle: x1 = 89, y1 = 66, x2 = 38, y2 = 17. S = 2499.000000. Color = light blue
+300: It is Circle: x = 83, y = 9, R = 35. S = 3847.000000. Color = green
+301: It is Circle: x = 63, y = 69, R = 14. S = 615.000000. Color = red
+302: It is Rectangle: x1 = 91, y1 = 57, x2 = 97, y2 = 44. S = 78.000000. Color = blue
+303: It is Triangle: x1 = 32, y1 = 21, x2 = 72, y2 = 62, x3 = 21, y3 = 38. S = 566.000000. Color = yellow
+304: It is Circle: x = 67, y = 58, R = 24. S = 1809.000000. Color = orange
+305: It is Circle: x = 17, y = 12, R = 56. S = 9847.000000. Color = red
+306: It is Triangle: x1 = 50, y1 = 9, x2 = 60, y2 = 71, x3 = 22, y3 = 37. S = 1008.000000. Color = orange
+307: It is Rectangle: x1 = 94, y1 = 6, x2 = 59, y2 = 18. S = 420.000000. Color = orange
+308: It is Triangle: x1 = 38, y1 = 86, x2 = 4, y2 = 10, x3 = 75, y3 = 73. S = 1627.000000. Color = light blue
+309: It is Triangle: x1 = 30, y1 = 92, x2 = 97, y2 = 3, x3 = 60, y3 = 60. S = 263.000000. Color = purple
+310: It is Rectangle: x1 = 57, y1 = 59, x2 = 92, y2 = 17. S = 1470.000000. Color = red
+311: It is Rectangle: x1 = 5, y1 = 39, x2 = 81, y2 = 98. S = 4484.000000. Color = blue
+312: It is Rectangle: x1 = 16, y1 = 59, x2 = 29, y2 = 5. S = 702.000000. Color = yellow
+313: It is Circle: x = 15, y = 71, R = 56. S = 9847.000000. Color = blue
+314: It is Triangle: x1 = 37, y1 = 77, x2 = 11, y2 = 91, x3 = 36, y3 = 70. S = 98.000000. Color = blue
+315: It is Triangle: x1 = 27, y1 = 59, x2 = 63, y2 = 95, x3 = 39, y3 = 28. S = 774.000000. Color = red
+316: It is Triangle: x1 = 8, y1 = 49, x2 = 73, y2 = 99, x3 = 16, y3 = 83. S = 905.000000. Color = orange
+317: It is Circle: x = 78, y = 63, R = 38. S = 4534.000000. Color = yellow
+318: It is Triangle: x1 = 72, y1 = 63, x2 = 7, y2 = 48, x3 = 73, y3 = 98. S = 1130.000000. Color = green
+319: It is Triangle: x1 = 97, y1 = 6, x2 = 73, y2 = 7, x3 = 68, y3 = 19. S = 142.000000. Color = blue
+320: It is Circle: x = 69, y = 74, R = 7. S = 154.000000. Color = blue
+321: It is Rectangle: x1 = 5, y1 = 36, x2 = 80, y2 = 84. S = 3600.000000. Color = light blue
+322: It is Circle: x = 47, y = 45, R = 9. S = 254.000000. Color = green
+323: It is Circle: x = 71, y = 27, R = 68. S = 14519.000000. Color = blue
+324: It is Triangle: x1 = 3, y1 = 90, x2 = 73, y2 = 8, x3 = 62, y3 = 79. S = 2034.000000. Color = orange
+325: It is Rectangle: x1 = 76, y1 = 74, x2 = 100, y2 = 50. S = 576.000000. Color = light blue
+326: It is Rectangle: x1 = 47, y1 = 37, x2 = 4, y2 = 27. S = 430.000000. Color = blue
+327: It is Rectangle: x1 = 36, y1 = 70, x2 = 60, y2 = 44. S = 624.000000. Color = green
+328: It is Triangle: x1 = 67, y1 = 65, x2 = 46, y2 = 62, x3 = 40, y3 = 48. S = 138.000000. Color = green
+329: It is Triangle: x1 = 8, y1 = 16, x2 = 95, y2 = 35, x3 = 47, y3 = 70. S = 1978.000000. Color = blue
+330: It is Triangle: x1 = 19, y1 = 92, x2 = 66, y2 = 66, x3 = 80, y3 = 70. S = 276.000000. Color = orange
+331: It is Circle: x = 84, y = 79, R = 21. S = 1385.000000. Color = blue
+332: It is Triangle: x1 = 58, y1 = 22, x2 = 92, y2 = 74, x3 = 67, y3 = 5. S = 523.000000. Color = light blue
+333: It is Triangle: x1 = 7, y1 = 29, x2 = 74, y2 = 74, x3 = 23, y3 = 8. S = 1064.000000. Color = green
+334: It is Circle: x = 19, y = 18, R = 63. S = 12463.000000. Color = orange
+335: It is Triangle: x1 = 80, y1 = 89, x2 = 4, y2 = 23, x3 = 92, y3 = 88. S = 434.000000. Color = green
+336: It is Triangle: x1 = 82, y1 = 79, x2 = 69, y2 = 3, x3 = 70, y3 = 95. S = 560.000000. Color = red
+337: It is Triangle: x1 = 8, y1 = 84, x2 = 33, y2 = 88, x3 = 9, y3 = 7. S = 964.000000. Color = green
+338: It is Triangle: x1 = 78, y1 = 3, x2 = 86, y2 = 95, x3 = 65, y3 = 96. S = 970.000000. Color = green
+339: It is Triangle: x1 = 36, y1 = 33, x2 = 71, y2 = 27, x3 = 72, y3 = 24. S = 50.000000. Color = purple
+340: It is Triangle: x1 = 54, y1 = 59, x2 = 56, y2 = 23, x3 = 5, y3 = 77. S = 864.000000. Color = blue
+341: It is Circle: x = 12, y = 34, R = 51. S = 8167.000000. Color = orange
+342: It is Triangle: x1 = 61, y1 = 87, x2 = 69, y2 = 63, x3 = 73, y3 = 16. S = 140.000000. Color = yellow
+343: It is Rectangle: x1 = 45, y1 = 28, x2 = 55, y2 = 29. S = 10.000000. Color = orange
+344: It is Triangle: x1 = 53, y1 = 21, x2 = 23, y2 = 58, x3 = 26, y3 = 33. S = 320.000000. Color = blue
+345: It is Triangle: x1 = 37, y1 = 42, x2 = 49, y2 = 100, x3 = 53, y3 = 82. S = 224.000000. Color = purple
+346: It is Triangle: x1 = 25, y1 = 11, x2 = 59, y2 = 94, x3 = 26, y3 = 31. S = 298.000000. Color = green
+347: It is Triangle: x1 = 50, y1 = 57, x2 = 84, y2 = 57, x3 = 37, y3 = 81. S = 408.000000. Color = red
+348: It is Circle: x = 54, y = 64, R = 46. S = 6644.000000. Color = purple
+349: It is Circle: x = 11, y = 79, R = 85. S = 22687.000000. Color = orange
+350: It is Circle: x = 85, y = 56, R = 13. S = 531.000000. Color = green
+351: It is Circle: x = 38, y = 49, R = 91. S = 26002.000000. Color = yellow
+352: It is Circle: x = 73, y = 43, R = 82. S = 21113.000000. Color = yellow
+353: It is Circle: x = 65, y = 31, R = 87. S = 23767.000000. Color = yellow
+354: It is Triangle: x1 = 76, y1 = 3, x2 = 87, y2 = 73, x3 = 33, y3 = 83. S = 1945.000000. Color = purple
+355: It is Triangle: x1 = 20, y1 = 38, x2 = 43, y2 = 56, x3 = 46, y3 = 55. S = 38.000000. Color = green
+356: It is Circle: x = 44, y = 90, R = 67. S = 14095.000000. Color = orange
+357: It is Triangle: x1 = 40, y1 = 20, x2 = 97, y2 = 14, x3 = 70, y3 = 14. S = 81.000000. Color = red
+358: It is Circle: x = 11, y = 19, R = 84. S = 22156.000000. Color = yellow
+359: It is Rectangle: x1 = 56, y1 = 97, x2 = 88, y2 = 43. S = 1728.000000. Color = yellow
+360: It is Triangle: x1 = 80, y1 = 54, x2 = 14, y2 = 25, x3 = 61, y3 = 55. S = 308.000000. Color = green
+361: It is Circle: x = 44, y = 20, R = 82. S = 21113.000000. Color = blue
+362: It is Circle: x = 1, y = 8, R = 24. S = 1809.000000. Color = green
+363: It is Circle: x = 19, y = 79, R = 83. S = 21631.000000. Color = yellow
+364: It is Circle: x = 47, y = 94, R = 21. S = 1385.000000. Color = purple
+365: It is Rectangle: x1 = 63, y1 = 7, x2 = 91, y2 = 95. S = 2464.000000. Color = green
+366: It is Circle: x = 19, y = 72, R = 58. S = 10563.000000. Color = red
+367: It is Rectangle: x1 = 53, y1 = 92, x2 = 9, y2 = 64. S = 1232.000000. Color = blue
+368: It is Triangle: x1 = 23, y1 = 26, x2 = 31, y2 = 43, x3 = 96, y3 = 61. S = 480.000000. Color = red
+369: It is Triangle: x1 = 26, y1 = 23, x2 = 78, y2 = 47, x3 = 69, y3 = 10. S = 854.000000. Color = blue
+370: It is Circle: x = 100, y = 55, R = 39. S = 4776.000000. Color = green
+371: It is Circle: x = 62, y = 12, R = 97. S = 29544.000000. Color = orange
+372: It is Triangle: x1 = 40, y1 = 49, x2 = 31, y2 = 94, x3 = 10, y3 = 53. S = 657.000000. Color = purple
+373: It is Rectangle: x1 = 95, y1 = 66, x2 = 5, y2 = 71. S = 450.000000. Color = green
+374: It is Triangle: x1 = 45, y1 = 79, x2 = 28, y2 = 14, x3 = 40, y3 = 89. S = 248.000000. Color = yellow
+375: It is Triangle: x1 = 95, y1 = 30, x2 = 45, y2 = 20, x3 = 92, y3 = 8. S = 535.000000. Color = orange
+376: It is Rectangle: x1 = 76, y1 = 8, x2 = 33, y2 = 6. S = 86.000000. Color = orange
+377: It is Triangle: x1 = 11, y1 = 71, x2 = 85, y2 = 5, x3 = 89, y3 = 89. S = 3240.000000. Color = orange
+378: It is Circle: x = 71, y = 72, R = 21. S = 1385.000000. Color = purple
+379: It is Rectangle: x1 = 60, y1 = 38, x2 = 77, y2 = 51. S = 221.000000. Color = red
+380: It is Triangle: x1 = 47, y1 = 4, x2 = 49, y2 = 55, x3 = 72, y3 = 33. S = 608.000000. Color = red
+381: It is Circle: x = 65, y = 87, R = 32. S = 3215.000000. Color = blue
+382: It is Triangle: x1 = 55, y1 = 94, x2 = 54, y2 = 43, x3 = 83, y3 = 81. S = 720.000000. Color = green
+383: It is Triangle: x1 = 4, y1 = 52, x2 = 54, y2 = 41, x3 = 64, y3 = 92. S = 1330.000000. Color = light blue
+384: It is Triangle: x1 = 76, y1 = 22, x2 = 12, y2 = 79, x3 = 23, y3 = 18. S = 1638.000000. Color = red
+385: It is Triangle: x1 = 99, y1 = 82, x2 = 71, y2 = 86, x3 = 65, y3 = 28. S = 824.000000. Color = purple
+386: It is Triangle: x1 = 21, y1 = 87, x2 = 61, y2 = 55, x3 = 67, y3 = 45. S = 104.000000. Color = red
+387: It is Triangle: x1 = 48, y1 = 13, x2 = 63, y2 = 11, x3 = 56, y3 = 79. S = 503.000000. Color = red
+388: It is Triangle: x1 = 52, y1 = 40, x2 = 61, y2 = 74, x3 = 9, y3 = 63. S = 834.000000. Color = orange
+389: It is Triangle: x1 = 44, y1 = 98, x2 = 45, y2 = 9, x3 = 77, y3 = 26. S = 1432.000000. Color = light blue
+390: It is Triangle: x1 = 13, y1 = 40, x2 = 4, y2 = 31, x3 = 84, y3 = 15. S = 432.000000. Color = light blue
+391: It is Circle: x = 27, y = 67, R = 94. S = 27745.000000. Color = purple
+392: It is Circle: x = 21, y = 16, R = 49. S = 7539.000000. Color = yellow
+393: It is Circle: x = 74, y = 73, R = 91. S = 26002.000000. Color = green
+394: It is Rectangle: x1 = 86, y1 = 3, x2 = 76, y2 = 46. S = 430.000000. Color = yellow
+395: It is Rectangle: x1 = 25, y1 = 81, x2 = 65, y2 = 16. S = 2600.000000. Color = blue
+396: It is Rectangle: x1 = 51, y1 = 50, x2 = 52, y2 = 33. S = 17.000000. Color = light blue
+397: It is Circle: x = 78, y = 61, R = 15. S = 707.000000. Color = green
+398: It is Circle: x = 15, y = 62, R = 56. S = 9847.000000. Color = orange
+399: It is Circle: x = 46, y = 94, R = 17. S = 907.000000. Color = orange
+400: It is Rectangle: x1 = 92, y1 = 29, x2 = 79, y2 = 45. S = 208.000000. Color = purple
+401: It is Triangle: x1 = 9, y1 = 20, x2 = 47, y2 = 8, x3 = 70, y3 = 96. S = 1810.000000. Color = light blue
+402: It is Circle: x = 24, y = 30, R = 32. S = 3215.000000. Color = blue
+403: It is Circle: x = 82, y = 64, R = 63. S = 12463.000000. Color = yellow
+404: It is Triangle: x1 = 3, y1 = 81, x2 = 16, y2 = 48, x3 = 97, y3 = 98. S = 1662.000000. Color = orange
+405: It is Triangle: x1 = 78, y1 = 74, x2 = 85, y2 = 82, x3 = 84, y3 = 45. S = 126.000000. Color = red
+406: It is Circle: x = 53, y = 74, R = 26. S = 2123.000000. Color = orange
+407: It is Circle: x = 1, y = 93, R = 59. S = 10930.000000. Color = green
+408: It is Circle: x = 40, y = 51, R = 2. S = 13.000000. Color = blue
+409: It is Rectangle: x1 = 4, y1 = 66, x2 = 36, y2 = 51. S = 480.000000. Color = red
+410: It is Triangle: x1 = 46, y1 = 55, x2 = 63, y2 = 71, x3 = 39, y3 = 97. S = 413.000000. Color = orange
+411: It is Triangle: x1 = 49, y1 = 36, x2 = 87, y2 = 75, x3 = 13, y3 = 2. S = 56.000000. Color = light blue
+412: It is Rectangle: x1 = 46, y1 = 12, x2 = 100, y2 = 86. S = 3996.000000. Color = yellow
+413: It is Circle: x = 87, y = 36, R = 23. S = 1661.000000. Color = green
+414: It is Triangle: x1 = 11, y1 = 93, x2 = 68, y2 = 96, x3 = 90, y3 = 74. S = 660.000000. Color = purple
+415: It is Rectangle: x1 = 12, y1 = 6, x2 = 18, y2 = 98. S = 552.000000. Color = red
+416: It is Triangle: x1 = 37, y1 = 81, x2 = 65, y2 = 38, x3 = 82, y3 = 29. S = 240.000000. Color = yellow
+417: It is Circle: x = 80, y = 21, R = 95. S = 28339.000000. Color = red
+418: It is Circle: x = 82, y = 57, R = 1. S = 3.000000. Color = green
+419: It is Rectangle: x1 = 46, y1 = 54, x2 = 14, y2 = 87. S = 1056.000000. Color = purple
+420: It is Circle: x = 99, y = 90, R = 29. S = 2641.000000. Color = red
+421: It is Rectangle: x1 = 35, y1 = 20, x2 = 24, y2 = 15. S = 55.000000. Color = purple
+422: It is Rectangle: x1 = 48, y1 = 12, x2 = 96, y2 = 40. S = 1344.000000. Color = purple
+423: It is Circle: x = 86, y = 25, R = 27. S = 2289.000000. Color = red
+424: It is Rectangle: x1 = 27, y1 = 54, x2 = 99, y2 = 24. S = 2160.000000. Color = light blue
+425: It is Circle: x = 11, y = 34, R = 86. S = 23223.000000. Color = red
+426: It is Rectangle: x1 = 14, y1 = 28, x2 = 10, y2 = 100. S = 288.000000. Color = green
+427: It is Triangle: x1 = 66, y1 = 30, x2 = 98, y2 = 13, x3 = 93, y3 = 45. S = 470.000000. Color = red
+428: It is Rectangle: x1 = 13, y1 = 41, x2 = 11, y2 = 39. S = 4.000000. Color = yellow
+429: It is Rectangle: x1 = 17, y1 = 13, x2 = 93, y2 = 93. S = 6080.000000. Color = purple
+430: It is Triangle: x1 = 3, y1 = 4, x2 = 42, y2 = 63, x3 = 79, y3 = 7. S = 2184.000000. Color = green
+431: It is Triangle: x1 = 59, y1 = 88, x2 = 25, y2 = 24, x3 = 69, y3 = 74. S = 558.000000. Color = yellow
+432: It is Rectangle: x1 = 18, y1 = 44, x2 = 99, y2 = 82. S = 3078.000000. Color = light blue
+433: It is Circle: x = 72, y = 44, R = 4. S = 50.000000. Color = blue
+434: It is Rectangle: x1 = 97, y1 = 33, x2 = 78, y2 = 52. S = 361.000000. Color = light blue
+435: It is Rectangle: x1 = 45, y1 = 49, x2 = 12, y2 = 4. S = 1485.000000. Color = orange
+436: It is Circle: x = 62, y = 29, R = 27. S = 2289.000000. Color = light blue
+437: It is Triangle: x1 = 100, y1 = 25, x2 = 9, y2 = 70, x3 = 69, y3 = 7. S = 1516.000000. Color = purple
+438: It is Triangle: x1 = 68, y1 = 75, x2 = 48, y2 = 72, x3 = 15, y3 = 55. S = 120.000000. Color = light blue
+439: It is Triangle: x1 = 84, y1 = 71, x2 = 33, y2 = 65, x3 = 68, y3 = 33. S = 921.000000. Color = red
+440: It is Circle: x = 74, y = 79, R = 84. S = 22156.000000. Color = yellow
+441: It is Circle: x = 20, y = 98, R = 9. S = 254.000000. Color = green
+442: It is Rectangle: x1 = 78, y1 = 65, x2 = 64, y2 = 80. S = 210.000000. Color = green
+443: It is Circle: x = 54, y = 68, R = 55. S = 9499.000000. Color = light blue
+444: It is Rectangle: x1 = 22, y1 = 66, x2 = 57, y2 = 44. S = 770.000000. Color = light blue
+445: It is Rectangle: x1 = 63, y1 = 82, x2 = 1, y2 = 85. S = 186.000000. Color = green
+446: It is Rectangle: x1 = 68, y1 = 56, x2 = 88, y2 = 88. S = 640.000000. Color = blue
+447: It is Circle: x = 84, y = 62, R = 77. S = 18617.000000. Color = green
+448: It is Circle: x = 56, y = 68, R = 9. S = 254.000000. Color = purple
+449: It is Rectangle: x1 = 63, y1 = 33, x2 = 8, y2 = 36. S = 165.000000. Color = purple
+450: It is Circle: x = 31, y = 100, R = 37. S = 4299.000000. Color = green
+451: It is Triangle: x1 = 90, y1 = 78, x2 = 36, y2 = 20, x3 = 98, y3 = 44. S = 1150.000000. Color = yellow
+452: It is Rectangle: x1 = 48, y1 = 6, x2 = 20, y2 = 10. S = 112.000000. Color = purple
+453: It is Circle: x = 87, y = 90, R = 34. S = 3630.000000. Color = red
+454: It is Triangle: x1 = 20, y1 = 9, x2 = 87, y2 = 27, x3 = 44, y3 = 85. S = 2330.000000. Color = light blue
+455: It is Triangle: x1 = 37, y1 = 31, x2 = 19, y2 = 18, x3 = 20, y3 = 49. S = 272.000000. Color = orange
+456: It is Triangle: x1 = 98, y1 = 48, x2 = 50, y2 = 82, x3 = 48, y3 = 7. S = 1834.000000. Color = orange
+457: It is Circle: x = 41, y = 19, R = 47. S = 6936.000000. Color = yellow
+458: It is Rectangle: x1 = 93, y1 = 36, x2 = 75, y2 = 1. S = 630.000000. Color = red
+459: It is Triangle: x1 = 96, y1 = 59, x2 = 94, y2 = 21, x3 = 95, y3 = 76. S = 36.000000. Color = blue
+460: It is Circle: x = 95, y = 92, R = 68. S = 14519.000000. Color = blue
+461: It is Rectangle: x1 = 68, y1 = 87, x2 = 22, y2 = 67. S = 920.000000. Color = light blue
+462: It is Rectangle: x1 = 75, y1 = 37, x2 = 92, y2 = 21. S = 272.000000. Color = orange
+463: It is Rectangle: x1 = 65, y1 = 5, x2 = 73, y2 = 65. S = 480.000000. Color = light blue
+464: It is Triangle: x1 = 12, y1 = 85, x2 = 18, y2 = 32, x3 = 31, y3 = 46. S = 386.000000. Color = purple
+465: It is Triangle: x1 = 40, y1 = 66, x2 = 13, y2 = 29, x3 = 54, y3 = 80. S = 70.000000. Color = orange
+466: It is Triangle: x1 = 46, y1 = 12, x2 = 48, y2 = 72, x3 = 48, y3 = 91. S = 19.000000. Color = yellow
+467: It is Triangle: x1 = 89, y1 = 8, x2 = 22, y2 = 61, x3 = 24, y3 = 48. S = 382.000000. Color = light blue
+468: It is Triangle: x1 = 84, y1 = 55, x2 = 67, y2 = 66, x3 = 100, y3 = 41. S = 31.000000. Color = light blue
+469: It is Circle: x = 7, y = 72, R = 20. S = 1256.000000. Color = blue
+470: It is Rectangle: x1 = 86, y1 = 87, x2 = 1, y2 = 97. S = 850.000000. Color = orange
+471: It is Rectangle: x1 = 97, y1 = 77, x2 = 68, y2 = 14. S = 1827.000000. Color = orange
+472: It is Triangle: x1 = 35, y1 = 26, x2 = 99, y2 = 83, x3 = 62, y3 = 85. S = 1118.000000. Color = orange
+473: It is Rectangle: x1 = 3, y1 = 84, x2 = 15, y2 = 96. S = 144.000000. Color = yellow
+474: It is Triangle: x1 = 54, y1 = 65, x2 = 77, y2 = 65, x3 = 20, y3 = 62. S = 34.000000. Color = light blue
+475: It is Rectangle: x1 = 11, y1 = 37, x2 = 91, y2 = 7. S = 2400.000000. Color = blue
+476: It is Rectangle: x1 = 20, y1 = 81, x2 = 85, y2 = 54. S = 1755.000000. Color = blue
+477: It is Triangle: x1 = 88, y1 = 20, x2 = 19, y2 = 6, x3 = 35, y3 = 22. S = 440.000000. Color = orange
+478: It is Circle: x = 17, y = 82, R = 59. S = 10930.000000. Color = light blue
+479: It is Triangle: x1 = 87, y1 = 34, x2 = 18, y2 = 48, x3 = 37, y3 = 37. S = 246.000000. Color = yellow
+480: It is Circle: x = 79, y = 64, R = 41. S = 5278.000000. Color = blue
+481: It is Triangle: x1 = 21, y1 = 73, x2 = 89, y2 = 79, x3 = 59, y3 = 76. S = 12.000000. Color = green
+482: It is Circle: x = 33, y = 84, R = 50. S = 7850.000000. Color = blue
+483: It is Triangle: x1 = 66, y1 = 55, x2 = 95, y2 = 87, x3 = 5, y3 = 81. S = 1353.000000. Color = orange
+484: It is Rectangle: x1 = 81, y1 = 61, x2 = 10, y2 = 90. S = 2059.000000. Color = blue
+485: It is Circle: x = 54, y = 77, R = 28. S = 2462.000000. Color = green
+486: It is Circle: x = 52, y = 28, R = 75. S = 17663.000000. Color = light blue
+487: It is Rectangle: x1 = 72, y1 = 87, x2 = 88, y2 = 56. S = 496.000000. Color = blue
+488: It is Triangle: x1 = 92, y1 = 54, x2 = 67, y2 = 87, x3 = 92, y3 = 71. S = 212.000000. Color = green
+489: It is Circle: x = 44, y = 51, R = 76. S = 18137.000000. Color = blue
+490: It is Circle: x = 12, y = 96, R = 46. S = 6644.000000. Color = purple
+491: It is Circle: x = 85, y = 85, R = 27. S = 2289.000000. Color = yellow
+492: It is Triangle: x1 = 37, y1 = 68, x2 = 31, y2 = 75, x3 = 7, y3 = 38. S = 195.000000. Color = yellow
+493: It is Rectangle: x1 = 29, y1 = 67, x2 = 33, y2 = 67. S = 0.000000. Color = red
+494: It is Triangle: x1 = 86, y1 = 26, x2 = 50, y2 = 36, x3 = 2, y3 = 54. S = 84.000000. Color = green
+495: It is Circle: x = 50, y = 73, R = 53. S = 8820.000000. Color = blue
+496: It is Circle: x = 89, y = 51, R = 22. S = 1520.000000. Color = light blue
+497: It is Rectangle: x1 = 89, y1 = 29, x2 = 13, y2 = 95. S = 5016.000000. Color = blue
+498: It is Rectangle: x1 = 14, y1 = 47, x2 = 45, y2 = 46. S = 31.000000. Color = orange
+499: It is Rectangle: x1 = 53, y1 = 50, x2 = 33, y2 = 2. S = 960.000000. Color = purple
+500: It is Triangle: x1 = 8, y1 = 65, x2 = 50, y2 = 9, x3 = 38, y3 = 54. S = 609.000000. Color = yellow
+501: It is Rectangle: x1 = 42, y1 = 35, x2 = 68, y2 = 41. S = 156.000000. Color = light blue
+502: It is Triangle: x1 = 21, y1 = 90, x2 = 54, y2 = 39, x3 = 16, y3 = 67. S = 507.000000. Color = blue
+503: It is Triangle: x1 = 65, y1 = 49, x2 = 67, y2 = 17, x3 = 51, y3 = 51. S = 222.000000. Color = light blue
+504: It is Rectangle: x1 = 84, y1 = 77, x2 = 52, y2 = 86. S = 288.000000. Color = light blue
+505: It is Rectangle: x1 = 39, y1 = 69, x2 = 39, y2 = 81. S = 0.000000. Color = green
+506: It is Circle: x = 21, y = 81, R = 13. S = 531.000000. Color = purple
+507: It is Triangle: x1 = 19, y1 = 31, x2 = 38, y2 = 85, x3 = 15, y3 = 50. S = 288.000000. Color = red
+508: It is Rectangle: x1 = 68, y1 = 69, x2 = 66, y2 = 19. S = 100.000000. Color = green
+509: It is Rectangle: x1 = 54, y1 = 15, x2 = 56, y2 = 91. S = 152.000000. Color = purple
+510: It is Circle: x = 30, y = 72, R = 87. S = 23767.000000. Color = orange
+511: It is Circle: x = 45, y = 34, R = 11. S = 380.000000. Color = green
+512: It is Rectangle: x1 = 33, y1 = 27, x2 = 57, y2 = 70. S = 1032.000000. Color = red
+513: It is Triangle: x1 = 71, y1 = 64, x2 = 38, y2 = 90, x3 = 33, y3 = 3. S = 1500.000000. Color = red
+514: It is Rectangle: x1 = 7, y1 = 66, x2 = 37, y2 = 15. S = 1530.000000. Color = blue
+515: It is Triangle: x1 = 15, y1 = 37, x2 = 64, y2 = 1, x3 = 98, y3 = 42. S = 1616.000000. Color = green
+516: It is Rectangle: x1 = 53, y1 = 6, x2 = 57, y2 = 85. S = 316.000000. Color = blue
+517: It is Circle: x = 6, y = 95, R = 35. S = 3847.000000. Color = orange
+518: It is Circle: x = 25, y = 17, R = 43. S = 5806.000000. Color = blue
+519: It is Triangle: x1 = 65, y1 = 86, x2 = 94, y2 = 53, x3 = 52, y3 = 1. S = 1447.000000. Color = blue
+520: It is Circle: x = 38, y = 8, R = 18. S = 1017.000000. Color = purple
+521: It is Triangle: x1 = 15, y1 = 18, x2 = 53, y2 = 20, x3 = 74, y3 = 37. S = 302.000000. Color = blue
+522: It is Rectangle: x1 = 94, y1 = 98, x2 = 72, y2 = 21. S = 1694.000000. Color = orange
+523: It is Triangle: x1 = 90, y1 = 2, x2 = 27, y2 = 18, x3 = 18, y3 = 64. S = 1377.000000. Color = blue
+524: It is Triangle: x1 = 15, y1 = 15, x2 = 14, y2 = 32, x3 = 52, y3 = 21. S = 318.000000. Color = purple
+525: It is Triangle: x1 = 22, y1 = 15, x2 = 56, y2 = 74, x3 = 34, y3 = 81. S = 768.000000. Color = purple
+526: It is Triangle: x1 = 18, y1 = 56, x2 = 86, y2 = 41, x3 = 29, y3 = 45. S = 292.000000. Color = orange
+527: It is Triangle: x1 = 98, y1 = 15, x2 = 87, y2 = 15, x3 = 30, y3 = 49. S = 187.000000. Color = light blue
+528: It is Rectangle: x1 = 15, y1 = 2, x2 = 27, y2 = 67. S = 780.000000. Color = blue
+529: It is Rectangle: x1 = 57, y1 = 43, x2 = 42, y2 = 64. S = 315.000000. Color = yellow
+530: It is Triangle: x1 = 44, y1 = 31, x2 = 63, y2 = 13, x3 = 86, y3 = 100. S = 1034.000000. Color = yellow
+531: It is Triangle: x1 = 44, y1 = 93, x2 = 83, y2 = 93, x3 = 59, y3 = 69. S = 468.000000. Color = red
+532: It is Circle: x = 69, y = 95, R = 83. S = 21631.000000. Color = green
+533: It is Triangle: x1 = 9, y1 = 2, x2 = 17, y2 = 36, x3 = 10, y3 = 12. S = 23.000000. Color = light blue
+534: It is Triangle: x1 = 80, y1 = 3, x2 = 68, y2 = 62, x3 = 18, y3 = 80. S = 1367.000000. Color = blue
+535: It is Triangle: x1 = 84, y1 = 65, x2 = 13, y2 = 77, x3 = 47, y3 = 5. S = 2352.000000. Color = yellow
+536: It is Circle: x = 64, y = 75, R = 36. S = 4069.000000. Color = light blue
+537: It is Triangle: x1 = 19, y1 = 53, x2 = 18, y2 = 72, x3 = 21, y3 = 53. S = 19.000000. Color = red
+538: It is Triangle: x1 = 81, y1 = 5, x2 = 63, y2 = 83, x3 = 72, y3 = 24. S = 180.000000. Color = purple
+539: It is Circle: x = 75, y = 69, R = 87. S = 23767.000000. Color = yellow
+540: It is Rectangle: x1 = 15, y1 = 85, x2 = 37, y2 = 1. S = 1848.000000. Color = light blue
+541: It is Circle: x = 27, y = 88, R = 9. S = 254.000000. Color = green
+542: It is Circle: x = 61, y = 53, R = 30. S = 2826.000000. Color = orange
+543: It is Rectangle: x1 = 62, y1 = 65, x2 = 89, y2 = 67. S = 54.000000. Color = orange
+544: It is Triangle: x1 = 38, y1 = 55, x2 = 75, y2 = 41, x3 = 29, y3 = 95. S = 677.000000. Color = purple
+545: It is Triangle: x1 = 27, y1 = 45, x2 = 52, y2 = 15, x3 = 45, y3 = 55. S = 395.000000. Color = red
+546: It is Rectangle: x1 = 42, y1 = 27, x2 = 59, y2 = 52. S = 425.000000. Color = orange
+547: It is Triangle: x1 = 33, y1 = 73, x2 = 71, y2 = 94, x3 = 37, y3 = 59. S = 308.000000. Color = light blue
+548: It is Rectangle: x1 = 81, y1 = 50, x2 = 23, y2 = 55. S = 290.000000. Color = light blue
+549: It is Triangle: x1 = 1, y1 = 72, x2 = 70, y2 = 27, x3 = 16, y3 = 73. S = 372.000000. Color = blue
+550: It is Circle: x = 27, y = 12, R = 35. S = 3847.000000. Color = green
+551: It is Triangle: x1 = 45, y1 = 72, x2 = 77, y2 = 59, x3 = 56, y3 = 49. S = 296.000000. Color = blue
+552: It is Circle: x = 38, y = 39, R = 61. S = 11684.000000. Color = purple
+553: It is Rectangle: x1 = 62, y1 = 79, x2 = 26, y2 = 55. S = 864.000000. Color = blue
+554: It is Circle: x = 26, y = 3, R = 5. S = 79.000000. Color = purple
+555: It is Circle: x = 50, y = 52, R = 53. S = 8820.000000. Color = purple
+556: It is Circle: x = 25, y = 99, R = 83. S = 21631.000000. Color = green
+557: It is Rectangle: x1 = 94, y1 = 3, x2 = 28, y2 = 74. S = 4686.000000. Color = orange
+558: It is Rectangle: x1 = 13, y1 = 64, x2 = 73, y2 = 84. S = 1200.000000. Color = light blue
+559: It is Triangle: x1 = 61, y1 = 31, x2 = 37, y2 = 39, x3 = 56, y3 = 39. S = 76.000000. Color = light blue
+560: It is Triangle: x1 = 65, y1 = 45, x2 = 99, y2 = 17, x3 = 6, y3 = 37. S = 962.000000. Color = purple
+561: It is Circle: x = 72, y = 89, R = 82. S = 21113.000000. Color = blue
+562: It is Triangle: x1 = 61, y1 = 38, x2 = 47, y2 = 77, x3 = 2, y3 = 10. S = 1346.000000. Color = green
+563: It is Triangle: x1 = 86, y1 = 53, x2 = 46, y2 = 68, x3 = 89, y3 = 84. S = 642.000000. Color = purple
+564: It is Circle: x = 79, y = 70, R = 43. S = 5806.000000. Color = blue
+565: It is Rectangle: x1 = 11, y1 = 81, x2 = 57, y2 = 4. S = 3542.000000. Color = light blue
+566: It is Circle: x = 45, y = 69, R = 44. S = 6079.000000. Color = green
+567: It is Rectangle: x1 = 33, y1 = 34, x2 = 6, y2 = 35. S = 27.000000. Color = green
+568: It is Rectangle: x1 = 71, y1 = 32, x2 = 11, y2 = 68. S = 2160.000000. Color = red
+569: It is Rectangle: x1 = 4, y1 = 73, x2 = 29, y2 = 34. S = 975.000000. Color = light blue
+570: It is Triangle: x1 = 57, y1 = 61, x2 = 86, y2 = 89, x3 = 17, y3 = 89. S = 966.000000. Color = orange
+571: It is Rectangle: x1 = 85, y1 = 45, x2 = 43, y2 = 24. S = 882.000000. Color = green
+572: It is Rectangle: x1 = 57, y1 = 83, x2 = 62, y2 = 3. S = 400.000000. Color = blue
+573: It is Triangle: x1 = 34, y1 = 100, x2 = 52, y2 = 84, x3 = 51, y3 = 55. S = 269.000000. Color = purple
+574: It is Circle: x = 88, y = 97, R = 54. S = 9156.000000. Color = purple
+575: It is Circle: x = 39, y = 37, R = 78. S = 19104.000000. Color = yellow
+576: It is Triangle: x1 = 26, y1 = 64, x2 = 57, y2 = 68, x3 = 87, y3 = 34. S = 587.000000. Color = blue
+577: It is Circle: x = 16, y = 8, R = 98. S = 30157.000000. Color = blue
+578: It is Rectangle: x1 = 84, y1 = 57, x2 = 95, y2 = 19. S = 418.000000. Color = orange
+579: It is Circle: x = 75, y = 89, R = 88. S = 24316.000000. Color = yellow
+580: It is Circle: x = 36, y = 32, R = 32. S = 3215.000000. Color = purple
+581: It is Circle: x = 11, y = 85, R = 35. S = 3847.000000. Color = orange
+582: It is Triangle: x1 = 54, y1 = 12, x2 = 26, y2 = 49, x3 = 7, y3 = 93. S = 264.000000. Color = red
+583: It is Rectangle: x1 = 50, y1 = 51, x2 = 92, y2 = 6. S = 1890.000000. Color = light blue
+584: It is Circle: x = 64, y = 45, R = 36. S = 4069.000000. Color = purple
+585: It is Triangle: x1 = 59, y1 = 46, x2 = 20, y2 = 90, x3 = 77, y3 = 44. S = 357.000000. Color = red
+586: It is Rectangle: x1 = 80, y1 = 37, x2 = 12, y2 = 24. S = 884.000000. Color = light blue
+587: It is Rectangle: x1 = 1, y1 = 91, x2 = 82, y2 = 94. S = 243.000000. Color = blue
+588: It is Triangle: x1 = 43, y1 = 49, x2 = 81, y2 = 100, x3 = 45, y3 = 91. S = 747.000000. Color = green
+589: It is Triangle: x1 = 78, y1 = 66, x2 = 26, y2 = 36, x3 = 63, y3 = 97. S = 1031.000000. Color = orange
+590: It is Rectangle: x1 = 41, y1 = 80, x2 = 78, y2 = 72. S = 296.000000. Color = purple
+591: It is Rectangle: x1 = 48, y1 = 59, x2 = 65, y2 = 48. S = 187.000000. Color = purple
+592: It is Circle: x = 93, y = 98, R = 36. S = 4069.000000. Color = red
+593: It is Rectangle: x1 = 16, y1 = 38, x2 = 43, y2 = 58. S = 540.000000. Color = purple
+594: It is Triangle: x1 = 36, y1 = 70, x2 = 9, y2 = 23, x3 = 32, y3 = 5. S = 784.000000. Color = orange
+595: It is Rectangle: x1 = 97, y1 = 80, x2 = 53, y2 = 21. S = 2596.000000. Color = blue
+596: It is Triangle: x1 = 68, y1 = 6, x2 = 58, y2 = 67, x3 = 6, y3 = 55. S = 1646.000000. Color = blue
+597: It is Rectangle: x1 = 90, y1 = 98, x2 = 1, y2 = 58. S = 3560.000000. Color = yellow
+598: It is Triangle: x1 = 67, y1 = 87, x2 = 78, y2 = 2, x3 = 56, y3 = 38. S = 737.000000. Color = green
+599: It is Rectangle: x1 = 94, y1 = 76, x2 = 14, y2 = 43. S = 2640.000000. Color = green
+600: It is Triangle: x1 = 63, y1 = 6, x2 = 59, y2 = 82, x3 = 11, y3 = 68. S = 1852.000000. Color = green
+601: It is Rectangle: x1 = 23, y1 = 59, x2 = 19, y2 = 64. S = 20.000000. Color = blue
+602: It is Rectangle: x1 = 73, y1 = 44, x2 = 17, y2 = 40. S = 224.000000. Color = purple
+603: It is Triangle: x1 = 93, y1 = 90, x2 = 83, y2 = 69, x3 = 81, y3 = 76. S = 56.000000. Color = red
+604: It is Triangle: x1 = 18, y1 = 55, x2 = 60, y2 = 32, x3 = 61, y3 = 70. S = 810.000000. Color = green
+605: It is Circle: x = 38, y = 13, R = 39. S = 4776.000000. Color = yellow
+606: It is Circle: x = 9, y = 27, R = 31. S = 3018.000000. Color = yellow
+607: It is Rectangle: x1 = 26, y1 = 47, x2 = 91, y2 = 8. S = 2535.000000. Color = green
+608: It is Rectangle: x1 = 49, y1 = 74, x2 = 4, y2 = 29. S = 2025.000000. Color = light blue
+609: It is Triangle: x1 = 74, y1 = 71, x2 = 6, y2 = 85, x3 = 2, y3 = 18. S = 2306.000000. Color = purple
+610: It is Circle: x = 89, y = 44, R = 79. S = 19597.000000. Color = yellow
+611: It is Rectangle: x1 = 49, y1 = 87, x2 = 33, y2 = 80. S = 112.000000. Color = purple
+612: It is Circle: x = 5, y = 63, R = 74. S = 17195.000000. Color = red
+613: It is Rectangle: x1 = 57, y1 = 64, x2 = 27, y2 = 12. S = 1560.000000. Color = orange
+614: It is Rectangle: x1 = 63, y1 = 18, x2 = 49, y2 = 20. S = 28.000000. Color = yellow
+615: It is Circle: x = 38, y = 8, R = 17. S = 907.000000. Color = blue
+616: It is Rectangle: x1 = 47, y1 = 56, x2 = 9, y2 = 95. S = 1482.000000. Color = light blue
+617: It is Rectangle: x1 = 26, y1 = 10, x2 = 25, y2 = 83. S = 73.000000. Color = orange
+618: It is Rectangle: x1 = 98, y1 = 77, x2 = 7, y2 = 62. S = 1365.000000. Color = purple
+619: It is Rectangle: x1 = 57, y1 = 33, x2 = 32, y2 = 74. S = 1025.000000. Color = blue
+620: It is Circle: x = 28, y = 84, R = 88. S = 24316.000000. Color = light blue
+621: It is Triangle: x1 = 17, y1 = 90, x2 = 98, y2 = 72, x3 = 50, y3 = 44. S = 1566.000000. Color = purple
+622: It is Circle: x = 22, y = 26, R = 68. S = 14519.000000. Color = yellow
+623: It is Rectangle: x1 = 18, y1 = 53, x2 = 25, y2 = 24. S = 203.000000. Color = orange
+624: It is Rectangle: x1 = 93, y1 = 23, x2 = 64, y2 = 76. S = 1537.000000. Color = red
+625: It is Triangle: x1 = 26, y1 = 27, x2 = 80, y2 = 66, x3 = 66, y3 = 83. S = 732.000000. Color = blue
+626: It is Circle: x = 32, y = 6, R = 56. S = 9847.000000. Color = orange
+627: It is Triangle: x1 = 47, y1 = 48, x2 = 48, y2 = 66, x3 = 3, y3 = 96. S = 420.000000. Color = green
+628: It is Rectangle: x1 = 21, y1 = 6, x2 = 73, y2 = 51. S = 2340.000000. Color = green
+629: It is Triangle: x1 = 14, y1 = 25, x2 = 47, y2 = 10, x3 = 2, y3 = 25. S = 90.000000. Color = red
+630: It is Triangle: x1 = 90, y1 = 23, x2 = 1, y2 = 96, x3 = 6, y3 = 6. S = 3822.000000. Color = light blue
+631: It is Triangle: x1 = 27, y1 = 50, x2 = 80, y2 = 26, x3 = 67, y3 = 35. S = 82.000000. Color = orange
+632: It is Rectangle: x1 = 42, y1 = 94, x2 = 54, y2 = 66. S = 336.000000. Color = yellow
+633: It is Triangle: x1 = 65, y1 = 10, x2 = 79, y2 = 63, x3 = 19, y3 = 80. S = 1709.000000. Color = orange
+634: It is Triangle: x1 = 99, y1 = 29, x2 = 34, y2 = 99, x3 = 76, y3 = 40. S = 448.000000. Color = orange
+635: It is Rectangle: x1 = 72, y1 = 34, x2 = 80, y2 = 3. S = 248.000000. Color = purple
+636: It is Circle: x = 37, y = 33, R = 94. S = 27745.000000. Color = purple
+637: It is Triangle: x1 = 99, y1 = 96, x2 = 21, y2 = 5, x3 = 12, y3 = 30. S = 1384.000000. Color = orange
+638: It is Circle: x = 1, y = 15, R = 12. S = 452.000000. Color = orange
+639: It is Circle: x = 92, y = 45, R = 63. S = 12463.000000. Color = light blue
+640: It is Rectangle: x1 = 18, y1 = 98, x2 = 59, y2 = 3. S = 3895.000000. Color = purple
+641: It is Rectangle: x1 = 14, y1 = 75, x2 = 50, y2 = 98. S = 828.000000. Color = purple
+642: It is Rectangle: x1 = 23, y1 = 71, x2 = 79, y2 = 96. S = 1400.000000. Color = red
+643: It is Rectangle: x1 = 77, y1 = 10, x2 = 63, y2 = 77. S = 938.000000. Color = orange
+644: It is Circle: x = 88, y = 36, R = 18. S = 1017.000000. Color = blue
+645: It is Circle: x = 37, y = 20, R = 19. S = 1134.000000. Color = blue
+646: It is Triangle: x1 = 22, y1 = 63, x2 = 44, y2 = 87, x3 = 90, y3 = 45. S = 1014.000000. Color = purple
+647: It is Circle: x = 76, y = 59, R = 84. S = 22156.000000. Color = orange
+648: It is Circle: x = 59, y = 95, R = 31. S = 3018.000000. Color = light blue
+649: It is Circle: x = 7, y = 44, R = 83. S = 21631.000000. Color = light blue
+650: It is Triangle: x1 = 52, y1 = 31, x2 = 81, y2 = 88, x3 = 2, y3 = 100. S = 2426.000000. Color = blue
+651: It is Rectangle: x1 = 21, y1 = 36, x2 = 79, y2 = 59. S = 1334.000000. Color = orange
+652: It is Circle: x = 43, y = 90, R = 51. S = 8167.000000. Color = red
+653: It is Circle: x = 57, y = 7, R = 84. S = 22156.000000. Color = purple
+654: It is Triangle: x1 = 4, y1 = 60, x2 = 48, y2 = 47, x3 = 94, y3 = 94. S = 1333.000000. Color = blue
+655: It is Circle: x = 76, y = 59, R = 84. S = 22156.000000. Color = blue
+656: It is Triangle: x1 = 4, y1 = 13, x2 = 30, y2 = 91, x3 = 91, y3 = 88. S = 2418.000000. Color = light blue
+657: It is Rectangle: x1 = 31, y1 = 8, x2 = 69, y2 = 84. S = 2888.000000. Color = green
+658: It is Triangle: x1 = 42, y1 = 16, x2 = 27, y2 = 31, x3 = 19, y3 = 38. S = 8.000000. Color = red
+659: It is Circle: x = 83, y = 23, R = 95. S = 28339.000000. Color = red
+660: It is Circle: x = 53, y = 62, R = 26. S = 2123.000000. Color = yellow
+661: It is Circle: x = 90, y = 39, R = 60. S = 11304.000000. Color = green
+662: It is Circle: x = 79, y = 46, R = 8. S = 201.000000. Color = red
+663: It is Rectangle: x1 = 43, y1 = 70, x2 = 90, y2 = 85. S = 705.000000. Color = yellow
+664: It is Rectangle: x1 = 67, y1 = 7, x2 = 58, y2 = 96. S = 801.000000. Color = light blue
+665: It is Rectangle: x1 = 18, y1 = 18, x2 = 71, y2 = 67. S = 2597.000000. Color = purple
+666: It is Circle: x = 44, y = 79, R = 2. S = 13.000000. Color = green
+667: It is Triangle: x1 = 61, y1 = 66, x2 = 94, y2 = 39, x3 = 11, y3 = 54. S = 873.000000. Color = blue
+668: It is Rectangle: x1 = 96, y1 = 50, x2 = 18, y2 = 32. S = 1404.000000. Color = yellow
+669: It is Triangle: x1 = 50, y1 = 93, x2 = 96, y2 = 45, x3 = 16, y3 = 36. S = 2127.000000. Color = orange
+670: It is Rectangle: x1 = 6, y1 = 80, x2 = 54, y2 = 90. S = 480.000000. Color = light blue
+671: It is Circle: x = 91, y = 9, R = 100. S = 31400.000000. Color = yellow
+672: It is Rectangle: x1 = 46, y1 = 42, x2 = 36, y2 = 99. S = 570.000000. Color = light blue
+673: It is Rectangle: x1 = 46, y1 = 20, x2 = 82, y2 = 30. S = 360.000000. Color = light blue
+674: It is Circle: x = 79, y = 2, R = 14. S = 615.000000. Color = blue
+675: It is Rectangle: x1 = 1, y1 = 89, x2 = 2, y2 = 59. S = 30.000000. Color = blue
+676: It is Rectangle: x1 = 100, y1 = 96, x2 = 39, y2 = 91. S = 305.000000. Color = blue
+677: It is Circle: x = 94, y = 77, R = 36. S = 4069.000000. Color = yellow
+678: It is Triangle: x1 = 86, y1 = 9, x2 = 28, y2 = 83, x3 = 28, y3 = 9. S = 2146.000000. Color = red
+679: It is Circle: x = 79, y = 95, R = 38. S = 4534.000000. Color = purple
+680: It is Triangle: x1 = 7, y1 = 97, x2 = 10, y2 = 61, x3 = 7, y3 = 30. S = 100.000000. Color = green
+681: It is Triangle: x1 = 77, y1 = 6, x2 = 49, y2 = 80, x3 = 48, y3 = 94. S = 159.000000. Color = green
+682: It is Circle: x = 80, y = 72, R = 72. S = 16278.000000. Color = green
+683: It is Triangle: x1 = 55, y1 = 67, x2 = 59, y2 = 70, x3 = 3, y3 = 37. S = 18.000000. Color = blue
+684: It is Rectangle: x1 = 33, y1 = 85, x2 = 99, y2 = 30. S = 3630.000000. Color = purple
+685: It is Circle: x = 36, y = 28, R = 78. S = 19104.000000. Color = purple
+686: It is Rectangle: x1 = 36, y1 = 42, x2 = 36, y2 = 83. S = 0.000000. Color = red
+687: It is Rectangle: x1 = 18, y1 = 67, x2 = 15, y2 = 41. S = 78.000000. Color = red
+688: It is Triangle: x1 = 95, y1 = 73, x2 = 23, y2 = 17, x3 = 27, y3 = 11. S = 328.000000. Color = green
+689: It is Rectangle: x1 = 44, y1 = 69, x2 = 22, y2 = 73. S = 88.000000. Color = light blue
+690: It is Rectangle: x1 = 60, y1 = 94, x2 = 62, y2 = 54. S = 80.000000. Color = orange
+691: It is Circle: x = 47, y = 34, R = 31. S = 3018.000000. Color = blue
+692: It is Circle: x = 100, y = 52, R = 95. S = 28339.000000. Color = blue
+693: It is Circle: x = 59, y = 87, R = 81. S = 20602.000000. Color = blue
+694: It is Triangle: x1 = 8, y1 = 43, x2 = 87, y2 = 30, x3 = 86, y3 = 55. S = 981.000000. Color = purple
+695: It is Triangle: x1 = 21, y1 = 35, x2 = 70, y2 = 14, x3 = 96, y3 = 75. S = 1768.000000. Color = purple
+696: It is Circle: x = 21, y = 97, R = 74. S = 17195.000000. Color = blue
+697: It is Rectangle: x1 = 74, y1 = 57, x2 = 19, y2 = 14. S = 2365.000000. Color = green
+698: It is Rectangle: x1 = 100, y1 = 94, x2 = 61, y2 = 55. S = 1521.000000. Color = blue
+699: It is Circle: x = 41, y = 83, R = 41. S = 5278.000000. Color = green
+700: It is Rectangle: x1 = 2, y1 = 15, x2 = 19, y2 = 23. S = 136.000000. Color = green
+701: It is Rectangle: x1 = 97, y1 = 91, x2 = 9, y2 = 70. S = 1848.000000. Color = yellow
+702: It is Circle: x = 75, y = 63, R = 56. S = 9847.000000. Color = red
+703: It is Circle: x = 69, y = 97, R = 61. S = 11684.000000. Color = orange
+704: It is Circle: x = 73, y = 74, R = 95. S = 28339.000000. Color = orange
+705: It is Circle: x = 29, y = 68, R = 8. S = 201.000000. Color = green
+706: It is Rectangle: x1 = 74, y1 = 84, x2 = 44, y2 = 54. S = 900.000000. Color = yellow
+707: It is Circle: x = 44, y = 10, R = 61. S = 11684.000000. Color = blue
+708: It is Circle: x = 36, y = 45, R = 47. S = 6936.000000. Color = orange
+709: It is Circle: x = 67, y = 15, R = 90. S = 25434.000000. Color = red
+710: It is Triangle: x1 = 63, y1 = 12, x2 = 50, y2 = 90, x3 = 25, y3 = 78. S = 1053.000000. Color = yellow
+711: It is Rectangle: x1 = 43, y1 = 29, x2 = 58, y2 = 78. S = 735.000000. Color = red
+712: It is Triangle: x1 = 78, y1 = 64, x2 = 7, y2 = 87, x3 = 76, y3 = 89. S = 864.000000. Color = purple
+713: It is Rectangle: x1 = 85, y1 = 76, x2 = 81, y2 = 14. S = 248.000000. Color = blue
+714: It is Triangle: x1 = 4, y1 = 32, x2 = 3, y2 = 18, x3 = 43, y3 = 52. S = 263.000000. Color = orange
+715: It is Triangle: x1 = 82, y1 = 15, x2 = 3, y2 = 76, x3 = 95, y3 = 61. S = 2214.000000. Color = purple
+716: It is Rectangle: x1 = 23, y1 = 30, x2 = 82, y2 = 81. S = 3009.000000. Color = orange
+717: It is Triangle: x1 = 69, y1 = 98, x2 = 72, y2 = 6, x3 = 26, y3 = 4. S = 2119.000000. Color = purple
+718: It is Rectangle: x1 = 51, y1 = 74, x2 = 50, y2 = 53. S = 21.000000. Color = purple
+719: It is Circle: x = 56, y = 97, R = 11. S = 380.000000. Color = yellow
+720: It is Triangle: x1 = 65, y1 = 12, x2 = 58, y2 = 77, x3 = 16, y3 = 76. S = 1368.000000. Color = red
+721: It is Rectangle: x1 = 9, y1 = 80, x2 = 66, y2 = 17. S = 3591.000000. Color = purple
+722: It is Rectangle: x1 = 40, y1 = 6, x2 = 40, y2 = 44. S = 0.000000. Color = yellow
+723: It is Triangle: x1 = 94, y1 = 50, x2 = 60, y2 = 46, x3 = 40, y3 = 4. S = 674.000000. Color = purple
+724: It is Rectangle: x1 = 66, y1 = 90, x2 = 51, y2 = 30. S = 900.000000. Color = orange
+725: It is Circle: x = 7, y = 69, R = 87. S = 23767.000000. Color = red
+726: It is Circle: x = 95, y = 89, R = 83. S = 21631.000000. Color = blue
+727: It is Circle: x = 97, y = 3, R = 46. S = 6644.000000. Color = green
+728: It is Triangle: x1 = 22, y1 = 99, x2 = 91, y2 = 71, x3 = 58, y3 = 88. S = 124.000000. Color = red
+729: It is Triangle: x1 = 41, y1 = 50, x2 = 30, y2 = 82, x3 = 1, y3 = 12. S = 849.000000. Color = orange
+730: It is Triangle: x1 = 70, y1 = 54, x2 = 99, y2 = 27, x3 = 71, y3 = 93. S = 579.000000. Color = yellow
+731: It is Triangle: x1 = 8, y1 = 8, x2 = 54, y2 = 63, x3 = 53, y3 = 42. S = 456.000000. Color = light blue
+732: It is Triangle: x1 = 40, y1 = 3, x2 = 96, y2 = 49, x3 = 42, y3 = 58. S = 1494.000000. Color = red
+733: It is Rectangle: x1 = 7, y1 = 43, x2 = 15, y2 = 59. S = 128.000000. Color = light blue
+734: It is Circle: x = 71, y = 23, R = 6. S = 113.000000. Color = red
+735: It is Triangle: x1 = 77, y1 = 13, x2 = 68, y2 = 33, x3 = 73, y3 = 75. S = 239.000000. Color = orange
+736: It is Rectangle: x1 = 79, y1 = 27, x2 = 46, y2 = 5. S = 726.000000. Color = orange
+737: It is Rectangle: x1 = 100, y1 = 67, x2 = 94, y2 = 9. S = 348.000000. Color = yellow
+738: It is Triangle: x1 = 68, y1 = 22, x2 = 42, y2 = 26, x3 = 28, y3 = 94. S = 856.000000. Color = blue
+739: It is Rectangle: x1 = 99, y1 = 68, x2 = 3, y2 = 27. S = 3936.000000. Color = light blue
+740: It is Circle: x = 60, y = 5, R = 96. S = 28938.000000. Color = orange
+741: It is Circle: x = 74, y = 72, R = 88. S = 24316.000000. Color = blue
+742: It is Circle: x = 88, y = 30, R = 55. S = 9499.000000. Color = yellow
+743: It is Triangle: x1 = 86, y1 = 59, x2 = 5, y2 = 8, x3 = 52, y3 = 83. S = 1839.000000. Color = purple
+744: It is Circle: x = 30, y = 36, R = 44. S = 6079.000000. Color = red
+745: It is Circle: x = 22, y = 30, R = 59. S = 10930.000000. Color = light blue
+746: It is Triangle: x1 = 6, y1 = 26, x2 = 76, y2 = 32, x3 = 49, y3 = 63. S = 1166.000000. Color = orange
+747: It is Rectangle: x1 = 2, y1 = 90, x2 = 44, y2 = 34. S = 2352.000000. Color = blue
+748: It is Circle: x = 93, y = 36, R = 88. S = 24316.000000. Color = purple
+749: It is Rectangle: x1 = 74, y1 = 41, x2 = 100, y2 = 10. S = 806.000000. Color = purple
+750: It is Triangle: x1 = 99, y1 = 57, x2 = 78, y2 = 10, x3 = 38, y3 = 63. S = 1496.000000. Color = red
+751: It is Rectangle: x1 = 38, y1 = 98, x2 = 63, y2 = 52. S = 1150.000000. Color = red
+752: It is Rectangle: x1 = 54, y1 = 48, x2 = 46, y2 = 39. S = 72.000000. Color = orange
+753: It is Circle: x = 83, y = 67, R = 66. S = 13678.000000. Color = purple
+754: It is Rectangle: x1 = 40, y1 = 19, x2 = 35, y2 = 1. S = 90.000000. Color = orange
+755: It is Rectangle: x1 = 99, y1 = 62, x2 = 12, y2 = 60. S = 174.000000. Color = green
+756: It is Rectangle: x1 = 27, y1 = 13, x2 = 15, y2 = 24. S = 132.000000. Color = blue
+757: It is Circle: x = 34, y = 78, R = 72. S = 16278.000000. Color = yellow
+758: It is Circle: x = 62, y = 12, R = 1. S = 3.000000. Color = purple
+759: It is Rectangle: x1 = 19, y1 = 23, x2 = 66, y2 = 58. S = 1645.000000. Color = blue
+760: It is Circle: x = 58, y = 46, R = 87. S = 23767.000000. Color = orange
+761: It is Rectangle: x1 = 98, y1 = 20, x2 = 58, y2 = 76. S = 2240.000000. Color = green
+762: It is Circle: x = 90, y = 21, R = 49. S = 7539.000000. Color = red
+763: It is Rectangle: x1 = 78, y1 = 31, x2 = 40, y2 = 52. S = 798.000000. Color = purple
+764: It is Triangle: x1 = 5, y1 = 89, x2 = 33, y2 = 23, x3 = 11, y3 = 98. S = 324.000000. Color = orange
+765: It is Circle: x = 49, y = 89, R = 96. S = 28938.000000. Color = red
+766: It is Circle: x = 54, y = 85, R = 67. S = 14095.000000. Color = purple
+767: It is Circle: x = 64, y = 33, R = 53. S = 8820.000000. Color = orange
+768: It is Circle: x = 61, y = 43, R = 58. S = 10563.000000. Color = light blue
+769: It is Rectangle: x1 = 9, y1 = 87, x2 = 36, y2 = 65. S = 594.000000. Color = light blue
+770: It is Triangle: x1 = 87, y1 = 85, x2 = 17, y2 = 18, x3 = 87, y3 = 18. S = 2345.000000. Color = green
+771: It is Circle: x = 52, y = 6, R = 88. S = 24316.000000. Color = purple
+772: It is Circle: x = 98, y = 99, R = 36. S = 4069.000000. Color = red
+773: It is Circle: x = 24, y = 62, R = 64. S = 12861.000000. Color = green
+774: It is Triangle: x1 = 58, y1 = 99, x2 = 32, y2 = 97, x3 = 34, y3 = 96. S = 15.000000. Color = light blue
+775: It is Circle: x = 35, y = 8, R = 22. S = 1520.000000. Color = red
+776: It is Rectangle: x1 = 39, y1 = 10, x2 = 80, y2 = 43. S = 1353.000000. Color = blue
+777: It is Triangle: x1 = 30, y1 = 38, x2 = 68, y2 = 81, x3 = 25, y3 = 50. S = 336.000000. Color = yellow
+778: It is Rectangle: x1 = 63, y1 = 47, x2 = 65, y2 = 34. S = 26.000000. Color = blue
+779: It is Rectangle: x1 = 65, y1 = 52, x2 = 49, y2 = 12. S = 640.000000. Color = orange
+780: It is Triangle: x1 = 46, y1 = 82, x2 = 75, y2 = 50, x3 = 79, y3 = 66. S = 296.000000. Color = light blue
+781: It is Rectangle: x1 = 8, y1 = 77, x2 = 28, y2 = 89. S = 240.000000. Color = green
+782: It is Triangle: x1 = 21, y1 = 91, x2 = 97, y2 = 4, x3 = 90, y3 = 11. S = 38.000000. Color = green
+783: It is Rectangle: x1 = 44, y1 = 10, x2 = 69, y2 = 60. S = 1250.000000. Color = blue
+784: It is Rectangle: x1 = 72, y1 = 35, x2 = 74, y2 = 69. S = 68.000000. Color = light blue
+785: It is Rectangle: x1 = 18, y1 = 47, x2 = 66, y2 = 80. S = 1584.000000. Color = green
+786: It is Triangle: x1 = 56, y1 = 36, x2 = 65, y2 = 22, x3 = 83, y3 = 86. S = 414.000000. Color = blue
+787: It is Rectangle: x1 = 41, y1 = 53, x2 = 41, y2 = 95. S = 0.000000. Color = yellow
+788: It is Rectangle: x1 = 4, y1 = 28, x2 = 48, y2 = 16. S = 528.000000. Color = red
+789: It is Circle: x = 51, y = 70, R = 40. S = 5024.000000. Color = yellow
+790: It is Triangle: x1 = 9, y1 = 68, x2 = 87, y2 = 89, x3 = 24, y3 = 11. S = 2380.000000. Color = blue
+791: It is Rectangle: x1 = 75, y1 = 17, x2 = 93, y2 = 12. S = 90.000000. Color = red
+792: It is Rectangle: x1 = 5, y1 = 33, x2 = 67, y2 = 51. S = 1116.000000. Color = yellow
+793: It is Triangle: x1 = 54, y1 = 18, x2 = 51, y2 = 21, x3 = 14, y3 = 73. S = 22.000000. Color = yellow
+794: It is Circle: x = 12, y = 93, R = 4. S = 50.000000. Color = blue
+795: It is Rectangle: x1 = 42, y1 = 13, x2 = 35, y2 = 52. S = 273.000000. Color = light blue
+796: It is Circle: x = 78, y = 25, R = 89. S = 24872.000000. Color = red
+797: It is Triangle: x1 = 15, y1 = 46, x2 = 88, y2 = 82, x3 = 48, y3 = 79. S = 610.000000. Color = orange
+798: It is Circle: x = 48, y = 86, R = 73. S = 16733.000000. Color = green
+799: It is Rectangle: x1 = 96, y1 = 47, x2 = 22, y2 = 88. S = 3034.000000. Color = yellow
+800: It is Rectangle: x1 = 99, y1 = 43, x2 = 58, y2 = 86. S = 1763.000000. Color = light blue
+801: It is Circle: x = 82, y = 24, R = 42. S = 5539.000000. Color = light blue
+802: It is Circle: x = 97, y = 85, R = 14. S = 615.000000. Color = red
+803: It is Circle: x = 61, y = 15, R = 2. S = 13.000000. Color = red
+804: It is Rectangle: x1 = 39, y1 = 85, x2 = 27, y2 = 49. S = 432.000000. Color = blue
+805: It is Rectangle: x1 = 23, y1 = 19, x2 = 79, y2 = 68. S = 2744.000000. Color = yellow
+806: It is Triangle: x1 = 26, y1 = 3, x2 = 19, y2 = 43, x3 = 84, y3 = 94. S = 1478.000000. Color = green
+807: It is Rectangle: x1 = 10, y1 = 80, x2 = 43, y2 = 23. S = 1881.000000. Color = blue
+808: It is Rectangle: x1 = 83, y1 = 82, x2 = 13, y2 = 95. S = 910.000000. Color = orange
+809: It is Rectangle: x1 = 79, y1 = 22, x2 = 52, y2 = 11. S = 297.000000. Color = purple
+810: It is Rectangle: x1 = 29, y1 = 24, x2 = 94, y2 = 46. S = 1430.000000. Color = light blue
+811: It is Triangle: x1 = 100, y1 = 67, x2 = 13, y2 = 84, x3 = 60, y3 = 96. S = 922.000000. Color = red
+812: It is Circle: x = 27, y = 83, R = 91. S = 26002.000000. Color = orange
+813: It is Rectangle: x1 = 73, y1 = 76, x2 = 7, y2 = 19. S = 3762.000000. Color = orange
+814: It is Circle: x = 49, y = 44, R = 62. S = 12070.000000. Color = purple
+815: It is Circle: x = 87, y = 88, R = 17. S = 907.000000. Color = green
+816: It is Triangle: x1 = 65, y1 = 50, x2 = 85, y2 = 31, x3 = 62, y3 = 68. S = 152.000000. Color = orange
+817: It is Rectangle: x1 = 60, y1 = 58, x2 = 88, y2 = 43. S = 420.000000. Color = light blue
+818: It is Rectangle: x1 = 37, y1 = 24, x2 = 57, y2 = 95. S = 1420.000000. Color = red
+819: It is Circle: x = 5, y = 43, R = 23. S = 1661.000000. Color = purple
+820: It is Triangle: x1 = 64, y1 = 52, x2 = 88, y2 = 81, x3 = 84, y3 = 25. S = 614.000000. Color = green
+821: It is Circle: x = 9, y = 76, R = 47. S = 6936.000000. Color = red
+822: It is Triangle: x1 = 55, y1 = 87, x2 = 27, y2 = 42, x3 = 29, y3 = 26. S = 269.000000. Color = yellow
+823: It is Triangle: x1 = 50, y1 = 32, x2 = 12, y2 = 43, x3 = 11, y3 = 16. S = 518.000000. Color = blue
+824: It is Triangle: x1 = 33, y1 = 38, x2 = 49, y2 = 36, x3 = 77, y3 = 81. S = 388.000000. Color = light blue
+825: It is Triangle: x1 = 25, y1 = 4, x2 = 9, y2 = 52, x3 = 50, y3 = 36. S = 856.000000. Color = purple
+826: It is Triangle: x1 = 75, y1 = 47, x2 = 98, y2 = 3, x3 = 72, y3 = 72. S = 222.000000. Color = blue
+827: It is Triangle: x1 = 55, y1 = 35, x2 = 68, y2 = 65, x3 = 2, y3 = 52. S = 906.000000. Color = red
+828: It is Triangle: x1 = 41, y1 = 98, x2 = 21, y2 = 18, x3 = 78, y3 = 40. S = 2060.000000. Color = yellow
+829: It is Circle: x = 43, y = 79, R = 58. S = 10563.000000. Color = orange
+830: It is Rectangle: x1 = 78, y1 = 47, x2 = 40, y2 = 24. S = 874.000000. Color = orange
+831: It is Rectangle: x1 = 47, y1 = 20, x2 = 18, y2 = 20. S = 0.000000. Color = blue
+832: It is Triangle: x1 = 87, y1 = 91, x2 = 53, y2 = 90, x3 = 40, y3 = 38. S = 878.000000. Color = yellow
+833: It is Rectangle: x1 = 58, y1 = 100, x2 = 18, y2 = 97. S = 120.000000. Color = green
+834: It is Rectangle: x1 = 91, y1 = 99, x2 = 80, y2 = 34. S = 715.000000. Color = light blue
+835: It is Rectangle: x1 = 33, y1 = 4, x2 = 80, y2 = 28. S = 1128.000000. Color = yellow
+836: It is Rectangle: x1 = 99, y1 = 67, x2 = 98, y2 = 73. S = 6.000000. Color = green
+837: It is Rectangle: x1 = 15, y1 = 22, x2 = 25, y2 = 6. S = 160.000000. Color = yellow
+838: It is Rectangle: x1 = 94, y1 = 17, x2 = 58, y2 = 11. S = 216.000000. Color = green
+839: It is Rectangle: x1 = 33, y1 = 56, x2 = 25, y2 = 13. S = 344.000000. Color = blue
+840: It is Triangle: x1 = 21, y1 = 73, x2 = 97, y2 = 1, x3 = 53, y3 = 46. S = 126.000000. Color = purple
+841: It is Circle: x = 13, y = 28, R = 75. S = 17663.000000. Color = blue
+842: It is Rectangle: x1 = 89, y1 = 4, x2 = 87, y2 = 46. S = 84.000000. Color = yellow
+843: It is Triangle: x1 = 39, y1 = 78, x2 = 3, y2 = 1, x3 = 43, y3 = 81. S = 100.000000. Color = orange
+844: It is Circle: x = 58, y = 98, R = 90. S = 25434.000000. Color = yellow
+845: It is Rectangle: x1 = 63, y1 = 94, x2 = 70, y2 = 67. S = 189.000000. Color = orange
+846: It is Rectangle: x1 = 17, y1 = 56, x2 = 27, y2 = 44. S = 120.000000. Color = orange
+847: It is Triangle: x1 = 84, y1 = 92, x2 = 80, y2 = 30, x3 = 6, y3 = 25. S = 2284.000000. Color = light blue
+848: It is Triangle: x1 = 79, y1 = 21, x2 = 77, y2 = 60, x3 = 6, y3 = 78. S = 1366.000000. Color = green
+849: It is Circle: x = 68, y = 66, R = 72. S = 16278.000000. Color = blue
+850: It is Rectangle: x1 = 94, y1 = 48, x2 = 51, y2 = 93. S = 1935.000000. Color = yellow
+851: It is Circle: x = 72, y = 11, R = 94. S = 27745.000000. Color = blue
+852: It is Triangle: x1 = 38, y1 = 43, x2 = 24, y2 = 43, x3 = 19, y3 = 43. S = 0.000000. Color = purple
+853: It is Rectangle: x1 = 15, y1 = 6, x2 = 9, y2 = 20. S = 84.000000. Color = light blue
+854: It is Rectangle: x1 = 74, y1 = 2, x2 = 42, y2 = 46. S = 1408.000000. Color = red
+855: It is Circle: x = 91, y = 34, R = 3. S = 28.000000. Color = orange
+856: It is Rectangle: x1 = 60, y1 = 6, x2 = 60, y2 = 6. S = 0.000000. Color = green
+857: It is Rectangle: x1 = 43, y1 = 12, x2 = 81, y2 = 37. S = 950.000000. Color = blue
+858: It is Circle: x = 13, y = 80, R = 90. S = 25434.000000. Color = blue
+859: It is Rectangle: x1 = 62, y1 = 53, x2 = 64, y2 = 35. S = 36.000000. Color = green
+860: It is Triangle: x1 = 32, y1 = 41, x2 = 10, y2 = 22, x3 = 74, y3 = 12. S = 718.000000. Color = light blue
+861: It is Circle: x = 24, y = 14, R = 35. S = 3847.000000. Color = yellow
+862: It is Rectangle: x1 = 92, y1 = 75, x2 = 47, y2 = 73. S = 90.000000. Color = red
+863: It is Rectangle: x1 = 48, y1 = 75, x2 = 8, y2 = 89. S = 560.000000. Color = green
+864: It is Rectangle: x1 = 50, y1 = 49, x2 = 10, y2 = 85. S = 1440.000000. Color = blue
+865: It is Circle: x = 68, y = 94, R = 75. S = 17663.000000. Color = red
+866: It is Triangle: x1 = 39, y1 = 98, x2 = 94, y2 = 14, x3 = 11, y3 = 80. S = 1671.000000. Color = blue
+867: It is Triangle: x1 = 72, y1 = 20, x2 = 92, y2 = 96, x3 = 82, y3 = 20. S = 380.000000. Color = yellow
+868: It is Circle: x = 79, y = 83, R = 4. S = 50.000000. Color = green
+869: It is Circle: x = 52, y = 86, R = 69. S = 14950.000000. Color = blue
+870: It is Rectangle: x1 = 36, y1 = 3, x2 = 78, y2 = 77. S = 3108.000000. Color = green
+871: It is Triangle: x1 = 74, y1 = 68, x2 = 81, y2 = 85, x3 = 47, y3 = 78. S = 264.000000. Color = red
+872: It is Rectangle: x1 = 49, y1 = 21, x2 = 65, y2 = 82. S = 976.000000. Color = blue
+873: It is Rectangle: x1 = 89, y1 = 70, x2 = 42, y2 = 45. S = 1175.000000. Color = red
+874: It is Rectangle: x1 = 96, y1 = 79, x2 = 42, y2 = 53. S = 1404.000000. Color = purple
+875: It is Rectangle: x1 = 8, y1 = 10, x2 = 6, y2 = 29. S = 38.000000. Color = light blue
+876: It is Circle: x = 96, y = 9, R = 63. S = 12463.000000. Color = orange
+877: It is Triangle: x1 = 44, y1 = 64, x2 = 86, y2 = 64, x3 = 81, y3 = 67. S = 63.000000. Color = light blue
+878: It is Rectangle: x1 = 56, y1 = 76, x2 = 80, y2 = 100. S = 576.000000. Color = purple
+879: It is Circle: x = 47, y = 99, R = 98. S = 30157.000000. Color = light blue
+880: It is Triangle: x1 = 27, y1 = 59, x2 = 41, y2 = 84, x3 = 39, y3 = 70. S = 73.000000. Color = orange
+881: It is Circle: x = 78, y = 77, R = 81. S = 20602.000000. Color = blue
+882: It is Rectangle: x1 = 96, y1 = 1, x2 = 36, y2 = 76. S = 4500.000000. Color = yellow
+883: It is Circle: x = 67, y = 75, R = 66. S = 13678.000000. Color = purple
+884: It is Triangle: x1 = 86, y1 = 3, x2 = 24, y2 = 37, x3 = 52, y3 = 75. S = 1654.000000. Color = orange
+885: It is Triangle: x1 = 85, y1 = 8, x2 = 13, y2 = 76, x3 = 77, y3 = 27. S = 412.000000. Color = red
+886: It is Circle: x = 3, y = 94, R = 74. S = 17195.000000. Color = blue
+887: It is Triangle: x1 = 26, y1 = 9, x2 = 17, y2 = 45, x3 = 51, y3 = 35. S = 567.000000. Color = red
+888: It is Rectangle: x1 = 32, y1 = 96, x2 = 53, y2 = 86. S = 210.000000. Color = light blue
+889: It is Triangle: x1 = 38, y1 = 46, x2 = 8, y2 = 67, x3 = 83, y3 = 16. S = 22.000000. Color = red
+890: It is Circle: x = 44, y = 58, R = 19. S = 1134.000000. Color = green
+891: It is Triangle: x1 = 64, y1 = 75, x2 = 85, y2 = 4, x3 = 1, y3 = 94. S = 2037.000000. Color = green
+892: It is Rectangle: x1 = 44, y1 = 6, x2 = 68, y2 = 11. S = 120.000000. Color = green
+893: It is Rectangle: x1 = 15, y1 = 23, x2 = 34, y2 = 4. S = 361.000000. Color = red
+894: It is Rectangle: x1 = 11, y1 = 79, x2 = 14, y2 = 78. S = 3.000000. Color = blue
+895: It is Rectangle: x1 = 74, y1 = 19, x2 = 93, y2 = 75. S = 1064.000000. Color = red
+896: It is Rectangle: x1 = 2, y1 = 14, x2 = 59, y2 = 54. S = 2280.000000. Color = yellow
+897: It is Triangle: x1 = 50, y1 = 2, x2 = 36, y2 = 17, x3 = 12, y3 = 25. S = 124.000000. Color = purple
+898: It is Rectangle: x1 = 48, y1 = 65, x2 = 82, y2 = 59. S = 204.000000. Color = yellow
+899: It is Triangle: x1 = 89, y1 = 13, x2 = 74, y2 = 98, x3 = 87, y3 = 47. S = 170.000000. Color = yellow
+900: It is Triangle: x1 = 73, y1 = 97, x2 = 86, y2 = 74, x3 = 11, y3 = 97. S = 713.000000. Color = light blue
+901: It is Circle: x = 27, y = 81, R = 71. S = 15829.000000. Color = purple
+902: It is Rectangle: x1 = 34, y1 = 91, x2 = 80, y2 = 12. S = 3634.000000. Color = green
+903: It is Circle: x = 45, y = 48, R = 44. S = 6079.000000. Color = red
+904: It is Triangle: x1 = 9, y1 = 62, x2 = 86, y2 = 95, x3 = 60, y3 = 54. S = 1150.000000. Color = green
+905: It is Circle: x = 50, y = 59, R = 58. S = 10563.000000. Color = light blue
+906: It is Circle: x = 36, y = 81, R = 33. S = 3419.000000. Color = blue
+907: It is Triangle: x1 = 99, y1 = 65, x2 = 88, y2 = 89, x3 = 96, y3 = 100. S = 156.000000. Color = blue
+908: It is Triangle: x1 = 44, y1 = 77, x2 = 88, y2 = 84, x3 = 13, y3 = 96. S = 526.000000. Color = orange
+909: It is Circle: x = 90, y = 4, R = 56. S = 9847.000000. Color = green
+910: It is Triangle: x1 = 57, y1 = 26, x2 = 45, y2 = 69, x3 = 32, y3 = 80. S = 214.000000. Color = light blue
+911: It is Triangle: x1 = 48, y1 = 55, x2 = 67, y2 = 64, x3 = 42, y3 = 7. S = 429.000000. Color = blue
+912: It is Circle: x = 36, y = 3, R = 37. S = 4299.000000. Color = orange
+913: It is Rectangle: x1 = 20, y1 = 77, x2 = 85, y2 = 17. S = 3900.000000. Color = orange
+914: It is Triangle: x1 = 72, y1 = 34, x2 = 93, y2 = 59, x3 = 90, y3 = 18. S = 393.000000. Color = blue
+915: It is Rectangle: x1 = 1, y1 = 35, x2 = 62, y2 = 17. S = 1098.000000. Color = red
+916: It is Rectangle: x1 = 35, y1 = 49, x2 = 58, y2 = 41. S = 184.000000. Color = blue
+917: It is Triangle: x1 = 76, y1 = 61, x2 = 38, y2 = 40, x3 = 50, y3 = 58. S = 216.000000. Color = purple
+918: It is Triangle: x1 = 26, y1 = 94, x2 = 12, y2 = 97, x3 = 27, y3 = 4. S = 628.000000. Color = orange
+919: It is Rectangle: x1 = 73, y1 = 62, x2 = 30, y2 = 73. S = 473.000000. Color = green
+920: It is Rectangle: x1 = 42, y1 = 33, x2 = 59, y2 = 28. S = 85.000000. Color = green
+921: It is Rectangle: x1 = 21, y1 = 40, x2 = 17, y2 = 96. S = 224.000000. Color = blue
+922: It is Triangle: x1 = 35, y1 = 2, x2 = 64, y2 = 2, x3 = 87, y3 = 41. S = 566.000000. Color = blue
+923: It is Triangle: x1 = 89, y1 = 25, x2 = 53, y2 = 96, x3 = 93, y3 = 77. S = 1078.000000. Color = orange
+924: It is Rectangle: x1 = 2, y1 = 57, x2 = 64, y2 = 95. S = 2356.000000. Color = purple
+925: It is Rectangle: x1 = 22, y1 = 70, x2 = 89, y2 = 42. S = 1876.000000. Color = yellow
+926: It is Triangle: x1 = 90, y1 = 61, x2 = 64, y2 = 76, x3 = 62, y3 = 27. S = 652.000000. Color = yellow
+927: It is Rectangle: x1 = 19, y1 = 76, x2 = 50, y2 = 7. S = 2139.000000. Color = light blue
+928: It is Triangle: x1 = 3, y1 = 93, x2 = 31, y2 = 64, x3 = 18, y3 = 84. S = 92.000000. Color = orange
+929: It is Rectangle: x1 = 78, y1 = 61, x2 = 7, y2 = 51. S = 710.000000. Color = orange
+930: It is Circle: x = 45, y = 43, R = 4. S = 50.000000. Color = orange
+931: It is Circle: x = 67, y = 61, R = 68. S = 14519.000000. Color = red
+932: It is Triangle: x1 = 68, y1 = 63, x2 = 18, y2 = 17, x3 = 22, y3 = 18. S = 67.000000. Color = purple
+933: It is Rectangle: x1 = 62, y1 = 52, x2 = 39, y2 = 79. S = 621.000000. Color = yellow
+934: It is Rectangle: x1 = 11, y1 = 64, x2 = 19, y2 = 17. S = 376.000000. Color = yellow
+935: It is Triangle: x1 = 64, y1 = 11, x2 = 95, y2 = 19, x3 = 96, y3 = 50. S = 476.000000. Color = orange
+936: It is Circle: x = 17, y = 82, R = 50. S = 7850.000000. Color = light blue
+937: It is Triangle: x1 = 67, y1 = 100, x2 = 18, y2 = 84, x3 = 22, y3 = 93. S = 188.000000. Color = orange
+938: It is Triangle: x1 = 31, y1 = 23, x2 = 60, y2 = 40, x3 = 85, y3 = 23. S = 459.000000. Color = red
+939: It is Rectangle: x1 = 89, y1 = 62, x2 = 65, y2 = 99. S = 888.000000. Color = green
+940: It is Triangle: x1 = 46, y1 = 6, x2 = 20, y2 = 54, x3 = 22, y3 = 54. S = 48.000000. Color = purple
+941: It is Circle: x = 50, y = 21, R = 57. S = 10202.000000. Color = purple
+942: It is Rectangle: x1 = 78, y1 = 63, x2 = 100, y2 = 3. S = 1320.000000. Color = green
+943: It is Triangle: x1 = 62, y1 = 84, x2 = 58, y2 = 84, x3 = 94, y3 = 11. S = 146.000000. Color = blue
+944: It is Triangle: x1 = 27, y1 = 23, x2 = 11, y2 = 62, x3 = 69, y3 = 16. S = 763.000000. Color = green
+945: It is Circle: x = 90, y = 86, R = 28. S = 2462.000000. Color = orange
+946: It is Rectangle: x1 = 100, y1 = 3, x2 = 57, y2 = 55. S = 2236.000000. Color = red
+947: It is Triangle: x1 = 6, y1 = 87, x2 = 63, y2 = 79, x3 = 48, y3 = 47. S = 972.000000. Color = green
+948: It is Rectangle: x1 = 40, y1 = 99, x2 = 55, y2 = 46. S = 795.000000. Color = red
+949: It is Circle: x = 57, y = 38, R = 50. S = 7850.000000. Color = green
+950: It is Circle: x = 23, y = 65, R = 8. S = 201.000000. Color = light blue
+951: It is Triangle: x1 = 95, y1 = 1, x2 = 66, y2 = 3, x3 = 55, y3 = 50. S = 670.000000. Color = light blue
+952: It is Triangle: x1 = 36, y1 = 84, x2 = 90, y2 = 83, x3 = 30, y3 = 29. S = 1488.000000. Color = green
+953: It is Rectangle: x1 = 27, y1 = 72, x2 = 67, y2 = 4. S = 2720.000000. Color = red
+954: It is Rectangle: x1 = 93, y1 = 50, x2 = 50, y2 = 63. S = 559.000000. Color = green
+955: It is Rectangle: x1 = 23, y1 = 25, x2 = 77, y2 = 69. S = 2376.000000. Color = green
+956: It is Circle: x = 71, y = 31, R = 91. S = 26002.000000. Color = red
+957: It is Rectangle: x1 = 26, y1 = 76, x2 = 31, y2 = 60. S = 80.000000. Color = red
+958: It is Rectangle: x1 = 25, y1 = 78, x2 = 38, y2 = 96. S = 234.000000. Color = red
+959: It is Rectangle: x1 = 48, y1 = 22, x2 = 85, y2 = 49. S = 999.000000. Color = green
+960: It is Rectangle: x1 = 72, y1 = 37, x2 = 22, y2 = 96. S = 2950.000000. Color = light blue
+961: It is Rectangle: x1 = 72, y1 = 59, x2 = 12, y2 = 2. S = 3420.000000. Color = purple
+962: It is Circle: x = 43, y = 27, R = 31. S = 3018.000000. Color = orange
+963: It is Rectangle: x1 = 39, y1 = 83, x2 = 63, y2 = 68. S = 360.000000. Color = blue
+964: It is Triangle: x1 = 63, y1 = 12, x2 = 9, y2 = 36, x3 = 49, y3 = 57. S = 1047.000000. Color = green
+965: It is Rectangle: x1 = 28, y1 = 95, x2 = 21, y2 = 23. S = 504.000000. Color = red
+966: It is Circle: x = 94, y = 71, R = 73. S = 16733.000000. Color = yellow
+967: It is Circle: x = 28, y = 89, R = 50. S = 7850.000000. Color = blue
+968: It is Rectangle: x1 = 88, y1 = 49, x2 = 43, y2 = 2. S = 2115.000000. Color = purple
+969: It is Rectangle: x1 = 63, y1 = 31, x2 = 78, y2 = 71. S = 600.000000. Color = blue
+970: It is Circle: x = 27, y = 24, R = 77. S = 18617.000000. Color = green
+971: It is Circle: x = 49, y = 28, R = 82. S = 21113.000000. Color = orange
+972: It is Rectangle: x1 = 52, y1 = 35, x2 = 19, y2 = 75. S = 1320.000000. Color = orange
+973: It is Circle: x = 25, y = 24, R = 19. S = 1134.000000. Color = green
+974: It is Rectangle: x1 = 14, y1 = 66, x2 = 39, y2 = 28. S = 950.000000. Color = blue
+975: It is Triangle: x1 = 57, y1 = 99, x2 = 39, y2 = 83, x3 = 77, y3 = 62. S = 493.000000. Color = orange
+976: It is Triangle: x1 = 32, y1 = 60, x2 = 10, y2 = 66, x3 = 21, y3 = 83. S = 220.000000. Color = yellow
+977: It is Triangle: x1 = 1, y1 = 44, x2 = 21, y2 = 8, x3 = 20, y3 = 44. S = 342.000000. Color = purple
+978: It is Triangle: x1 = 67, y1 = 91, x2 = 48, y2 = 57, x3 = 18, y3 = 76. S = 690.000000. Color = purple
+979: It is Triangle: x1 = 26, y1 = 68, x2 = 9, y2 = 2, x3 = 29, y3 = 71. S = 74.000000. Color = blue
+980: It is Rectangle: x1 = 30, y1 = 94, x2 = 30, y2 = 51. S = 0.000000. Color = orange
+981: It is Rectangle: x1 = 5, y1 = 28, x2 = 93, y2 = 25. S = 264.000000. Color = red
+982: It is Rectangle: x1 = 20, y1 = 65, x2 = 95, y2 = 38. S = 2025.000000. Color = green
+983: It is Circle: x = 47, y = 25, R = 69. S = 14950.000000. Color = purple
+984: It is Rectangle: x1 = 94, y1 = 43, x2 = 11, y2 = 48. S = 415.000000. Color = green
+985: It is Triangle: x1 = 31, y1 = 87, x2 = 11, y2 = 24, x3 = 16, y3 = 61. S = 212.000000. Color = blue
+986: It is Triangle: x1 = 17, y1 = 79, x2 = 58, y2 = 94, x3 = 65, y3 = 70. S = 544.000000. Color = purple
+987: It is Triangle: x1 = 64, y1 = 3, x2 = 36, y2 = 5, x3 = 1, y3 = 60. S = 735.000000. Color = yellow
+988: It is Triangle: x1 = 62, y1 = 71, x2 = 70, y2 = 72, x3 = 18, y3 = 44. S = 86.000000. Color = green
+989: It is Rectangle: x1 = 31, y1 = 62, x2 = 24, y2 = 46. S = 112.000000. Color = yellow
+990: It is Rectangle: x1 = 63, y1 = 91, x2 = 57, y2 = 21. S = 420.000000. Color = light blue
+991: It is Rectangle: x1 = 90, y1 = 100, x2 = 2, y2 = 53. S = 4136.000000. Color = green
+992: It is Circle: x = 9, y = 54, R = 100. S = 31400.000000. Color = light blue
+993: It is Rectangle: x1 = 61, y1 = 5, x2 = 50, y2 = 32. S = 297.000000. Color = blue
+994: It is Triangle: x1 = 83, y1 = 74, x2 = 24, y2 = 97, x3 = 98, y3 = 21. S = 1391.000000. Color = yellow
+995: It is Rectangle: x1 = 84, y1 = 12, x2 = 32, y2 = 56. S = 2288.000000. Color = green
+996: It is Triangle: x1 = 45, y1 = 47, x2 = 57, y2 = 49, x3 = 100, y3 = 45. S = 67.000000. Color = purple
+997: It is Circle: x = 44, y = 43, R = 34. S = 3630.000000. Color = purple
+998: It is Rectangle: x1 = 84, y1 = 35, x2 = 24, y2 = 29. S = 360.000000. Color = purple
+999: It is Circle: x = 4, y = 66, R = 47. S = 6936.000000. Color = orange

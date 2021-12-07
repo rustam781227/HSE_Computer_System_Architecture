@@ -1,0 +1,4 @@
+Filled container:
+0: It is Rectangle: x1 = 1, y1 = 3, x2 = 4, y2 = 7. S = 12.000000. Color = green
+1: It is Triangle: x1 = 0, y1 = 0, x2 = 0, y2 = 4, x3 = 3, y3 = 0. S = 6.000000. Color = orange
+2: It is Circle: x = 3, y = 4, R = 5. S = 79.000000. Color = red
