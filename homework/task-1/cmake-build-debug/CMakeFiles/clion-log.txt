@@ -1,0 +1,4 @@
+"A:\Program Files (x86)\CLion\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" A:\Study\Coding\C++\ACS_HW1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: A:/Study/Coding/C++/ACS_HW1/cmake-build-debug
