@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+A:/Study/Coding/C++/ACS_HW2/container.cpp
+container.h
+A:/Study/Coding/C++/ACS_HW2/container.h
+iostream
+-
+
+A:/Study/Coding/C++/ACS_HW2/container.h
+shape.h
+A:/Study/Coding/C++/ACS_HW2/shape.h
+
+A:/Study/Coding/C++/ACS_HW2/main.cpp
+iostream
+-
+fstream
+-
+cstdlib
+-
+cstring
+-
+time.h
+-
+container.h
+A:/Study/Coding/C++/ACS_HW2/container.h
+
+A:/Study/Coding/C++/ACS_HW2/rnd.h
+cstdlib
+-
+
+A:/Study/Coding/C++/ACS_HW2/shape.h
+fstream
+-
+rnd.h
+A:/Study/Coding/C++/ACS_HW2/rnd.h
+
